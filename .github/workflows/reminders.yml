@@ -2,8 +2,10 @@ name: CF Data + Outbox
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
+    - cron: '13 */2 * * *'    # backup schedule: every 2h at :13 (off-peak to reduce GH cron lag)
   workflow_dispatch:
+  repository_dispatch:
+    types: [send-outbox]      # routine fires this immediately after creating drafts
 
 permissions:
   contents: write
