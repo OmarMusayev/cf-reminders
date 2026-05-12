@@ -1,12 +1,12 @@
 {
   "base_rating": 852,
   "effective_rating": 852,
-  "fetched_at": "2026-05-12T06:46:32.554605+00:00",
+  "fetched_at": "2026-05-12T10:40:55.668641+00:00",
   "rating_boost": 0,
   "stretch_stats": {
-    "attempts": 2,
+    "attempts": 3,
     "rate": 1.0,
-    "solved": 2,
+    "solved": 3,
     "window_days": 14
   },
   "tag_stats": {
@@ -26,9 +26,9 @@
       "solved": 2
     },
     "constructive algorithms": {
-      "attempted": 3,
+      "attempted": 4,
       "rate": 1.0,
-      "solved": 3
+      "solved": 4
     },
     "games": {
       "attempted": 1,
@@ -41,9 +41,9 @@
       "solved": 3
     },
     "implementation": {
-      "attempted": 3,
+      "attempted": 4,
       "rate": 1.0,
-      "solved": 3
+      "solved": 4
     },
     "math": {
       "attempted": 5,
@@ -56,6 +56,11 @@
       "solved": 1
     },
     "strings": {
+      "attempted": 1,
+      "rate": 1.0,
+      "solved": 1
+    },
+    "trees": {
       "attempted": 1,
       "rate": 1.0,
       "solved": 1
