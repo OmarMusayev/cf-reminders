@@ -1,6 +1,80 @@
 {
-  "fetched_at": "2026-05-12T02:13:05.245227+00:00",
+  "fetched_at": "2026-05-12T04:02:47.913986+00:00",
   "submissions": [
+    {
+      "contestId": 2218,
+      "creationTimeSeconds": 1778556422,
+      "id": 374244647,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 2218,
+        "index": "D",
+        "name": "The 67th OEIS Problem",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "number theory"
+        ]
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 2218,
+      "creationTimeSeconds": 1778556255,
+      "id": 374244512,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 2218,
+        "index": "D",
+        "name": "The 67th OEIS Problem",
+        "rating": 1100,
+        "tags": [
+          "constructive algorithms",
+          "greedy",
+          "math",
+          "number theory"
+        ]
+      },
+      "verdict": "RUNTIME_ERROR"
+    },
+    {
+      "contestId": 2218,
+      "creationTimeSeconds": 1778553627,
+      "id": 374242632,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 2218,
+        "index": "A",
+        "name": "The 67th Integer Problem",
+        "rating": 800,
+        "tags": [
+          "brute force",
+          "games",
+          "implementation",
+          "math"
+        ]
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 2218,
+      "creationTimeSeconds": 1778552612,
+      "id": 374241917,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 2218,
+        "index": "B",
+        "name": "The 67th 6-7 Integer Problem",
+        "rating": 800,
+        "tags": [
+          "greedy",
+          "math"
+        ]
+      },
+      "verdict": "OK"
+    },
     {
       "contestId": 1567,
       "creationTimeSeconds": 1778551159,

@@ -1,34 +1,49 @@
 {
   "base_rating": 852,
   "effective_rating": 852,
-  "fetched_at": "2026-05-12T02:13:05.245227+00:00",
+  "fetched_at": "2026-05-12T04:02:47.913986+00:00",
   "rating_boost": 0,
   "stretch_stats": {
-    "attempts": 0,
-    "rate": null,
-    "solved": 0,
+    "attempts": 1,
+    "rate": 1.0,
+    "solved": 1,
     "window_days": 14
   },
   "tag_stats": {
-    "constructive algorithms": {
-      "attempted": 2,
-      "rate": 1.0,
-      "solved": 2
-    },
-    "greedy": {
+    "brute force": {
       "attempted": 1,
       "rate": 1.0,
       "solved": 1
     },
-    "implementation": {
-      "attempted": 2,
+    "constructive algorithms": {
+      "attempted": 3,
       "rate": 1.0,
-      "solved": 2
+      "solved": 3
+    },
+    "games": {
+      "attempted": 1,
+      "rate": 1.0,
+      "solved": 1
+    },
+    "greedy": {
+      "attempted": 3,
+      "rate": 1.0,
+      "solved": 3
+    },
+    "implementation": {
+      "attempted": 3,
+      "rate": 1.0,
+      "solved": 3
     },
     "math": {
-      "attempted": 2,
+      "attempted": 5,
       "rate": 1.0,
-      "solved": 2
+      "solved": 5
+    },
+    "number theory": {
+      "attempted": 1,
+      "rate": 1.0,
+      "solved": 1
     },
     "strings": {
       "attempted": 1,
