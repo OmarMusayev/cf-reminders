@@ -1,6 +1,40 @@
 {
-  "fetched_at": "2026-05-12T18:15:40.708667+00:00",
+  "fetched_at": "2026-05-12T21:37:53.127022+00:00",
   "submissions": [
+    {
+      "contestId": 2218,
+      "creationTimeSeconds": 1778616760,
+      "id": 374331660,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 2218,
+        "index": "G",
+        "name": "The 67th Iteration of \"Counting is Fun\"",
+        "rating": 1800,
+        "tags": [
+          "implementation",
+          "math"
+        ]
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 2218,
+      "creationTimeSeconds": 1778616665,
+      "id": 374331571,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 2218,
+        "index": "G",
+        "name": "The 67th Iteration of \"Counting is Fun\"",
+        "rating": 1800,
+        "tags": [
+          "implementation",
+          "math"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
     {
       "contestId": 2218,
       "creationTimeSeconds": 1778569118,

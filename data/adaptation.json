@@ -1,12 +1,12 @@
 {
   "base_rating": 852,
   "effective_rating": 852,
-  "fetched_at": "2026-05-12T18:15:40.708667+00:00",
+  "fetched_at": "2026-05-12T21:37:53.127022+00:00",
   "rating_boost": 0,
   "stretch_stats": {
-    "attempts": 3,
+    "attempts": 4,
     "rate": 1.0,
-    "solved": 3,
+    "solved": 4,
     "window_days": 14
   },
   "tag_stats": {
@@ -41,14 +41,14 @@
       "solved": 3
     },
     "implementation": {
-      "attempted": 4,
-      "rate": 1.0,
-      "solved": 4
-    },
-    "math": {
       "attempted": 5,
       "rate": 1.0,
       "solved": 5
+    },
+    "math": {
+      "attempted": 6,
+      "rate": 1.0,
+      "solved": 6
     },
     "number theory": {
       "attempted": 1,
