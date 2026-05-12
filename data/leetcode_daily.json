@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-12",
+  "difficulty": "Hard",
+  "fetched_at": "2026-05-12T02:13:05.245227+00:00",
+  "id": "1665",
+  "slug": "minimum-initial-energy-to-finish-tasks",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "title": "Minimum Initial Energy to Finish Tasks",
+  "url": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/"
+}

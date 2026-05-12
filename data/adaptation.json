@@ -1,0 +1,39 @@
+{
+  "base_rating": 852,
+  "effective_rating": 852,
+  "fetched_at": "2026-05-12T02:13:05.245227+00:00",
+  "rating_boost": 0,
+  "stretch_stats": {
+    "attempts": 0,
+    "rate": null,
+    "solved": 0,
+    "window_days": 14
+  },
+  "tag_stats": {
+    "constructive algorithms": {
+      "attempted": 2,
+      "rate": 1.0,
+      "solved": 2
+    },
+    "greedy": {
+      "attempted": 1,
+      "rate": 1.0,
+      "solved": 1
+    },
+    "implementation": {
+      "attempted": 2,
+      "rate": 1.0,
+      "solved": 2
+    },
+    "math": {
+      "attempted": 2,
+      "rate": 1.0,
+      "solved": 2
+    },
+    "strings": {
+      "attempted": 1,
+      "rate": 1.0,
+      "solved": 1
+    }
+  }
+}
