@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-12",
-  "difficulty": "Hard",
-  "fetched_at": "2026-05-12T23:16:34.167334+00:00",
-  "id": "1665",
-  "slug": "minimum-initial-energy-to-finish-tasks",
+  "date": "2026-05-13",
+  "difficulty": "Medium",
+  "fetched_at": "2026-05-13T04:10:21.852768+00:00",
+  "id": "1674",
+  "slug": "minimum-moves-to-make-array-complementary",
   "tags": [
     "Array",
-    "Greedy",
-    "Sorting"
+    "Hash Table",
+    "Prefix Sum"
   ],
-  "title": "Minimum Initial Energy to Finish Tasks",
-  "url": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/"
+  "title": "Minimum Moves to Make Array Complementary",
+  "url": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary/"
 }
