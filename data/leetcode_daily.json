@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-13",
-  "difficulty": "Medium",
-  "fetched_at": "2026-05-13T23:19:45.612648+00:00",
-  "id": "1674",
-  "slug": "minimum-moves-to-make-array-complementary",
+  "date": "2026-05-14",
+  "difficulty": "Easy",
+  "fetched_at": "2026-05-14T04:07:53.265500+00:00",
+  "id": "2784",
+  "slug": "check-if-array-is-good",
   "tags": [
     "Array",
     "Hash Table",
-    "Prefix Sum"
+    "Sorting"
   ],
-  "title": "Minimum Moves to Make Array Complementary",
-  "url": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary/"
+  "title": "Check if Array is Good",
+  "url": "https://leetcode.com/problems/check-if-array-is-good/"
 }
