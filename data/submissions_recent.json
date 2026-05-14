@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-05-14T10:31:14.754849+00:00",
+  "fetched_at": "2026-05-14T14:38:10.316685+00:00",
   "submissions": [
+    {
+      "contestId": 1028,
+      "creationTimeSeconds": 1778756138,
+      "id": 374492095,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1028,
+        "index": "A",
+        "name": "Find Square",
+        "rating": 800,
+        "tags": [
+          "implementation"
+        ]
+      },
+      "verdict": "OK"
+    },
     {
       "contestId": 1807,
       "creationTimeSeconds": 1778752438,
