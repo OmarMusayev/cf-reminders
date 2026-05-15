@@ -1,6 +1,62 @@
 {
-  "fetched_at": "2026-05-15T17:51:04.315341+00:00",
+  "fetched_at": "2026-05-15T19:52:13.895683+00:00",
   "submissions": [
+    {
+      "contestId": 1451,
+      "creationTimeSeconds": 1778872227,
+      "id": 374652717,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1451,
+        "index": "B",
+        "name": "Non-Substring Subsequence",
+        "rating": 900,
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation",
+          "strings"
+        ]
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 1451,
+      "creationTimeSeconds": 1778872189,
+      "id": 374652674,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1451,
+        "index": "B",
+        "name": "Non-Substring Subsequence",
+        "rating": 900,
+        "tags": [
+          "dp",
+          "greedy",
+          "implementation",
+          "strings"
+        ]
+      },
+      "verdict": "COMPILATION_ERROR"
+    },
+    {
+      "contestId": 1870,
+      "creationTimeSeconds": 1778869643,
+      "id": 374648956,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1870,
+        "index": "B",
+        "name": "Friendly Arrays",
+        "rating": 1200,
+        "tags": [
+          "bitmasks",
+          "greedy",
+          "math"
+        ]
+      },
+      "verdict": "OK"
+    },
     {
       "contestId": 1028,
       "creationTimeSeconds": 1778756138,

@@ -1,12 +1,12 @@
 {
   "base_rating": 852,
   "effective_rating": 902,
-  "fetched_at": "2026-05-15T17:51:04.315341+00:00",
+  "fetched_at": "2026-05-15T19:52:13.895683+00:00",
   "rating_boost": 50,
   "stretch_stats": {
-    "attempts": 5,
+    "attempts": 6,
     "rate": 1.0,
-    "solved": 5,
+    "solved": 6,
     "window_days": 14
   },
   "tag_stats": {
@@ -21,9 +21,9 @@
       "solved": 1
     },
     "bitmasks": {
-      "attempted": 1,
+      "attempted": 2,
       "rate": 1.0,
-      "solved": 1
+      "solved": 2
     },
     "brute force": {
       "attempted": 3,
@@ -40,25 +40,30 @@
       "rate": 1.0,
       "solved": 3
     },
+    "dp": {
+      "attempted": 1,
+      "rate": 1.0,
+      "solved": 1
+    },
     "games": {
       "attempted": 1,
       "rate": 1.0,
       "solved": 1
     },
     "greedy": {
-      "attempted": 6,
+      "attempted": 8,
       "rate": 1.0,
-      "solved": 6
+      "solved": 8
     },
     "implementation": {
-      "attempted": 10,
+      "attempted": 11,
       "rate": 1.0,
-      "solved": 10
+      "solved": 11
     },
     "math": {
-      "attempted": 7,
+      "attempted": 8,
       "rate": 1.0,
-      "solved": 7
+      "solved": 8
     },
     "number theory": {
       "attempted": 1,
@@ -71,9 +76,9 @@
       "solved": 1
     },
     "strings": {
-      "attempted": 2,
+      "attempted": 3,
       "rate": 1.0,
-      "solved": 2
+      "solved": 3
     },
     "trees": {
       "attempted": 1,
