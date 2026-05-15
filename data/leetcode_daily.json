@@ -1,14 +1,13 @@
 {
-  "date": "2026-05-14",
-  "difficulty": "Easy",
-  "fetched_at": "2026-05-14T23:10:50.265544+00:00",
-  "id": "2784",
-  "slug": "check-if-array-is-good",
+  "date": "2026-05-15",
+  "difficulty": "Medium",
+  "fetched_at": "2026-05-15T04:08:00.443895+00:00",
+  "id": "153",
+  "slug": "find-minimum-in-rotated-sorted-array",
   "tags": [
     "Array",
-    "Hash Table",
-    "Sorting"
+    "Binary Search"
   ],
-  "title": "Check if Array is Good",
-  "url": "https://leetcode.com/problems/check-if-array-is-good/"
+  "title": "Find Minimum in Rotated Sorted Array",
+  "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
 }
