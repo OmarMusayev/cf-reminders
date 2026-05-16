@@ -1,6 +1,68 @@
 {
-  "fetched_at": "2026-05-16T13:56:45.639933+00:00",
+  "fetched_at": "2026-05-16T15:13:45.332170+00:00",
   "submissions": [
+    {
+      "contestId": 2228,
+      "creationTimeSeconds": 1778943803,
+      "id": 374772025,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2228,
+        "index": "B",
+        "name": "Remilia Plays Soku",
+        "rating": null,
+        "tags": []
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 2228,
+      "creationTimeSeconds": 1778942736,
+      "id": 374752380,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2228,
+        "index": "A",
+        "name": "Marisa Steals Reimu's Takeout",
+        "rating": null,
+        "tags": []
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 1392,
+      "creationTimeSeconds": 1778940140,
+      "id": 374737489,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1392,
+        "index": "C",
+        "name": "Omkar and Waterslide",
+        "rating": 1200,
+        "tags": [
+          "greedy",
+          "implementation"
+        ]
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 1392,
+      "creationTimeSeconds": 1778940026,
+      "id": 374737305,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1392,
+        "index": "C",
+        "name": "Omkar and Waterslide",
+        "rating": 1200,
+        "tags": [
+          "greedy",
+          "implementation"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
     {
       "contestId": 1451,
       "creationTimeSeconds": 1778872227,
