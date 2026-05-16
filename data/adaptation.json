@@ -1,7 +1,7 @@
 {
   "base_rating": 1146,
   "effective_rating": 1146,
-  "fetched_at": "2026-05-16T21:02:01.562393+00:00",
+  "fetched_at": "2026-05-16T23:04:28.425635+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 2,
@@ -16,9 +16,9 @@
       "solved": 1
     },
     "binary search": {
-      "attempted": 1,
+      "attempted": 2,
       "rate": 1.0,
-      "solved": 1
+      "solved": 2
     },
     "bitmasks": {
       "attempted": 2,
@@ -26,9 +26,9 @@
       "solved": 2
     },
     "brute force": {
-      "attempted": 3,
+      "attempted": 4,
       "rate": 1.0,
-      "solved": 3
+      "solved": 4
     },
     "constructive algorithms": {
       "attempted": 4,
@@ -46,9 +46,9 @@
       "solved": 1
     },
     "dp": {
-      "attempted": 1,
+      "attempted": 2,
       "rate": 1.0,
-      "solved": 1
+      "solved": 2
     },
     "games": {
       "attempted": 2,
