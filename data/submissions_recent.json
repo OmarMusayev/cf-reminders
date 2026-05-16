@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-16T17:12:36.064293+00:00",
+  "fetched_at": "2026-05-16T19:21:24.674711+00:00",
   "submissions": [
     {
       "contestId": 2228,
@@ -15,7 +15,7 @@
           "implementation"
         ]
       },
-      "verdict": null
+      "verdict": "OK"
     },
     {
       "contestId": 2228,
@@ -31,7 +31,7 @@
           "implementation"
         ]
       },
-      "verdict": null
+      "verdict": "OK"
     },
     {
       "contestId": 2228,
@@ -48,7 +48,7 @@
           "implementation"
         ]
       },
-      "verdict": null
+      "verdict": "OK"
     },
     {
       "contestId": 2228,
