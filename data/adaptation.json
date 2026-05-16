@@ -1,7 +1,7 @@
 {
   "base_rating": 852,
   "effective_rating": 902,
-  "fetched_at": "2026-05-16T15:13:45.332170+00:00",
+  "fetched_at": "2026-05-16T17:12:36.064293+00:00",
   "rating_boost": 50,
   "stretch_stats": {
     "attempts": 7,
@@ -46,19 +46,19 @@
       "solved": 1
     },
     "games": {
-      "attempted": 1,
-      "rate": 1.0,
+      "attempted": 2,
+      "rate": 0.5,
       "solved": 1
     },
     "greedy": {
-      "attempted": 9,
+      "attempted": 10,
       "rate": 1.0,
-      "solved": 9
+      "solved": 10
     },
     "implementation": {
-      "attempted": 12,
-      "rate": 1.0,
-      "solved": 12
+      "attempted": 16,
+      "rate": 0.8125,
+      "solved": 13
     },
     "math": {
       "attempted": 8,

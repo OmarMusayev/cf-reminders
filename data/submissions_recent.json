@@ -1,6 +1,38 @@
 {
-  "fetched_at": "2026-05-16T15:13:45.332170+00:00",
+  "fetched_at": "2026-05-16T17:12:36.064293+00:00",
   "submissions": [
+    {
+      "contestId": 2228,
+      "creationTimeSeconds": 1778946728,
+      "id": 374819281,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2228,
+        "index": "C2",
+        "name": "Cirno and Number (Hard Version)",
+        "rating": null,
+        "tags": [
+          "implementation"
+        ]
+      },
+      "verdict": null
+    },
+    {
+      "contestId": 2228,
+      "creationTimeSeconds": 1778946691,
+      "id": 374818790,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2228,
+        "index": "C1",
+        "name": "Cirno and Number (Easy Version)",
+        "rating": null,
+        "tags": [
+          "implementation"
+        ]
+      },
+      "verdict": null
+    },
     {
       "contestId": 2228,
       "creationTimeSeconds": 1778943803,
@@ -11,9 +43,12 @@
         "index": "B",
         "name": "Remilia Plays Soku",
         "rating": null,
-        "tags": []
+        "tags": [
+          "games",
+          "implementation"
+        ]
       },
-      "verdict": "OK"
+      "verdict": null
     },
     {
       "contestId": 2228,
@@ -25,7 +60,10 @@
         "index": "A",
         "name": "Marisa Steals Reimu's Takeout",
         "rating": null,
-        "tags": []
+        "tags": [
+          "greedy",
+          "implementation"
+        ]
       },
       "verdict": "OK"
     },
