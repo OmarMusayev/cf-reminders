@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-16T19:21:24.674711+00:00",
+  "fetched_at": "2026-05-16T21:02:01.562393+00:00",
   "history": [
     {
       "contestId": 1676,
@@ -108,6 +108,15 @@
       "oldRating": 886,
       "rank": 10445,
       "ratingUpdateTimeSeconds": 1683909300
+    },
+    {
+      "contestId": 2228,
+      "contestName": "Codeforces Round 1098 (Div. 2)",
+      "handle": "Omar_Musayev",
+      "newRating": 1146,
+      "oldRating": 852,
+      "rank": 1325,
+      "ratingUpdateTimeSeconds": 1778950200
     }
   ]
 }
