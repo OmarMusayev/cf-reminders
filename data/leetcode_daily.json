@@ -1,13 +1,14 @@
 {
-  "date": "2026-05-16",
-  "difficulty": "Hard",
-  "fetched_at": "2026-05-16T23:04:28.425635+00:00",
-  "id": "154",
-  "slug": "find-minimum-in-rotated-sorted-array-ii",
+  "date": "2026-05-17",
+  "difficulty": "Medium",
+  "fetched_at": "2026-05-17T04:04:27.387800+00:00",
+  "id": "1306",
+  "slug": "jump-game-iii",
   "tags": [
     "Array",
-    "Binary Search"
+    "Depth-First Search",
+    "Breadth-First Search"
   ],
-  "title": "Find Minimum in Rotated Sorted Array II",
-  "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/"
+  "title": "Jump Game III",
+  "url": "https://leetcode.com/problems/jump-game-iii/"
 }
