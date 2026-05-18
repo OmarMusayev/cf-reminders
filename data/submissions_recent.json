@@ -1,6 +1,23 @@
 {
-  "fetched_at": "2026-05-18T15:55:01.235510+00:00",
+  "fetched_at": "2026-05-18T18:09:00.603433+00:00",
   "submissions": [
+    {
+      "contestId": 2230,
+      "creationTimeSeconds": 1779120420,
+      "id": 375137835,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2230,
+        "index": "C",
+        "name": "Arrange the Numbers in a Circle",
+        "rating": null,
+        "tags": [
+          "implementation",
+          "math"
+        ]
+      },
+      "verdict": "OK"
+    },
     {
       "contestId": 2230,
       "creationTimeSeconds": 1779118225,
@@ -11,7 +28,11 @@
         "index": "B",
         "name": "Digit String",
         "rating": null,
-        "tags": []
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ]
       },
       "verdict": "OK"
     },
@@ -25,7 +46,11 @@
         "index": "B",
         "name": "Digit String",
         "rating": null,
-        "tags": []
+        "tags": [
+          "greedy",
+          "implementation",
+          "math"
+        ]
       },
       "verdict": "RUNTIME_ERROR"
     },
@@ -39,7 +64,10 @@
         "index": "A",
         "name": "Optimal Purchase",
         "rating": null,
-        "tags": []
+        "tags": [
+          "implementation",
+          "math"
+        ]
       },
       "verdict": "OK"
     },
