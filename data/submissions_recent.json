@@ -1,6 +1,48 @@
 {
-  "fetched_at": "2026-05-18T10:39:45.002490+00:00",
+  "fetched_at": "2026-05-18T15:55:01.235510+00:00",
   "submissions": [
+    {
+      "contestId": 2230,
+      "creationTimeSeconds": 1779118225,
+      "id": 375120280,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2230,
+        "index": "B",
+        "name": "Digit String",
+        "rating": null,
+        "tags": []
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 2230,
+      "creationTimeSeconds": 1779117752,
+      "id": 375115559,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2230,
+        "index": "B",
+        "name": "Digit String",
+        "rating": null,
+        "tags": []
+      },
+      "verdict": "RUNTIME_ERROR"
+    },
+    {
+      "contestId": 2230,
+      "creationTimeSeconds": 1779116294,
+      "id": 375097725,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2230,
+        "index": "A",
+        "name": "Optimal Purchase",
+        "rating": null,
+        "tags": []
+      },
+      "verdict": "OK"
+    },
     {
       "contestId": 115,
       "creationTimeSeconds": 1778963821,
