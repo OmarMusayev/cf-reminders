@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-17",
-  "difficulty": "Medium",
-  "fetched_at": "2026-05-17T23:10:15.880191+00:00",
-  "id": "1306",
-  "slug": "jump-game-iii",
+  "date": "2026-05-18",
+  "difficulty": "Hard",
+  "fetched_at": "2026-05-18T04:09:53.388250+00:00",
+  "id": "1345",
+  "slug": "jump-game-iv",
   "tags": [
     "Array",
-    "Depth-First Search",
+    "Hash Table",
     "Breadth-First Search"
   ],
-  "title": "Jump Game III",
-  "url": "https://leetcode.com/problems/jump-game-iii/"
+  "title": "Jump Game IV",
+  "url": "https://leetcode.com/problems/jump-game-iv/"
 }
