@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-19T16:25:12.990505+00:00",
+  "fetched_at": "2026-05-19T17:13:09.270138+00:00",
   "history": [
     {
       "contestId": 1676,
@@ -117,6 +117,15 @@
       "oldRating": 852,
       "rank": 1325,
       "ratingUpdateTimeSeconds": 1778950200
+    },
+    {
+      "contestId": 2230,
+      "contestName": "Educational Codeforces Round 190 (Rated for Div. 2)",
+      "handle": "Omar_Musayev",
+      "newRating": 1197,
+      "oldRating": 1146,
+      "rank": 4488,
+      "ratingUpdateTimeSeconds": 1779122100
     }
   ]
 }
