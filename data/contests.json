@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-19T20:06:02.782225+00:00",
+  "fetched_at": "2026-05-19T21:43:10.233070+00:00",
   "upcoming": [
     {
       "durationSeconds": 7200,
@@ -7,7 +7,7 @@
       "id": 2232,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -930547,
+      "relativeTimeSeconds": -924749,
       "startTimeSeconds": 1780151700,
       "type": "CF"
     },
@@ -17,7 +17,7 @@
       "id": 2229,
       "name": "Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -325747,
+      "relativeTimeSeconds": -319949,
       "startTimeSeconds": 1779546900,
       "type": "CF"
     },
@@ -27,7 +27,7 @@
       "id": 2231,
       "name": "Codeforces Round 1099 (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -152947,
+      "relativeTimeSeconds": -147151,
       "startTimeSeconds": 1779374100,
       "type": "CF"
     }
