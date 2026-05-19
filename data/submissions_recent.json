@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-19T04:22:05.904123+00:00",
+  "fetched_at": "2026-05-19T07:48:33.438775+00:00",
   "submissions": [
     {
       "contestId": 2230,
@@ -16,7 +16,7 @@
           "math"
         ]
       },
-      "verdict": "OK"
+      "verdict": null
     },
     {
       "contestId": 2230,
@@ -34,7 +34,7 @@
           "math"
         ]
       },
-      "verdict": "OK"
+      "verdict": null
     },
     {
       "contestId": 2230,
@@ -69,7 +69,7 @@
           "math"
         ]
       },
-      "verdict": "OK"
+      "verdict": null
     },
     {
       "contestId": 115,
@@ -118,6 +118,7 @@
         "name": "Cirno and Number (Hard Version)",
         "rating": null,
         "tags": [
+          "binary search",
           "dp",
           "greedy",
           "implementation"
