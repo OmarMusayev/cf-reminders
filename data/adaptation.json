@@ -1,7 +1,7 @@
 {
   "base_rating": 1146,
   "effective_rating": 1146,
-  "fetched_at": "2026-05-19T10:04:47.133196+00:00",
+  "fetched_at": "2026-05-19T16:25:12.990505+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 2,
@@ -62,18 +62,18 @@
     },
     "greedy": {
       "attempted": 13,
-      "rate": 0.9230769230769231,
-      "solved": 12
+      "rate": 1.0,
+      "solved": 13
     },
     "implementation": {
       "attempted": 19,
-      "rate": 0.8947368421052632,
-      "solved": 17
+      "rate": 1.0,
+      "solved": 19
     },
     "math": {
       "attempted": 11,
-      "rate": 0.8181818181818182,
-      "solved": 9
+      "rate": 1.0,
+      "solved": 11
     },
     "number theory": {
       "attempted": 1,
