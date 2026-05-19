@@ -1,6 +1,23 @@
 {
-  "fetched_at": "2026-05-19T17:13:09.270138+00:00",
+  "fetched_at": "2026-05-19T20:06:02.782225+00:00",
   "submissions": [
+    {
+      "contestId": 1765,
+      "creationTimeSeconds": 1779216792,
+      "id": 375273701,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1765,
+        "index": "E",
+        "name": "Exchange",
+        "rating": 1000,
+        "tags": [
+          "brute force",
+          "math"
+        ]
+      },
+      "verdict": "OK"
+    },
     {
       "contestId": 2230,
       "creationTimeSeconds": 1779120420,
