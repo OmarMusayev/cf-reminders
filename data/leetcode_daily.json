@@ -1,14 +1,15 @@
 {
-  "date": "2026-05-18",
-  "difficulty": "Hard",
-  "fetched_at": "2026-05-18T23:17:39.575960+00:00",
-  "id": "1345",
-  "slug": "jump-game-iv",
+  "date": "2026-05-19",
+  "difficulty": "Easy",
+  "fetched_at": "2026-05-19T04:04:10.452058+00:00",
+  "id": "2540",
+  "slug": "minimum-common-value",
   "tags": [
     "Array",
     "Hash Table",
-    "Breadth-First Search"
+    "Two Pointers",
+    "Binary Search"
   ],
-  "title": "Jump Game IV",
-  "url": "https://leetcode.com/problems/jump-game-iv/"
+  "title": "Minimum Common Value",
+  "url": "https://leetcode.com/problems/minimum-common-value/"
 }
