@@ -1,15 +1,14 @@
 {
-  "date": "2026-05-19",
-  "difficulty": "Easy",
-  "fetched_at": "2026-05-19T23:20:22.158042+00:00",
-  "id": "2540",
-  "slug": "minimum-common-value",
+  "date": "2026-05-20",
+  "difficulty": "Medium",
+  "fetched_at": "2026-05-20T04:10:57.006599+00:00",
+  "id": "2657",
+  "slug": "find-the-prefix-common-array-of-two-arrays",
   "tags": [
     "Array",
     "Hash Table",
-    "Two Pointers",
-    "Binary Search"
+    "Bit Manipulation"
   ],
-  "title": "Minimum Common Value",
-  "url": "https://leetcode.com/problems/minimum-common-value/"
+  "title": "Find the Prefix Common Array of Two Arrays",
+  "url": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/"
 }
