@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-21T16:47:49.675466+00:00",
+  "fetched_at": "2026-05-21T20:07:49.694992+00:00",
   "submissions": [
     {
       "contestId": 2231,
@@ -63,7 +63,7 @@
           "constructive algorithms"
         ]
       },
-      "verdict": null
+      "verdict": "OK"
     },
     {
       "contestId": 2231,
@@ -79,7 +79,7 @@
           "constructive algorithms"
         ]
       },
-      "verdict": null
+      "verdict": "OK"
     },
     {
       "contestId": 1765,

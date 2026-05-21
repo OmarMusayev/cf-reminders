@@ -1,7 +1,7 @@
 {
-  "base_rating": 1197,
-  "effective_rating": 1197,
-  "fetched_at": "2026-05-21T16:47:49.675466+00:00",
+  "base_rating": 1290,
+  "effective_rating": 1290,
+  "fetched_at": "2026-05-21T20:07:49.694992+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 2,
@@ -32,8 +32,8 @@
     },
     "constructive algorithms": {
       "attempted": 7,
-      "rate": 0.7142857142857143,
-      "solved": 5
+      "rate": 1.0,
+      "solved": 7
     },
     "data structures": {
       "attempted": 3,
