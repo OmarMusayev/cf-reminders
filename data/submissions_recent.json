@@ -1,6 +1,86 @@
 {
-  "fetched_at": "2026-05-21T13:30:59.740149+00:00",
+  "fetched_at": "2026-05-21T16:47:49.675466+00:00",
   "submissions": [
+    {
+      "contestId": 2231,
+      "creationTimeSeconds": 1779378776,
+      "id": 375529365,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2231,
+        "index": "C",
+        "name": "Chipmunk Theo and Equality",
+        "rating": null,
+        "tags": [
+          "implementation"
+        ]
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 2231,
+      "creationTimeSeconds": 1779378280,
+      "id": 375524753,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2231,
+        "index": "C",
+        "name": "Chipmunk Theo and Equality",
+        "rating": null,
+        "tags": [
+          "implementation"
+        ]
+      },
+      "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+      "contestId": 2231,
+      "creationTimeSeconds": 1779378016,
+      "id": 375522070,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2231,
+        "index": "C",
+        "name": "Chipmunk Theo and Equality",
+        "rating": null,
+        "tags": [
+          "implementation"
+        ]
+      },
+      "verdict": "TIME_LIMIT_EXCEEDED"
+    },
+    {
+      "contestId": 2231,
+      "creationTimeSeconds": 1779376192,
+      "id": 375502593,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2231,
+        "index": "B",
+        "name": "Another Sorting Problem",
+        "rating": null,
+        "tags": [
+          "constructive algorithms"
+        ]
+      },
+      "verdict": null
+    },
+    {
+      "contestId": 2231,
+      "creationTimeSeconds": 1779374935,
+      "id": 375486710,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2231,
+        "index": "A",
+        "name": "Construct an Array",
+        "rating": null,
+        "tags": [
+          "constructive algorithms"
+        ]
+      },
+      "verdict": null
+    },
     {
       "contestId": 1765,
       "creationTimeSeconds": 1779216792,
