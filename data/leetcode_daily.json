@@ -1,15 +1,13 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "difficulty": "Medium",
-  "fetched_at": "2026-05-21T23:15:56.302278+00:00",
-  "id": "3043",
-  "slug": "find-the-length-of-the-longest-common-prefix",
+  "fetched_at": "2026-05-22T04:33:49.660063+00:00",
+  "id": "33",
+  "slug": "search-in-rotated-sorted-array",
   "tags": [
     "Array",
-    "Hash Table",
-    "String",
-    "Trie"
+    "Binary Search"
   ],
-  "title": "Find the Length of the Longest Common Prefix",
-  "url": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/"
+  "title": "Search in Rotated Sorted Array",
+  "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
 }
