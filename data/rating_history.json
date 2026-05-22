@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-22T12:33:51.890506+00:00",
+  "fetched_at": "2026-05-22T16:35:44.336748+00:00",
   "history": [
     {
       "contestId": 1676,
@@ -104,37 +104,10 @@
       "contestId": 1832,
       "contestName": "Educational Codeforces Round 148 (Rated for Div. 2)",
       "handle": "Omar_Musayev",
-      "newRating": 852,
+      "newRating": 1290,
       "oldRating": 886,
       "rank": 10445,
       "ratingUpdateTimeSeconds": 1683909300
-    },
-    {
-      "contestId": 2228,
-      "contestName": "Codeforces Round 1098 (Div. 2)",
-      "handle": "Omar_Musayev",
-      "newRating": 1146,
-      "oldRating": 852,
-      "rank": 1325,
-      "ratingUpdateTimeSeconds": 1778950200
-    },
-    {
-      "contestId": 2230,
-      "contestName": "Educational Codeforces Round 190 (Rated for Div. 2)",
-      "handle": "Omar_Musayev",
-      "newRating": 1197,
-      "oldRating": 1146,
-      "rank": 4488,
-      "ratingUpdateTimeSeconds": 1779122100
-    },
-    {
-      "contestId": 2231,
-      "contestName": "Codeforces Round 1099 (Div. 2)",
-      "handle": "Omar_Musayev",
-      "newRating": 1290,
-      "oldRating": 1197,
-      "rank": 2985,
-      "ratingUpdateTimeSeconds": 1779381300
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "base_rating": 1290,
   "effective_rating": 1290,
-  "fetched_at": "2026-05-22T12:33:51.890506+00:00",
+  "fetched_at": "2026-05-22T16:35:44.336748+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 2,
@@ -21,9 +21,9 @@
       "solved": 3
     },
     "bitmasks": {
-      "attempted": 2,
+      "attempted": 3,
       "rate": 1.0,
-      "solved": 2
+      "solved": 3
     },
     "brute force": {
       "attempted": 5,
@@ -61,9 +61,9 @@
       "solved": 1
     },
     "greedy": {
-      "attempted": 13,
+      "attempted": 15,
       "rate": 1.0,
-      "solved": 13
+      "solved": 15
     },
     "implementation": {
       "attempted": 20,
@@ -71,9 +71,9 @@
       "solved": 20
     },
     "math": {
-      "attempted": 12,
+      "attempted": 13,
       "rate": 1.0,
-      "solved": 12
+      "solved": 13
     },
     "number theory": {
       "attempted": 1,
