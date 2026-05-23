@@ -1,6 +1,22 @@
 {
-  "fetched_at": "2026-05-23T06:43:23.432527+00:00",
+  "fetched_at": "2026-05-23T10:03:26.967344+00:00",
   "submissions": [
+    {
+      "contestId": 628,
+      "creationTimeSeconds": 1779522366,
+      "id": 375726873,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 628,
+        "index": "B",
+        "name": "New Skateboard",
+        "rating": 1300,
+        "tags": [
+          "dp"
+        ]
+      },
+      "verdict": "OK"
+    },
     {
       "contestId": 1006,
       "creationTimeSeconds": 1779480831,
