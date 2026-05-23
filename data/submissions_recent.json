@@ -1,6 +1,120 @@
 {
-  "fetched_at": "2026-05-23T11:33:42.657905+00:00",
+  "fetched_at": "2026-05-23T14:00:38.012609+00:00",
   "submissions": [
+    {
+      "contestId": 1879,
+      "creationTimeSeconds": 1779538191,
+      "id": 375759066,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1879,
+        "index": "C",
+        "name": "Make it Alternating",
+        "rating": 1300,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "greedy"
+        ]
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 2048,
+      "creationTimeSeconds": 1779538139,
+      "id": 375758974,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 2048,
+        "index": "C",
+        "name": "Kevin and Binary Strings",
+        "rating": 1200,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy",
+          "implementation",
+          "strings"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
+    {
+      "contestId": 2048,
+      "creationTimeSeconds": 1779537877,
+      "id": 375758539,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 2048,
+        "index": "C",
+        "name": "Kevin and Binary Strings",
+        "rating": 1200,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy",
+          "implementation",
+          "strings"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
+    {
+      "contestId": 1879,
+      "creationTimeSeconds": 1779537719,
+      "id": 375758283,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1879,
+        "index": "C",
+        "name": "Make it Alternating",
+        "rating": 1300,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "greedy"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
+    {
+      "contestId": 2048,
+      "creationTimeSeconds": 1779537492,
+      "id": 375757893,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 2048,
+        "index": "C",
+        "name": "Kevin and Binary Strings",
+        "rating": 1200,
+        "tags": [
+          "bitmasks",
+          "brute force",
+          "greedy",
+          "implementation",
+          "strings"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
+    {
+      "contestId": 1879,
+      "creationTimeSeconds": 1779536513,
+      "id": 375756270,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1879,
+        "index": "C",
+        "name": "Make it Alternating",
+        "rating": 1300,
+        "tags": [
+          "combinatorics",
+          "dp",
+          "greedy"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
     {
       "contestId": 1790,
       "creationTimeSeconds": 1779532019,
