@@ -1,6 +1,23 @@
 {
-  "fetched_at": "2026-05-23T10:03:26.967344+00:00",
+  "fetched_at": "2026-05-23T11:33:42.657905+00:00",
   "submissions": [
+    {
+      "contestId": 1790,
+      "creationTimeSeconds": 1779532019,
+      "id": 375747935,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1790,
+        "index": "E",
+        "name": "Vlad and a Pair of Numbers",
+        "rating": 1400,
+        "tags": [
+          "bitmasks",
+          "constructive algorithms"
+        ]
+      },
+      "verdict": "OK"
+    },
     {
       "contestId": 628,
       "creationTimeSeconds": 1779522366,
