@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-23T04:13:05.053465+00:00",
+  "fetched_at": "2026-05-23T06:43:23.432527+00:00",
   "submissions": [
     {
       "contestId": 1006,
@@ -115,7 +115,8 @@
         "name": "Chipmunk Theo and Equality",
         "rating": null,
         "tags": [
-          "implementation"
+          "implementation",
+          "sortings"
         ]
       },
       "verdict": "OK"
@@ -131,7 +132,8 @@
         "name": "Chipmunk Theo and Equality",
         "rating": null,
         "tags": [
-          "implementation"
+          "implementation",
+          "sortings"
         ]
       },
       "verdict": "TIME_LIMIT_EXCEEDED"
@@ -147,7 +149,8 @@
         "name": "Chipmunk Theo and Equality",
         "rating": null,
         "tags": [
-          "implementation"
+          "implementation",
+          "sortings"
         ]
       },
       "verdict": "TIME_LIMIT_EXCEEDED"

@@ -1,7 +1,7 @@
 {
   "base_rating": 1296,
   "effective_rating": 1296,
-  "fetched_at": "2026-05-23T04:13:05.053465+00:00",
+  "fetched_at": "2026-05-23T06:43:23.432527+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 3,
@@ -81,9 +81,9 @@
       "solved": 1
     },
     "sortings": {
-      "attempted": 1,
+      "attempted": 2,
       "rate": 1.0,
-      "solved": 1
+      "solved": 2
     },
     "strings": {
       "attempted": 3,
