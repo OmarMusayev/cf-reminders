@@ -1,12 +1,12 @@
 {
-  "base_rating": 1296,
-  "effective_rating": 1296,
-  "fetched_at": "2026-05-23T17:15:04.582087+00:00",
+  "base_rating": 1415,
+  "effective_rating": 1415,
+  "fetched_at": "2026-05-23T19:35:20.055241+00:00",
   "rating_boost": 0,
   "stretch_stats": {
-    "attempts": 4,
+    "attempts": 1,
     "rate": 1.0,
-    "solved": 4,
+    "solved": 1,
     "window_days": 14
   },
   "tag_stats": {
@@ -16,9 +16,9 @@
       "solved": 1
     },
     "binary search": {
-      "attempted": 4,
+      "attempted": 5,
       "rate": 1.0,
-      "solved": 4
+      "solved": 5
     },
     "bitmasks": {
       "attempted": 5,
@@ -26,9 +26,9 @@
       "solved": 4
     },
     "brute force": {
-      "attempted": 7,
-      "rate": 0.8571428571428571,
-      "solved": 6
+      "attempted": 8,
+      "rate": 0.875,
+      "solved": 7
     },
     "combinatorics": {
       "attempted": 1,
@@ -36,9 +36,9 @@
       "solved": 1
     },
     "constructive algorithms": {
-      "attempted": 8,
+      "attempted": 10,
       "rate": 1.0,
-      "solved": 8
+      "solved": 10
     },
     "data structures": {
       "attempted": 4,
@@ -66,9 +66,9 @@
       "solved": 1
     },
     "greedy": {
-      "attempted": 17,
-      "rate": 0.9411764705882353,
-      "solved": 16
+      "attempted": 20,
+      "rate": 0.95,
+      "solved": 19
     },
     "implementation": {
       "attempted": 21,
@@ -76,9 +76,9 @@
       "solved": 20
     },
     "math": {
-      "attempted": 13,
+      "attempted": 14,
       "rate": 1.0,
-      "solved": 13
+      "solved": 14
     },
     "number theory": {
       "attempted": 1,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-23T17:15:04.582087+00:00",
+  "fetched_at": "2026-05-23T19:35:20.055241+00:00",
   "submissions": [
     {
       "contestId": 2229,
@@ -11,7 +11,10 @@
         "index": "D",
         "name": "Me When Median Problem",
         "rating": null,
-        "tags": []
+        "tags": [
+          "binary search",
+          "greedy"
+        ]
       },
       "verdict": "OK"
     },
@@ -25,7 +28,9 @@
         "index": "C2",
         "name": "We Be Flipping (Hard Version)",
         "rating": null,
-        "tags": []
+        "tags": [
+          "constructive algorithms"
+        ]
       },
       "verdict": "OK"
     },
@@ -39,7 +44,9 @@
         "index": "C1",
         "name": "We Be Flipping (Easy Version)",
         "rating": null,
-        "tags": []
+        "tags": [
+          "constructive algorithms"
+        ]
       },
       "verdict": "OK"
     },
@@ -53,7 +60,9 @@
         "index": "B",
         "name": "Absolute Cinema",
         "rating": null,
-        "tags": []
+        "tags": [
+          "greedy"
+        ]
       },
       "verdict": "OK"
     },
@@ -67,7 +76,11 @@
         "index": "A",
         "name": "Slimes on a Line",
         "rating": null,
-        "tags": []
+        "tags": [
+          "brute force",
+          "greedy",
+          "math"
+        ]
       },
       "verdict": "OK"
     },
