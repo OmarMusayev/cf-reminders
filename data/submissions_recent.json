@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-23T23:08:21.327703+00:00",
+  "fetched_at": "2026-05-24T04:06:07.870034+00:00",
   "submissions": [
     {
       "contestId": 2229,
@@ -61,7 +61,8 @@
         "name": "Absolute Cinema",
         "rating": null,
         "tags": [
-          "greedy"
+          "greedy",
+          "math"
         ]
       },
       "verdict": "OK"

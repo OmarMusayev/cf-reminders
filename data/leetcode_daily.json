@@ -1,12 +1,14 @@
 {
-  "date": "2026-05-23",
-  "difficulty": "Easy",
-  "fetched_at": "2026-05-23T23:08:21.327703+00:00",
-  "id": "1752",
-  "slug": "check-if-array-is-sorted-and-rotated",
+  "date": "2026-05-24",
+  "difficulty": "Hard",
+  "fetched_at": "2026-05-24T04:06:07.870034+00:00",
+  "id": "1340",
+  "slug": "jump-game-v",
   "tags": [
-    "Array"
+    "Array",
+    "Dynamic Programming",
+    "Sorting"
   ],
-  "title": "Check if Array Is Sorted and Rotated",
-  "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/"
+  "title": "Jump Game V",
+  "url": "https://leetcode.com/problems/jump-game-v/"
 }
