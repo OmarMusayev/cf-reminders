@@ -1,7 +1,7 @@
 {
   "base_rating": 1415,
   "effective_rating": 1415,
-  "fetched_at": "2026-05-24T11:40:07.903663+00:00",
+  "fetched_at": "2026-05-24T13:57:01.164153+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 1,
@@ -51,9 +51,9 @@
       "solved": 2
     },
     "dp": {
-      "attempted": 6,
+      "attempted": 7,
       "rate": 1.0,
-      "solved": 6
+      "solved": 7
     },
     "games": {
       "attempted": 2,

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-24T11:40:07.903663+00:00",
+  "fetched_at": "2026-05-24T13:57:01.164153+00:00",
   "submissions": [
     {
       "contestId": 1773,
@@ -64,6 +64,7 @@
         "rating": null,
         "tags": [
           "constructive algorithms",
+          "dp",
           "greedy"
         ]
       },
