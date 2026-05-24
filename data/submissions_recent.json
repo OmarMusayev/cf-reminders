@@ -1,6 +1,40 @@
 {
-  "fetched_at": "2026-05-24T04:36:30.669846+00:00",
+  "fetched_at": "2026-05-24T08:43:50.481847+00:00",
   "submissions": [
+    {
+      "contestId": 1773,
+      "creationTimeSeconds": 1779610646,
+      "id": 375905558,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1773,
+        "index": "E",
+        "name": "Easy Assembly",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "sortings"
+        ]
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 1773,
+      "creationTimeSeconds": 1779610564,
+      "id": 375905447,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1773,
+        "index": "E",
+        "name": "Easy Assembly",
+        "rating": 1400,
+        "tags": [
+          "greedy",
+          "sortings"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
     {
       "contestId": 2229,
       "creationTimeSeconds": 1779554234,
