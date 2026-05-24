@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-24T08:43:50.481847+00:00",
+  "fetched_at": "2026-05-24T11:40:07.903663+00:00",
   "submissions": [
     {
       "contestId": 1773,
@@ -63,7 +63,8 @@
         "name": "We Be Flipping (Hard Version)",
         "rating": null,
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ]
       },
       "verdict": "OK"
@@ -79,7 +80,8 @@
         "name": "We Be Flipping (Easy Version)",
         "rating": null,
         "tags": [
-          "constructive algorithms"
+          "constructive algorithms",
+          "greedy"
         ]
       },
       "verdict": "OK"
