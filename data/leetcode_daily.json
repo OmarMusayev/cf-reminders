@@ -1,14 +1,15 @@
 {
-  "date": "2026-05-24",
-  "difficulty": "Hard",
-  "fetched_at": "2026-05-24T23:12:01.918516+00:00",
-  "id": "1340",
-  "slug": "jump-game-v",
+  "date": "2026-05-25",
+  "difficulty": "Medium",
+  "fetched_at": "2026-05-25T04:13:11.821289+00:00",
+  "id": "1871",
+  "slug": "jump-game-vii",
   "tags": [
-    "Array",
+    "String",
     "Dynamic Programming",
-    "Sorting"
+    "Sliding Window",
+    "Prefix Sum"
   ],
-  "title": "Jump Game V",
-  "url": "https://leetcode.com/problems/jump-game-v/"
+  "title": "Jump Game VII",
+  "url": "https://leetcode.com/problems/jump-game-vii/"
 }
