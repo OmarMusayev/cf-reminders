@@ -1,15 +1,13 @@
 {
-  "date": "2026-05-25",
-  "difficulty": "Medium",
-  "fetched_at": "2026-05-25T23:19:55.098256+00:00",
-  "id": "1871",
-  "slug": "jump-game-vii",
+  "date": "2026-05-26",
+  "difficulty": "Easy",
+  "fetched_at": "2026-05-26T04:13:47.314015+00:00",
+  "id": "3120",
+  "slug": "count-the-number-of-special-characters-i",
   "tags": [
-    "String",
-    "Dynamic Programming",
-    "Sliding Window",
-    "Prefix Sum"
+    "Hash Table",
+    "String"
   ],
-  "title": "Jump Game VII",
-  "url": "https://leetcode.com/problems/jump-game-vii/"
+  "title": "Count the Number of Special Characters I",
+  "url": "https://leetcode.com/problems/count-the-number-of-special-characters-i/"
 }
