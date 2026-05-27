@@ -1,13 +1,13 @@
 {
-  "date": "2026-05-26",
-  "difficulty": "Easy",
-  "fetched_at": "2026-05-26T23:21:17.040805+00:00",
-  "id": "3120",
-  "slug": "count-the-number-of-special-characters-i",
+  "date": "2026-05-27",
+  "difficulty": "Medium",
+  "fetched_at": "2026-05-27T04:09:33.040887+00:00",
+  "id": "3121",
+  "slug": "count-the-number-of-special-characters-ii",
   "tags": [
     "Hash Table",
     "String"
   ],
-  "title": "Count the Number of Special Characters I",
-  "url": "https://leetcode.com/problems/count-the-number-of-special-characters-i/"
+  "title": "Count the Number of Special Characters II",
+  "url": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/"
 }
