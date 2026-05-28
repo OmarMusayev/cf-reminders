@@ -1,13 +1,14 @@
 {
-  "date": "2026-05-27",
-  "difficulty": "Medium",
-  "fetched_at": "2026-05-27T23:37:14.673459+00:00",
-  "id": "3121",
-  "slug": "count-the-number-of-special-characters-ii",
+  "date": "2026-05-28",
+  "difficulty": "Hard",
+  "fetched_at": "2026-05-28T04:10:04.857063+00:00",
+  "id": "3093",
+  "slug": "longest-common-suffix-queries",
   "tags": [
-    "Hash Table",
-    "String"
+    "Array",
+    "String",
+    "Trie"
   ],
-  "title": "Count the Number of Special Characters II",
-  "url": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/"
+  "title": "Longest Common Suffix Queries",
+  "url": "https://leetcode.com/problems/longest-common-suffix-queries/"
 }
