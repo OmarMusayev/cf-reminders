@@ -1,14 +1,13 @@
 {
-  "date": "2026-05-28",
-  "difficulty": "Hard",
-  "fetched_at": "2026-05-28T23:41:28.213158+00:00",
-  "id": "3093",
-  "slug": "longest-common-suffix-queries",
+  "date": "2026-05-29",
+  "difficulty": "Easy",
+  "fetched_at": "2026-05-29T04:10:10.263228+00:00",
+  "id": "3300",
+  "slug": "minimum-element-after-replacement-with-digit-sum",
   "tags": [
     "Array",
-    "String",
-    "Trie"
+    "Math"
   ],
-  "title": "Longest Common Suffix Queries",
-  "url": "https://leetcode.com/problems/longest-common-suffix-queries/"
+  "title": "Minimum Element After Replacement With Digit Sum",
+  "url": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/"
 }
