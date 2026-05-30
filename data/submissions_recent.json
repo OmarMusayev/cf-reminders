@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-30T04:14:34.224669+00:00",
+  "fetched_at": "2026-05-30T08:39:25.403019+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -62,7 +62,7 @@
         "contestId": 2229,
         "index": "D",
         "name": "Me When Median Problem",
-        "rating": null,
+        "rating": 1700,
         "tags": [
           "binary search",
           "greedy"
@@ -79,7 +79,7 @@
         "contestId": 2229,
         "index": "C2",
         "name": "We Be Flipping (Hard Version)",
-        "rating": null,
+        "rating": 1400,
         "tags": [
           "constructive algorithms",
           "dp",
@@ -97,7 +97,7 @@
         "contestId": 2229,
         "index": "C1",
         "name": "We Be Flipping (Easy Version)",
-        "rating": null,
+        "rating": 900,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -114,7 +114,7 @@
         "contestId": 2229,
         "index": "B",
         "name": "Absolute Cinema",
-        "rating": null,
+        "rating": 800,
         "tags": [
           "greedy",
           "math"
@@ -131,7 +131,7 @@
         "contestId": 2229,
         "index": "A",
         "name": "Slimes on a Line",
-        "rating": null,
+        "rating": 800,
         "tags": [
           "brute force",
           "greedy",
@@ -399,7 +399,7 @@
         "contestId": 2231,
         "index": "C",
         "name": "Chipmunk Theo and Equality",
-        "rating": null,
+        "rating": 1400,
         "tags": [
           "implementation",
           "sortings"
@@ -416,7 +416,7 @@
         "contestId": 2231,
         "index": "C",
         "name": "Chipmunk Theo and Equality",
-        "rating": null,
+        "rating": 1400,
         "tags": [
           "implementation",
           "sortings"
@@ -433,7 +433,7 @@
         "contestId": 2231,
         "index": "C",
         "name": "Chipmunk Theo and Equality",
-        "rating": null,
+        "rating": 1400,
         "tags": [
           "implementation",
           "sortings"
@@ -450,7 +450,7 @@
         "contestId": 2231,
         "index": "B",
         "name": "Another Sorting Problem",
-        "rating": null,
+        "rating": 1100,
         "tags": [
           "constructive algorithms"
         ]
@@ -466,7 +466,7 @@
         "contestId": 2231,
         "index": "A",
         "name": "Construct an Array",
-        "rating": null,
+        "rating": 800,
         "tags": [
           "constructive algorithms"
         ]
@@ -499,7 +499,7 @@
         "contestId": 2230,
         "index": "C",
         "name": "Arrange the Numbers in a Circle",
-        "rating": null,
+        "rating": 1300,
         "tags": [
           "constructive algorithms",
           "implementation",
@@ -517,7 +517,7 @@
         "contestId": 2230,
         "index": "B",
         "name": "Digit String",
-        "rating": null,
+        "rating": 1000,
         "tags": [
           "greedy",
           "implementation",
@@ -535,7 +535,7 @@
         "contestId": 2230,
         "index": "B",
         "name": "Digit String",
-        "rating": null,
+        "rating": 1000,
         "tags": [
           "greedy",
           "implementation",
@@ -553,7 +553,7 @@
         "contestId": 2230,
         "index": "A",
         "name": "Optimal Purchase",
-        "rating": null,
+        "rating": 800,
         "tags": [
           "implementation",
           "math"
@@ -606,7 +606,7 @@
         "contestId": 2228,
         "index": "C2",
         "name": "Cirno and Number (Hard Version)",
-        "rating": null,
+        "rating": 1600,
         "tags": [
           "binary search",
           "dfs and similar",
@@ -626,7 +626,7 @@
         "contestId": 2228,
         "index": "C1",
         "name": "Cirno and Number (Easy Version)",
-        "rating": null,
+        "rating": 1500,
         "tags": [
           "binary search",
           "brute force",
@@ -646,7 +646,7 @@
         "contestId": 2228,
         "index": "B",
         "name": "Remilia Plays Soku",
-        "rating": null,
+        "rating": 1100,
         "tags": [
           "games",
           "implementation"
@@ -663,7 +663,7 @@
         "contestId": 2228,
         "index": "A",
         "name": "Marisa Steals Reimu's Takeout",
-        "rating": null,
+        "rating": 800,
         "tags": [
           "greedy",
           "implementation"
