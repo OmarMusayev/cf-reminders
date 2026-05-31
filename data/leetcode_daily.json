@@ -1,15 +1,14 @@
 {
-  "date": "2026-05-30",
-  "difficulty": "Hard",
-  "fetched_at": "2026-05-30T23:12:19.375214+00:00",
-  "id": "3161",
-  "slug": "block-placement-queries",
+  "date": "2026-05-31",
+  "difficulty": "Medium",
+  "fetched_at": "2026-05-31T04:09:58.710217+00:00",
+  "id": "2126",
+  "slug": "destroying-asteroids",
   "tags": [
     "Array",
-    "Binary Search",
-    "Binary Indexed Tree",
-    "Segment Tree"
+    "Greedy",
+    "Sorting"
   ],
-  "title": "Block Placement Queries",
-  "url": "https://leetcode.com/problems/block-placement-queries/"
+  "title": "Destroying Asteroids",
+  "url": "https://leetcode.com/problems/destroying-asteroids/"
 }
