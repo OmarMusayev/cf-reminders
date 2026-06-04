@@ -1,16 +1,14 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "difficulty": "Medium",
-  "fetched_at": "2026-06-03T23:58:25.580519+00:00",
-  "id": "3635",
-  "slug": "earliest-finish-time-for-land-and-water-rides-ii",
+  "fetched_at": "2026-06-04T04:09:22.812962+00:00",
+  "id": "3751",
+  "slug": "total-waviness-of-numbers-in-range-i",
   "tags": [
-    "Array",
-    "Two Pointers",
-    "Binary Search",
-    "Greedy",
-    "Sorting"
+    "Math",
+    "Dynamic Programming",
+    "Enumeration"
   ],
-  "title": "Earliest Finish Time for Land and Water Rides II",
-  "url": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/"
+  "title": "Total Waviness of Numbers in Range I",
+  "url": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/"
 }
