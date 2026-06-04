@@ -1,6 +1,84 @@
 {
-  "fetched_at": "2026-06-04T13:31:15.141408+00:00",
+  "fetched_at": "2026-06-04T17:20:46.080218+00:00",
   "problems": [
+    {
+      "contestId": 2232,
+      "index": "F",
+      "name": "The Cake Is a Lie",
+      "rating": 3000,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2232,
+      "index": "E",
+      "name": "Snaking Arrangement",
+      "rating": 2600,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2232,
+      "index": "D",
+      "name": "Magical Tiered Cake",
+      "rating": 2000,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2232,
+      "index": "C2",
+      "name": "Seating Arrangement (Hard Version)",
+      "rating": 1500,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2232,
+      "index": "C1",
+      "name": "Seating Arrangement (Easy Version)",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "dp",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2232,
+      "index": "B",
+      "name": "Cake Leveling",
+      "rating": 900,
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2232,
+      "index": "A",
+      "name": "Convergence",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "sortings"
+      ]
+    },
     {
       "contestId": 2231,
       "index": "F",
