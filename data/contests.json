@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-05T15:26:37.152127+00:00",
+  "fetched_at": "2026-06-05T18:05:55.613812+00:00",
   "upcoming": [
     {
       "durationSeconds": 7200,
@@ -7,7 +7,7 @@
       "id": 2233,
       "name": "Educational Codeforces Round 191 (Rated for Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -342552,
+      "relativeTimeSeconds": -332945,
       "startTimeSeconds": 1781015700,
       "type": "ICPC"
     },
@@ -17,7 +17,7 @@
       "id": 2234,
       "name": "Codeforces Round 1102 (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -169753,
+      "relativeTimeSeconds": -160146,
       "startTimeSeconds": 1780842900,
       "type": "CF"
     }
