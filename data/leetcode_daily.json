@@ -1,13 +1,15 @@
 {
-  "date": "2026-06-06",
-  "difficulty": "Easy",
-  "fetched_at": "2026-06-06T23:15:38.863862+00:00",
-  "id": "2574",
-  "slug": "left-and-right-sum-differences",
+  "date": "2026-06-07",
+  "difficulty": "Medium",
+  "fetched_at": "2026-06-07T04:08:14.185091+00:00",
+  "id": "2196",
+  "slug": "create-binary-tree-from-descriptions",
   "tags": [
     "Array",
-    "Prefix Sum"
+    "Hash Table",
+    "Tree",
+    "Binary Tree"
   ],
-  "title": "Left and Right Sum Differences",
-  "url": "https://leetcode.com/problems/left-and-right-sum-differences/"
+  "title": "Create Binary Tree From Descriptions",
+  "url": "https://leetcode.com/problems/create-binary-tree-from-descriptions/"
 }
