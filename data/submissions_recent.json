@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-10T04:44:12.121231+00:00",
+  "fetched_at": "2026-06-10T16:05:05.262164+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -1161,24 +1161,6 @@
         ]
       },
       "verdict": "TIME_LIMIT_EXCEEDED"
-    },
-    {
-      "contestId": 2218,
-      "creationTimeSeconds": 1778491182,
-      "id": 374168616,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 2218,
-        "index": "C",
-        "name": "The 67th Permutation Problem",
-        "rating": 800,
-        "tags": [
-          "constructive algorithms",
-          "greedy",
-          "math"
-        ]
-      },
-      "verdict": "OK"
     }
   ]
 }

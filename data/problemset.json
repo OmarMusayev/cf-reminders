@@ -1,6 +1,93 @@
 {
-  "fetched_at": "2026-06-10T04:44:12.121231+00:00",
+  "fetched_at": "2026-06-10T16:05:05.262164+00:00",
   "problems": [
+    {
+      "contestId": 2234,
+      "index": "G",
+      "name": "Stripe, Token and Two Players",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp",
+        "games"
+      ]
+    },
+    {
+      "contestId": 2234,
+      "index": "F",
+      "name": "Vessels, Heights and Two Versions (Hard Version)",
+      "rating": 1900,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2234,
+      "index": "E",
+      "name": "Vlad, Misha and Two Arrays",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dfs and similar",
+        "divide and conquer",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2234,
+      "index": "D",
+      "name": "XOR, Expression and Two Binary Numbers",
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "divide and conquer",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2234,
+      "index": "C",
+      "name": "Vessels, Heights and Two Versions (Easy Version)",
+      "rating": 1200,
+      "tags": [
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2234,
+      "index": "B",
+      "name": "Palindrome, Twelve and Two Terms",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2234,
+      "index": "A",
+      "name": "Euclid, Sequence and Two Numbers",
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory",
+        "sortings"
+      ]
+    },
     {
       "contestId": 2232,
       "index": "F",
