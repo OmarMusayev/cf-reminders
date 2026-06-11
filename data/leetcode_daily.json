@@ -1,15 +1,14 @@
 {
-  "date": "2026-06-10",
-  "difficulty": "Hard",
-  "fetched_at": "2026-06-10T22:19:34.383199+00:00",
-  "id": "3691",
-  "slug": "maximum-total-subarray-value-ii",
+  "date": "2026-06-11",
+  "difficulty": "Medium",
+  "fetched_at": "2026-06-11T04:56:42.669122+00:00",
+  "id": "3558",
+  "slug": "number-of-ways-to-assign-edge-weights-i",
   "tags": [
-    "Array",
-    "Greedy",
-    "Segment Tree",
-    "Heap (Priority Queue)"
+    "Math",
+    "Tree",
+    "Depth-First Search"
   ],
-  "title": "Maximum Total Subarray Value II",
-  "url": "https://leetcode.com/problems/maximum-total-subarray-value-ii/"
+  "title": "Number of Ways to Assign Edge Weights I",
+  "url": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/"
 }

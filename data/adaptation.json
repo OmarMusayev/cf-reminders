@@ -1,7 +1,7 @@
 {
   "base_rating": 1415,
   "effective_rating": 1415,
-  "fetched_at": "2026-06-10T22:19:34.383199+00:00",
+  "fetched_at": "2026-06-11T04:56:42.669122+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -16,19 +16,19 @@
       "solved": 1
     },
     "binary search": {
-      "attempted": 5,
+      "attempted": 4,
       "rate": 1.0,
-      "solved": 5
-    },
-    "bitmasks": {
-      "attempted": 5,
-      "rate": 0.8,
       "solved": 4
     },
+    "bitmasks": {
+      "attempted": 4,
+      "rate": 0.75,
+      "solved": 3
+    },
     "brute force": {
-      "attempted": 8,
-      "rate": 0.875,
-      "solved": 7
+      "attempted": 6,
+      "rate": 0.8333333333333334,
+      "solved": 5
     },
     "combinatorics": {
       "attempted": 1,
@@ -36,9 +36,9 @@
       "solved": 1
     },
     "constructive algorithms": {
-      "attempted": 10,
+      "attempted": 8,
       "rate": 1.0,
-      "solved": 10
+      "solved": 8
     },
     "data structures": {
       "attempted": 5,
@@ -56,9 +56,9 @@
       "solved": 7
     },
     "games": {
-      "attempted": 2,
+      "attempted": 1,
       "rate": 1.0,
-      "solved": 2
+      "solved": 1
     },
     "graphs": {
       "attempted": 1,
@@ -66,24 +66,19 @@
       "solved": 1
     },
     "greedy": {
-      "attempted": 23,
-      "rate": 0.9565217391304348,
-      "solved": 22
-    },
-    "implementation": {
       "attempted": 21,
       "rate": 0.9523809523809523,
       "solved": 20
     },
-    "math": {
-      "attempted": 14,
-      "rate": 1.0,
-      "solved": 14
+    "implementation": {
+      "attempted": 18,
+      "rate": 0.9444444444444444,
+      "solved": 17
     },
-    "number theory": {
-      "attempted": 1,
+    "math": {
+      "attempted": 10,
       "rate": 1.0,
-      "solved": 1
+      "solved": 10
     },
     "sortings": {
       "attempted": 3,
@@ -91,9 +86,9 @@
       "solved": 3
     },
     "strings": {
-      "attempted": 4,
-      "rate": 0.75,
-      "solved": 3
+      "attempted": 3,
+      "rate": 0.6666666666666666,
+      "solved": 2
     },
     "trees": {
       "attempted": 2,
