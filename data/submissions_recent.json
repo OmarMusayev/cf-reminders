@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-11T04:56:42.669122+00:00",
+  "fetched_at": "2026-06-11T10:56:53.729462+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -980,42 +980,6 @@
         ]
       },
       "verdict": "WRONG_ANSWER"
-    },
-    {
-      "contestId": 2218,
-      "creationTimeSeconds": 1778569118,
-      "id": 374256860,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 2218,
-        "index": "F",
-        "name": "The 67th Tree Problem",
-        "rating": 1500,
-        "tags": [
-          "constructive algorithms",
-          "implementation",
-          "trees"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2218,
-      "creationTimeSeconds": 1778568994,
-      "id": 374256675,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 2218,
-        "index": "F",
-        "name": "The 67th Tree Problem",
-        "rating": 1500,
-        "tags": [
-          "constructive algorithms",
-          "implementation",
-          "trees"
-        ]
-      },
-      "verdict": "RUNTIME_ERROR"
     }
   ]
 }
