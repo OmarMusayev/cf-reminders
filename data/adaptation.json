@@ -1,7 +1,7 @@
 {
   "base_rating": 1415,
   "effective_rating": 1415,
-  "fetched_at": "2026-06-11T16:19:05.794018+00:00",
+  "fetched_at": "2026-06-11T20:33:18.413674+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -71,14 +71,14 @@
       "solved": 20
     },
     "implementation": {
-      "attempted": 17,
-      "rate": 0.9411764705882353,
-      "solved": 16
+      "attempted": 16,
+      "rate": 0.9375,
+      "solved": 15
     },
     "math": {
-      "attempted": 10,
+      "attempted": 9,
       "rate": 1.0,
-      "solved": 10
+      "solved": 9
     },
     "sortings": {
       "attempted": 3,
