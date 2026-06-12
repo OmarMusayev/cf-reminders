@@ -1,7 +1,7 @@
 {
   "base_rating": 1415,
   "effective_rating": 1415,
-  "fetched_at": "2026-06-12T04:59:38.188098+00:00",
+  "fetched_at": "2026-06-12T10:38:54.716928+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -10,11 +10,6 @@
     "window_days": 14
   },
   "tag_stats": {
-    "*special": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    },
     "binary search": {
       "attempted": 4,
       "rate": 1.0,
@@ -26,9 +21,9 @@
       "solved": 3
     },
     "brute force": {
-      "attempted": 6,
-      "rate": 0.8333333333333334,
-      "solved": 5
+      "attempted": 5,
+      "rate": 0.8,
+      "solved": 4
     },
     "combinatorics": {
       "attempted": 1,
@@ -41,9 +36,9 @@
       "solved": 7
     },
     "data structures": {
-      "attempted": 5,
+      "attempted": 3,
       "rate": 1.0,
-      "solved": 5
+      "solved": 3
     },
     "dfs and similar": {
       "attempted": 2,
@@ -66,29 +61,29 @@
       "solved": 1
     },
     "greedy": {
-      "attempted": 21,
-      "rate": 0.9523809523809523,
-      "solved": 20
+      "attempted": 18,
+      "rate": 0.9444444444444444,
+      "solved": 17
     },
     "implementation": {
-      "attempted": 16,
-      "rate": 0.9375,
-      "solved": 15
+      "attempted": 13,
+      "rate": 0.9230769230769231,
+      "solved": 12
     },
     "math": {
-      "attempted": 9,
+      "attempted": 8,
       "rate": 1.0,
-      "solved": 9
+      "solved": 8
     },
     "sortings": {
-      "attempted": 3,
+      "attempted": 2,
       "rate": 1.0,
-      "solved": 3
+      "solved": 2
     },
     "strings": {
-      "attempted": 3,
-      "rate": 0.6666666666666666,
-      "solved": 2
+      "attempted": 2,
+      "rate": 0.5,
+      "solved": 1
     },
     "trees": {
       "attempted": 1,
