@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-11T23:51:55.605902+00:00",
+  "fetched_at": "2026-06-12T04:59:38.188098+00:00",
   "problems": [
     {
       "contestId": 2234,
@@ -36,7 +36,6 @@
         "combinatorics",
         "dfs and similar",
         "divide and conquer",
-        "dp",
         "math"
       ]
     },
