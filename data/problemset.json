@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-13T12:02:01.306343+00:00",
+  "fetched_at": "2026-06-13T14:22:33.884888+00:00",
   "problems": [
     {
       "contestId": 2234,
@@ -85,6 +85,83 @@
         "math",
         "number theory",
         "sortings"
+      ]
+    },
+    {
+      "contestId": 2233,
+      "index": "F",
+      "name": "Shortest GCD Paths",
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "graphs",
+        "math",
+        "number theory",
+        "shortest paths"
+      ]
+    },
+    {
+      "contestId": 2233,
+      "index": "E2",
+      "name": "Permutation Transmission (Difficult Version)",
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2233,
+      "index": "E1",
+      "name": "Permutation Transmission (Easy Version)",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "combinatorics",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2233,
+      "index": "D",
+      "name": "Goods on the Shelf",
+      "rating": 1900,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2233,
+      "index": "C",
+      "name": "Cost of a Bracket Sequence",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2233,
+      "index": "B",
+      "name": "Different Distances",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2233,
+      "index": "A",
+      "name": "AI Project Development",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "math"
       ]
     },
     {
