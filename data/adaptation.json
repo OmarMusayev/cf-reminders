@@ -1,7 +1,7 @@
 {
   "base_rating": 1415,
   "effective_rating": 1415,
-  "fetched_at": "2026-06-13T09:32:23.269912+00:00",
+  "fetched_at": "2026-06-13T12:02:01.306343+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -36,9 +36,9 @@
       "solved": 7
     },
     "data structures": {
-      "attempted": 3,
+      "attempted": 2,
       "rate": 1.0,
-      "solved": 3
+      "solved": 2
     },
     "dfs and similar": {
       "attempted": 2,
@@ -66,9 +66,9 @@
       "solved": 17
     },
     "implementation": {
-      "attempted": 13,
-      "rate": 0.9230769230769231,
-      "solved": 12
+      "attempted": 11,
+      "rate": 0.9090909090909091,
+      "solved": 10
     },
     "math": {
       "attempted": 8,

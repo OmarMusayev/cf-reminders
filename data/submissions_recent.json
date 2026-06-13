@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-13T09:32:23.269912+00:00",
+  "fetched_at": "2026-06-13T12:02:01.306343+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -760,56 +760,6 @@
         ]
       },
       "verdict": "OK"
-    },
-    {
-      "contestId": 1028,
-      "creationTimeSeconds": 1778756138,
-      "id": 374492095,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 1028,
-        "index": "A",
-        "name": "Find Square",
-        "rating": 800,
-        "tags": [
-          "implementation"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 1807,
-      "creationTimeSeconds": 1778752438,
-      "id": 374485287,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 1807,
-        "index": "D",
-        "name": "Odd Queries",
-        "rating": 900,
-        "tags": [
-          "data structures",
-          "implementation"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 1807,
-      "creationTimeSeconds": 1778752405,
-      "id": 374485232,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 1807,
-        "index": "D",
-        "name": "Odd Queries",
-        "rating": 900,
-        "tags": [
-          "data structures",
-          "implementation"
-        ]
-      },
-      "verdict": "WRONG_ANSWER"
     }
   ]
 }
