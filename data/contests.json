@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-13T19:52:16.143893+00:00",
+  "fetched_at": "2026-06-13T21:35:58.411102+00:00",
   "upcoming": [
     {
       "durationSeconds": 10800,
@@ -7,7 +7,7 @@
       "id": 2237,
       "name": "Order Capital Round 2 (Codeforces Round, Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -413009,
+      "relativeTimeSeconds": -406800,
       "startTimeSeconds": 1781793300,
       "type": "CF"
     }
