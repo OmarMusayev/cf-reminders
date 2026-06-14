@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-13",
-  "difficulty": "Easy",
-  "fetched_at": "2026-06-13T23:19:43.209736+00:00",
-  "id": "3838",
-  "slug": "weighted-word-mapping",
+  "date": "2026-06-14",
+  "difficulty": "Medium",
+  "fetched_at": "2026-06-14T05:03:40.794294+00:00",
+  "id": "2130",
+  "slug": "maximum-twin-sum-of-a-linked-list",
   "tags": [
-    "Array",
-    "String",
-    "Simulation"
+    "Linked List",
+    "Two Pointers",
+    "Stack"
   ],
-  "title": "Weighted Word Mapping",
-  "url": "https://leetcode.com/problems/weighted-word-mapping/"
+  "title": "Maximum Twin Sum of a Linked List",
+  "url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/"
 }
