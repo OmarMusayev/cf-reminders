@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-15T12:39:37.548915+00:00",
+  "fetched_at": "2026-06-15T18:45:27.791620+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -593,114 +593,6 @@
           "dfs and similar",
           "graphs",
           "trees"
-        ]
-      },
-      "verdict": "WRONG_ANSWER"
-    },
-    {
-      "contestId": 2228,
-      "creationTimeSeconds": 1778946728,
-      "id": 374819281,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2228,
-        "index": "C2",
-        "name": "Cirno and Number (Hard Version)",
-        "rating": 1600,
-        "tags": [
-          "binary search",
-          "dfs and similar",
-          "dp",
-          "greedy",
-          "implementation"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2228,
-      "creationTimeSeconds": 1778946691,
-      "id": 374818790,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2228,
-        "index": "C1",
-        "name": "Cirno and Number (Easy Version)",
-        "rating": 1500,
-        "tags": [
-          "binary search",
-          "brute force",
-          "dp",
-          "greedy",
-          "implementation"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2228,
-      "creationTimeSeconds": 1778943803,
-      "id": 374772025,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2228,
-        "index": "B",
-        "name": "Remilia Plays Soku",
-        "rating": 1100,
-        "tags": [
-          "games",
-          "implementation"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2228,
-      "creationTimeSeconds": 1778942736,
-      "id": 374752380,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2228,
-        "index": "A",
-        "name": "Marisa Steals Reimu's Takeout",
-        "rating": 800,
-        "tags": [
-          "greedy",
-          "implementation"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 1392,
-      "creationTimeSeconds": 1778940140,
-      "id": 374737489,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 1392,
-        "index": "C",
-        "name": "Omkar and Waterslide",
-        "rating": 1200,
-        "tags": [
-          "greedy",
-          "implementation"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 1392,
-      "creationTimeSeconds": 1778940026,
-      "id": 374737305,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 1392,
-        "index": "C",
-        "name": "Omkar and Waterslide",
-        "rating": 1200,
-        "tags": [
-          "greedy",
-          "implementation"
         ]
       },
       "verdict": "WRONG_ANSWER"
