@@ -1,7 +1,7 @@
 {
   "base_rating": 1415,
   "effective_rating": 1415,
-  "fetched_at": "2026-06-15T18:45:27.791620+00:00",
+  "fetched_at": "2026-06-15T22:27:29.476169+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -40,20 +40,10 @@
       "rate": 1.0,
       "solved": 2
     },
-    "dfs and similar": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    },
     "dp": {
       "attempted": 4,
       "rate": 1.0,
       "solved": 4
-    },
-    "graphs": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
     },
     "greedy": {
       "attempted": 12,
@@ -79,11 +69,6 @@
       "attempted": 1,
       "rate": 0.0,
       "solved": 0
-    },
-    "trees": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
     },
     "two pointers": {
       "attempted": 1,

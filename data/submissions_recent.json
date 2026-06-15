@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-15T18:45:27.791620+00:00",
+  "fetched_at": "2026-06-15T22:27:29.476169+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -560,42 +560,6 @@
         ]
       },
       "verdict": "OK"
-    },
-    {
-      "contestId": 115,
-      "creationTimeSeconds": 1778963821,
-      "id": 374872780,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 115,
-        "index": "A",
-        "name": "Party",
-        "rating": 900,
-        "tags": [
-          "dfs and similar",
-          "graphs",
-          "trees"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 115,
-      "creationTimeSeconds": 1778963747,
-      "id": 374872681,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 115,
-        "index": "A",
-        "name": "Party",
-        "rating": 900,
-        "tags": [
-          "dfs and similar",
-          "graphs",
-          "trees"
-        ]
-      },
-      "verdict": "WRONG_ANSWER"
     }
   ]
 }
