@@ -1,13 +1,13 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "difficulty": "Medium",
-  "fetched_at": "2026-06-15T22:27:29.476169+00:00",
-  "id": "2095",
-  "slug": "delete-the-middle-node-of-a-linked-list",
+  "fetched_at": "2026-06-16T05:28:34.688738+00:00",
+  "id": "3612",
+  "slug": "process-string-with-special-operations-i",
   "tags": [
-    "Linked List",
-    "Two Pointers"
+    "String",
+    "Simulation"
   ],
-  "title": "Delete the Middle Node of a Linked List",
-  "url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/"
+  "title": "Process String with Special Operations I",
+  "url": "https://leetcode.com/problems/process-string-with-special-operations-i/"
 }
