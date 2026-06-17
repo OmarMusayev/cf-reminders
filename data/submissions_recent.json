@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-17T16:01:00.728897+00:00",
+  "fetched_at": "2026-06-17T18:30:59.639432+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -485,24 +485,6 @@
         "rating": 1000,
         "tags": [
           "brute force",
-          "math"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2230,
-      "creationTimeSeconds": 1779120420,
-      "id": 375137835,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2230,
-        "index": "C",
-        "name": "Arrange the Numbers in a Circle",
-        "rating": 1300,
-        "tags": [
-          "constructive algorithms",
-          "implementation",
           "math"
         ]
       },
