@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-17T11:16:09.460174+00:00",
+  "fetched_at": "2026-06-17T16:01:00.728897+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -502,59 +502,6 @@
         "rating": 1300,
         "tags": [
           "constructive algorithms",
-          "implementation",
-          "math"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2230,
-      "creationTimeSeconds": 1779118225,
-      "id": 375120280,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2230,
-        "index": "B",
-        "name": "Digit String",
-        "rating": 1000,
-        "tags": [
-          "greedy",
-          "implementation",
-          "math"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2230,
-      "creationTimeSeconds": 1779117752,
-      "id": 375115559,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2230,
-        "index": "B",
-        "name": "Digit String",
-        "rating": 1000,
-        "tags": [
-          "greedy",
-          "implementation",
-          "math"
-        ]
-      },
-      "verdict": "RUNTIME_ERROR"
-    },
-    {
-      "contestId": 2230,
-      "creationTimeSeconds": 1779116294,
-      "id": 375097725,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2230,
-        "index": "A",
-        "name": "Optimal Purchase",
-        "rating": 800,
-        "tags": [
           "implementation",
           "math"
         ]
