@@ -1,15 +1,4 @@
 {
-  "fetched_at": "2026-06-18T10:45:44.572382+00:00",
-  "upcoming": [
-    {
-      "durationSeconds": 10800,
-      "frozen": false,
-      "id": 2237,
-      "name": "Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)",
-      "phase": "BEFORE",
-      "relativeTimeSeconds": -13771,
-      "startTimeSeconds": 1781793300,
-      "type": "CF"
-    }
-  ]
+  "fetched_at": "2026-06-18T18:33:45.914592+00:00",
+  "upcoming": []
 }
