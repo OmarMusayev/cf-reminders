@@ -1,6 +1,99 @@
 {
-  "fetched_at": "2026-06-18T18:33:45.914592+00:00",
+  "fetched_at": "2026-06-18T22:24:05.691599+00:00",
   "problems": [
+    {
+      "contestId": 2236,
+      "index": "G",
+      "name": "Criterion in Burlandia",
+      "rating": 2600,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "implementation",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2236,
+      "index": "F2",
+      "name": "Elections in Saransk (hard version)",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2236,
+      "index": "F1",
+      "name": "Elections in Saransk (easy version)",
+      "rating": 1700,
+      "tags": [
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2236,
+      "index": "E",
+      "name": "Friendly Gifts",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "dp"
+      ]
+    },
+    {
+      "contestId": 2236,
+      "index": "D",
+      "name": "Brand New Tatar TV Show",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dp",
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2236,
+      "index": "C",
+      "name": "Omsk Programmers",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2236,
+      "index": "B",
+      "name": "Tatar TV Show",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2236,
+      "index": "A",
+      "name": "Games on the Train",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
     {
       "contestId": 2234,
       "index": "G",

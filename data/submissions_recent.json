@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-18T18:33:45.914592+00:00",
+  "fetched_at": "2026-06-18T22:24:05.691599+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -469,23 +469,6 @@
         "rating": 800,
         "tags": [
           "constructive algorithms"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 1765,
-      "creationTimeSeconds": 1779216792,
-      "id": 375273701,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 1765,
-        "index": "E",
-        "name": "Exchange",
-        "rating": 1000,
-        "tags": [
-          "brute force",
-          "math"
         ]
       },
       "verdict": "OK"
