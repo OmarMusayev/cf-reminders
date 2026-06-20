@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-20T14:27:40.382223+00:00",
+  "fetched_at": "2026-06-20T17:44:20.802787+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -386,89 +386,6 @@
         "tags": [
           "bitmasks",
           "greedy"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2231,
-      "creationTimeSeconds": 1779378776,
-      "id": 375529365,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2231,
-        "index": "C",
-        "name": "Chipmunk Theo and Equality",
-        "rating": 1400,
-        "tags": [
-          "implementation",
-          "sortings"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2231,
-      "creationTimeSeconds": 1779378280,
-      "id": 375524753,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2231,
-        "index": "C",
-        "name": "Chipmunk Theo and Equality",
-        "rating": 1400,
-        "tags": [
-          "implementation",
-          "sortings"
-        ]
-      },
-      "verdict": "TIME_LIMIT_EXCEEDED"
-    },
-    {
-      "contestId": 2231,
-      "creationTimeSeconds": 1779378016,
-      "id": 375522070,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2231,
-        "index": "C",
-        "name": "Chipmunk Theo and Equality",
-        "rating": 1400,
-        "tags": [
-          "implementation",
-          "sortings"
-        ]
-      },
-      "verdict": "TIME_LIMIT_EXCEEDED"
-    },
-    {
-      "contestId": 2231,
-      "creationTimeSeconds": 1779376192,
-      "id": 375502593,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2231,
-        "index": "B",
-        "name": "Another Sorting Problem",
-        "rating": 1100,
-        "tags": [
-          "constructive algorithms"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2231,
-      "creationTimeSeconds": 1779374935,
-      "id": 375486710,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2231,
-        "index": "A",
-        "name": "Construct an Array",
-        "rating": 800,
-        "tags": [
-          "constructive algorithms"
         ]
       },
       "verdict": "OK"
