@@ -1,13 +1,14 @@
 {
-  "date": "2026-06-19",
-  "difficulty": "Easy",
-  "fetched_at": "2026-06-19T23:12:12.897520+00:00",
-  "id": "1732",
-  "slug": "find-the-highest-altitude",
+  "date": "2026-06-20",
+  "difficulty": "Hard",
+  "fetched_at": "2026-06-20T04:38:42.750223+00:00",
+  "id": "1840",
+  "slug": "maximum-building-height",
   "tags": [
     "Array",
-    "Prefix Sum"
+    "Math",
+    "Sorting"
   ],
-  "title": "Find the Highest Altitude",
-  "url": "https://leetcode.com/problems/find-the-highest-altitude/"
+  "title": "Maximum Building Height",
+  "url": "https://leetcode.com/problems/maximum-building-height/"
 }
