@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-21T12:19:40.529874+00:00",
+  "fetched_at": "2026-06-21T16:07:10.974414+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -355,40 +355,6 @@
         ]
       },
       "verdict": "WRONG_ANSWER"
-    },
-    {
-      "contestId": 258,
-      "creationTimeSeconds": 1779463256,
-      "id": 375662261,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 258,
-        "index": "A",
-        "name": "Little Elephant and Bits",
-        "rating": 1100,
-        "tags": [
-          "greedy",
-          "math"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 1926,
-      "creationTimeSeconds": 1779461236,
-      "id": 375658477,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 1926,
-        "index": "D",
-        "name": "Vlad and Division",
-        "rating": 1300,
-        "tags": [
-          "bitmasks",
-          "greedy"
-        ]
-      },
-      "verdict": "OK"
     }
   ]
 }

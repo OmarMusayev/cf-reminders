@@ -1,7 +1,7 @@
 {
   "base_rating": 1415,
   "effective_rating": 1415,
-  "fetched_at": "2026-06-21T12:19:40.529874+00:00",
+  "fetched_at": "2026-06-21T16:07:10.974414+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -16,9 +16,9 @@
       "solved": 2
     },
     "bitmasks": {
-      "attempted": 3,
-      "rate": 0.6666666666666666,
-      "solved": 2
+      "attempted": 2,
+      "rate": 0.5,
+      "solved": 1
     },
     "brute force": {
       "attempted": 3,
@@ -46,9 +46,9 @@
       "solved": 4
     },
     "greedy": {
-      "attempted": 11,
-      "rate": 0.9090909090909091,
-      "solved": 10
+      "attempted": 9,
+      "rate": 0.8888888888888888,
+      "solved": 8
     },
     "implementation": {
       "attempted": 1,
@@ -56,9 +56,9 @@
       "solved": 0
     },
     "math": {
-      "attempted": 3,
+      "attempted": 2,
       "rate": 1.0,
-      "solved": 3
+      "solved": 2
     },
     "sortings": {
       "attempted": 1,
