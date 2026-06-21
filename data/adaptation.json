@@ -1,7 +1,7 @@
 {
   "base_rating": 1415,
   "effective_rating": 1415,
-  "fetched_at": "2026-06-21T19:59:29.058744+00:00",
+  "fetched_at": "2026-06-21T21:39:42.729073+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -11,9 +11,9 @@
   },
   "tag_stats": {
     "binary search": {
-      "attempted": 2,
+      "attempted": 1,
       "rate": 1.0,
-      "solved": 2
+      "solved": 1
     },
     "bitmasks": {
       "attempted": 2,
@@ -36,9 +36,9 @@
       "solved": 4
     },
     "data structures": {
-      "attempted": 2,
+      "attempted": 1,
       "rate": 1.0,
-      "solved": 2
+      "solved": 1
     },
     "dp": {
       "attempted": 3,
@@ -69,11 +69,6 @@
       "attempted": 1,
       "rate": 0.0,
       "solved": 0
-    },
-    "two pointers": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
     }
   }
 }
