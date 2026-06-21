@@ -1,14 +1,15 @@
 {
-  "date": "2026-06-20",
-  "difficulty": "Hard",
-  "fetched_at": "2026-06-20T23:35:00.506078+00:00",
-  "id": "1840",
-  "slug": "maximum-building-height",
+  "date": "2026-06-21",
+  "difficulty": "Medium",
+  "fetched_at": "2026-06-21T05:16:25.158272+00:00",
+  "id": "1833",
+  "slug": "maximum-ice-cream-bars",
   "tags": [
     "Array",
-    "Math",
-    "Sorting"
+    "Greedy",
+    "Sorting",
+    "Counting Sort"
   ],
-  "title": "Maximum Building Height",
-  "url": "https://leetcode.com/problems/maximum-building-height/"
+  "title": "Maximum Ice Cream Bars",
+  "url": "https://leetcode.com/problems/maximum-ice-cream-bars/"
 }
