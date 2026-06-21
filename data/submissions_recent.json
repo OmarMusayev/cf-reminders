@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-21T16:07:10.974414+00:00",
+  "fetched_at": "2026-06-21T17:49:34.595343+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -304,57 +304,6 @@
         ]
       },
       "verdict": "OK"
-    },
-    {
-      "contestId": 255,
-      "creationTimeSeconds": 1779469724,
-      "id": 375674242,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 255,
-        "index": "C",
-        "name": "Almost Arithmetical Progression",
-        "rating": 1500,
-        "tags": [
-          "brute force",
-          "dp"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 255,
-      "creationTimeSeconds": 1779468989,
-      "id": 375672863,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 255,
-        "index": "C",
-        "name": "Almost Arithmetical Progression",
-        "rating": 1500,
-        "tags": [
-          "brute force",
-          "dp"
-        ]
-      },
-      "verdict": "TIME_LIMIT_EXCEEDED"
-    },
-    {
-      "contestId": 255,
-      "creationTimeSeconds": 1779468268,
-      "id": 375671560,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 255,
-        "index": "C",
-        "name": "Almost Arithmetical Progression",
-        "rating": 1500,
-        "tags": [
-          "brute force",
-          "dp"
-        ]
-      },
-      "verdict": "WRONG_ANSWER"
     }
   ]
 }

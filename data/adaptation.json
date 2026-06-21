@@ -1,7 +1,7 @@
 {
   "base_rating": 1415,
   "effective_rating": 1415,
-  "fetched_at": "2026-06-21T16:07:10.974414+00:00",
+  "fetched_at": "2026-06-21T17:49:34.595343+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -21,9 +21,9 @@
       "solved": 1
     },
     "brute force": {
-      "attempted": 3,
-      "rate": 0.6666666666666666,
-      "solved": 2
+      "attempted": 2,
+      "rate": 0.5,
+      "solved": 1
     },
     "combinatorics": {
       "attempted": 1,
@@ -41,9 +41,9 @@
       "solved": 2
     },
     "dp": {
-      "attempted": 4,
+      "attempted": 3,
       "rate": 1.0,
-      "solved": 4
+      "solved": 3
     },
     "greedy": {
       "attempted": 9,
