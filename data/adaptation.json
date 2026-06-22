@@ -1,7 +1,7 @@
 {
   "base_rating": 1415,
   "effective_rating": 1415,
-  "fetched_at": "2026-06-22T12:23:43.751235+00:00",
+  "fetched_at": "2026-06-22T18:16:27.799071+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -10,37 +10,17 @@
     "window_days": 14
   },
   "tag_stats": {
-    "binary search": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    },
-    "brute force": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    },
     "constructive algorithms": {
-      "attempted": 3,
+      "attempted": 1,
       "rate": 1.0,
-      "solved": 3
+      "solved": 1
     },
     "data structures": {
       "attempted": 1,
       "rate": 1.0,
       "solved": 1
     },
-    "dp": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    },
     "greedy": {
-      "attempted": 7,
-      "rate": 1.0,
-      "solved": 7
-    },
-    "math": {
       "attempted": 2,
       "rate": 1.0,
       "solved": 2

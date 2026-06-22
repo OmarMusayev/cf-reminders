@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-22T12:23:43.751235+00:00",
+  "fetched_at": "2026-06-22T18:16:27.799071+00:00",
   "submissions": [
     {
       "contestId": 1515,
@@ -52,93 +52,6 @@
         ]
       },
       "verdict": "WRONG_ANSWER"
-    },
-    {
-      "contestId": 2229,
-      "creationTimeSeconds": 1779554234,
-      "id": 375835983,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2229,
-        "index": "D",
-        "name": "Me When Median Problem",
-        "rating": 1700,
-        "tags": [
-          "binary search",
-          "greedy"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2229,
-      "creationTimeSeconds": 1779551091,
-      "id": 375820549,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2229,
-        "index": "C2",
-        "name": "We Be Flipping (Hard Version)",
-        "rating": 1400,
-        "tags": [
-          "constructive algorithms",
-          "dp",
-          "greedy"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2229,
-      "creationTimeSeconds": 1779549031,
-      "id": 375804645,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2229,
-        "index": "C1",
-        "name": "We Be Flipping (Easy Version)",
-        "rating": 900,
-        "tags": [
-          "constructive algorithms",
-          "greedy"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2229,
-      "creationTimeSeconds": 1779548222,
-      "id": 375794862,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2229,
-        "index": "B",
-        "name": "Absolute Cinema",
-        "rating": 800,
-        "tags": [
-          "greedy",
-          "math"
-        ]
-      },
-      "verdict": "OK"
-    },
-    {
-      "contestId": 2229,
-      "creationTimeSeconds": 1779547282,
-      "id": 375778849,
-      "participantType": "CONTESTANT",
-      "problem": {
-        "contestId": 2229,
-        "index": "A",
-        "name": "Slimes on a Line",
-        "rating": 800,
-        "tags": [
-          "brute force",
-          "greedy",
-          "math"
-        ]
-      },
-      "verdict": "OK"
     }
   ]
 }
