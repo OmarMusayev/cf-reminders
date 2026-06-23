@@ -1,4 +1,23 @@
 {
-  "fetched_at": "2026-06-23T04:18:12.288836+00:00",
-  "submissions": []
+  "fetched_at": "2026-06-23T10:00:36.529382+00:00",
+  "submissions": [
+    {
+      "contestId": 1515,
+      "creationTimeSeconds": 1779857154,
+      "id": 376245456,
+      "participantType": "PRACTICE",
+      "problem": {
+        "contestId": 1515,
+        "index": "C",
+        "name": "Phoenix and Towers",
+        "rating": 1400,
+        "tags": [
+          "constructive algorithms",
+          "data structures",
+          "greedy"
+        ]
+      },
+      "verdict": "OK"
+    }
+  ]
 }
