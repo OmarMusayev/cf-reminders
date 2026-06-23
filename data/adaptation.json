@@ -1,7 +1,7 @@
 {
   "base_rating": 1415,
   "effective_rating": 1415,
-  "fetched_at": "2026-06-22T22:15:03.424467+00:00",
+  "fetched_at": "2026-06-23T04:18:12.288836+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -9,26 +9,5 @@
     "solved": 0,
     "window_days": 14
   },
-  "tag_stats": {
-    "constructive algorithms": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    },
-    "data structures": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    },
-    "greedy": {
-      "attempted": 2,
-      "rate": 1.0,
-      "solved": 2
-    },
-    "sortings": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    }
-  }
+  "tag_stats": {}
 }
