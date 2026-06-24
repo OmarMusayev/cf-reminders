@@ -1,13 +1,13 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "difficulty": "Hard",
-  "fetched_at": "2026-06-23T23:20:13.379837+00:00",
-  "id": "3699",
-  "slug": "number-of-zigzag-arrays-i",
+  "fetched_at": "2026-06-24T04:22:08.853045+00:00",
+  "id": "3700",
+  "slug": "number-of-zigzag-arrays-ii",
   "tags": [
-    "Dynamic Programming",
-    "Prefix Sum"
+    "Math",
+    "Dynamic Programming"
   ],
-  "title": "Number of ZigZag Arrays I",
-  "url": "https://leetcode.com/problems/number-of-zigzag-arrays-i/"
+  "title": "Number of ZigZag Arrays II",
+  "url": "https://leetcode.com/problems/number-of-zigzag-arrays-ii/"
 }
