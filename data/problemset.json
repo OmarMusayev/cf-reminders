@@ -1,6 +1,113 @@
 {
-  "fetched_at": "2026-06-24T09:49:41.118742+00:00",
+  "fetched_at": "2026-06-24T12:28:17.497146+00:00",
   "problems": [
+    {
+      "contestId": 2237,
+      "index": "I2",
+      "name": "DBFS Order (Hard Version)",
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2237,
+      "index": "I1",
+      "name": "DBFS Order (Easy Version)",
+      "rating": 3500,
+      "tags": [
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2237,
+      "index": "H",
+      "name": "Slime and Queries",
+      "rating": 3500,
+      "tags": [
+        "data structures",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2237,
+      "index": "G",
+      "name": "Send GCDs",
+      "rating": 2900,
+      "tags": [
+        "communication",
+        "constructive algorithms",
+        "interactive",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2237,
+      "index": "F",
+      "name": "Paint the Array",
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2237,
+      "index": "E",
+      "name": "Permutation Commutation",
+      "rating": 2000,
+      "tags": [
+        "data structures",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2237,
+      "index": "D",
+      "name": "Fullmetal Bitchemist",
+      "rating": 1500,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2237,
+      "index": "C",
+      "name": "Duck Surplus",
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2237,
+      "index": "B",
+      "name": "Annoying the Ghost",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2237,
+      "index": "A",
+      "name": "Destroying Towers",
+      "rating": 800,
+      "tags": [
+        "games",
+        "greedy",
+        "schedules"
+      ]
+    },
     {
       "contestId": 2236,
       "index": "G",
