@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-25T12:32:20.086618+00:00",
+  "fetched_at": "2026-06-25T16:34:34.501503+00:00",
   "problems": [
     {
       "contestId": 2237,
@@ -84,6 +84,7 @@
       "name": "Duck Surplus",
       "rating": 1000,
       "tags": [
+        "binary search",
         "greedy"
       ]
     },
