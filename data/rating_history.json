@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-25T09:41:10.220834+00:00",
+  "fetched_at": "2026-06-25T12:32:20.086618+00:00",
   "history": [
     {
       "contestId": 1676,
@@ -140,9 +140,9 @@
       "contestId": 2229,
       "contestName": "Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)",
       "handle": "Omar_Musayev",
-      "newRating": 1415,
+      "newRating": 1420,
       "oldRating": 1296,
-      "rank": 1621,
+      "rank": 1559,
       "ratingUpdateTimeSeconds": 1779557700
     }
   ]
