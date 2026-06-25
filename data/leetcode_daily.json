@@ -1,13 +1,18 @@
 {
-  "date": "2026-06-24",
-  "difficulty": "Hard",
-  "fetched_at": "2026-06-24T23:20:32.033560+00:00",
-  "id": "3700",
-  "slug": "number-of-zigzag-arrays-ii",
+  "date": "2026-06-25",
+  "difficulty": "Medium",
+  "fetched_at": "2026-06-25T04:21:16.962122+00:00",
+  "id": "3737",
+  "slug": "count-subarrays-with-majority-element-i",
   "tags": [
-    "Math",
-    "Dynamic Programming"
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Segment Tree",
+    "Merge Sort",
+    "Counting",
+    "Prefix Sum"
   ],
-  "title": "Number of ZigZag Arrays II",
-  "url": "https://leetcode.com/problems/number-of-zigzag-arrays-ii/"
+  "title": "Count Subarrays With Majority Element I",
+  "url": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/"
 }
