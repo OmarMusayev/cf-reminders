@@ -1,17 +1,14 @@
 {
-  "date": "2026-06-26",
-  "difficulty": "Hard",
-  "fetched_at": "2026-06-26T23:20:54.261911+00:00",
-  "id": "3739",
-  "slug": "count-subarrays-with-majority-element-ii",
+  "date": "2026-06-27",
+  "difficulty": "Medium",
+  "fetched_at": "2026-06-27T04:13:56.913694+00:00",
+  "id": "3020",
+  "slug": "find-the-maximum-number-of-elements-in-subset",
   "tags": [
     "Array",
     "Hash Table",
-    "Divide and Conquer",
-    "Segment Tree",
-    "Merge Sort",
-    "Prefix Sum"
+    "Enumeration"
   ],
-  "title": "Count Subarrays With Majority Element II",
-  "url": "https://leetcode.com/problems/count-subarrays-with-majority-element-ii/"
+  "title": "Find the Maximum Number of Elements in Subset",
+  "url": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/"
 }
