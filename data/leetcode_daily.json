@@ -1,14 +1,14 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "difficulty": "Medium",
-  "fetched_at": "2026-06-27T23:15:20.751939+00:00",
-  "id": "3020",
-  "slug": "find-the-maximum-number-of-elements-in-subset",
+  "fetched_at": "2026-06-28T04:46:51.322474+00:00",
+  "id": "1846",
+  "slug": "maximum-element-after-decreasing-and-rearranging",
   "tags": [
     "Array",
-    "Hash Table",
-    "Enumeration"
+    "Greedy",
+    "Sorting"
   ],
-  "title": "Find the Maximum Number of Elements in Subset",
-  "url": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/"
+  "title": "Maximum Element After Decreasing and Rearranging",
+  "url": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/"
 }
