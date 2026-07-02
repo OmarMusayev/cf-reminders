@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "difficulty": "Medium",
-  "fetched_at": "2026-07-01T23:40:16.624949+00:00",
-  "id": "2812",
-  "slug": "find-the-safest-path-in-a-grid",
+  "fetched_at": "2026-07-02T04:18:54.943397+00:00",
+  "id": "3286",
+  "slug": "find-a-safe-walk-through-a-grid",
   "tags": [
     "Array",
-    "Binary Search",
     "Breadth-First Search",
-    "Union-Find",
+    "Graph Theory",
     "Heap (Priority Queue)",
-    "Matrix"
+    "Matrix",
+    "Shortest Path"
   ],
-  "title": "Find the Safest Path in a Grid",
-  "url": "https://leetcode.com/problems/find-the-safest-path-in-a-grid/"
+  "title": "Find a Safe Walk Through a Grid",
+  "url": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/"
 }
