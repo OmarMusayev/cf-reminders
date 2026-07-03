@@ -1,17 +1,18 @@
 {
-  "date": "2026-07-02",
-  "difficulty": "Medium",
-  "fetched_at": "2026-07-02T23:20:11.239258+00:00",
-  "id": "3286",
-  "slug": "find-a-safe-walk-through-a-grid",
+  "date": "2026-07-03",
+  "difficulty": "Hard",
+  "fetched_at": "2026-07-03T04:04:39.815966+00:00",
+  "id": "3620",
+  "slug": "network-recovery-pathways",
   "tags": [
     "Array",
-    "Breadth-First Search",
+    "Binary Search",
+    "Dynamic Programming",
     "Graph Theory",
+    "Topological Sort",
     "Heap (Priority Queue)",
-    "Matrix",
     "Shortest Path"
   ],
-  "title": "Find a Safe Walk Through a Grid",
-  "url": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/"
+  "title": "Network Recovery Pathways",
+  "url": "https://leetcode.com/problems/network-recovery-pathways/"
 }
