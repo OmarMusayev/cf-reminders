@@ -1,18 +1,15 @@
 {
-  "date": "2026-07-03",
-  "difficulty": "Hard",
-  "fetched_at": "2026-07-03T23:16:44.172410+00:00",
-  "id": "3620",
-  "slug": "network-recovery-pathways",
+  "date": "2026-07-04",
+  "difficulty": "Medium",
+  "fetched_at": "2026-07-04T03:58:08.181618+00:00",
+  "id": "2492",
+  "slug": "minimum-score-of-a-path-between-two-cities",
   "tags": [
-    "Array",
-    "Binary Search",
-    "Dynamic Programming",
-    "Graph Theory",
-    "Topological Sort",
-    "Heap (Priority Queue)",
-    "Shortest Path"
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
   ],
-  "title": "Network Recovery Pathways",
-  "url": "https://leetcode.com/problems/network-recovery-pathways/"
+  "title": "Minimum Score of a Path Between Two Cities",
+  "url": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/"
 }
