@@ -1,15 +1,14 @@
 {
-  "date": "2026-07-04",
-  "difficulty": "Medium",
-  "fetched_at": "2026-07-04T23:10:57.834270+00:00",
-  "id": "2492",
-  "slug": "minimum-score-of-a-path-between-two-cities",
+  "date": "2026-07-05",
+  "difficulty": "Hard",
+  "fetched_at": "2026-07-05T04:17:17.329184+00:00",
+  "id": "1301",
+  "slug": "number-of-paths-with-max-score",
   "tags": [
-    "Depth-First Search",
-    "Breadth-First Search",
-    "Union-Find",
-    "Graph Theory"
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
   ],
-  "title": "Minimum Score of a Path Between Two Cities",
-  "url": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/"
+  "title": "Number of Paths with Max Score",
+  "url": "https://leetcode.com/problems/number-of-paths-with-max-score/"
 }
