@@ -1,14 +1,13 @@
 {
-  "date": "2026-07-05",
-  "difficulty": "Hard",
-  "fetched_at": "2026-07-05T23:15:34.244695+00:00",
-  "id": "1301",
-  "slug": "number-of-paths-with-max-score",
+  "date": "2026-07-06",
+  "difficulty": "Medium",
+  "fetched_at": "2026-07-06T04:36:05.016430+00:00",
+  "id": "1288",
+  "slug": "remove-covered-intervals",
   "tags": [
     "Array",
-    "Dynamic Programming",
-    "Matrix"
+    "Sorting"
   ],
-  "title": "Number of Paths with Max Score",
-  "url": "https://leetcode.com/problems/number-of-paths-with-max-score/"
+  "title": "Remove Covered Intervals",
+  "url": "https://leetcode.com/problems/remove-covered-intervals/"
 }
