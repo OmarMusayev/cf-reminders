@@ -1,12 +1,14 @@
 {
-  "date": "2026-07-07",
-  "difficulty": "Easy",
-  "fetched_at": "2026-07-07T23:12:57.467664+00:00",
-  "id": "3754",
-  "slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+  "date": "2026-07-08",
+  "difficulty": "Medium",
+  "fetched_at": "2026-07-08T03:39:36.740121+00:00",
+  "id": "3756",
+  "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
   "tags": [
-    "Math"
+    "Math",
+    "String",
+    "Prefix Sum"
   ],
-  "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
-  "url": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/"
+  "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+  "url": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/"
 }
