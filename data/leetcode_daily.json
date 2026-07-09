@@ -1,14 +1,16 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "difficulty": "Medium",
-  "fetched_at": "2026-07-08T23:21:26.332139+00:00",
-  "id": "3756",
-  "slug": "concatenate-non-zero-digits-and-multiply-by-sum-ii",
+  "fetched_at": "2026-07-09T04:09:54.602685+00:00",
+  "id": "3532",
+  "slug": "path-existence-queries-in-a-graph-i",
   "tags": [
-    "Math",
-    "String",
-    "Prefix Sum"
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Union-Find",
+    "Graph Theory"
   ],
-  "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
-  "url": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/"
+  "title": "Path Existence Queries in a Graph I",
+  "url": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/"
 }
