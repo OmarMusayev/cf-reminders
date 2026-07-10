@@ -1,16 +1,19 @@
 {
-  "date": "2026-07-09",
-  "difficulty": "Medium",
-  "fetched_at": "2026-07-09T23:34:12.415739+00:00",
-  "id": "3532",
-  "slug": "path-existence-queries-in-a-graph-i",
+  "date": "2026-07-10",
+  "difficulty": "Hard",
+  "fetched_at": "2026-07-10T04:10:10.290773+00:00",
+  "id": "3534",
+  "slug": "path-existence-queries-in-a-graph-ii",
   "tags": [
     "Array",
-    "Hash Table",
+    "Two Pointers",
     "Binary Search",
-    "Union-Find",
-    "Graph Theory"
+    "Dynamic Programming",
+    "Greedy",
+    "Bit Manipulation",
+    "Graph Theory",
+    "Sorting"
   ],
-  "title": "Path Existence Queries in a Graph I",
-  "url": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/"
+  "title": "Path Existence Queries in a Graph II",
+  "url": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/"
 }
