@@ -1,6 +1,159 @@
 {
-  "fetched_at": "2026-07-11T13:49:10.817741+00:00",
+  "fetched_at": "2026-07-11T15:12:12.471723+00:00",
   "problems": [
+    {
+      "contestId": 2242,
+      "index": "F",
+      "name": "Summer Vacation",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp",
+        "probabilities"
+      ]
+    },
+    {
+      "contestId": 2242,
+      "index": "E",
+      "name": "Product of Closures",
+      "rating": 2200,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2242,
+      "index": "D",
+      "name": "Two Digit Strings",
+      "rating": 1600,
+      "tags": [
+        "dp",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2242,
+      "index": "C",
+      "name": "Unstable Elements",
+      "rating": 1300,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2242,
+      "index": "B",
+      "name": "Predominant Frequency Division",
+      "rating": 1000,
+      "tags": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2242,
+      "index": "A",
+      "name": "Bigrams",
+      "rating": 800,
+      "tags": [
+        "sortings",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2241,
+      "index": "G",
+      "name": "Summmon",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2241,
+      "index": "F",
+      "name": "A Bit Odd",
+      "rating": 1700,
+      "tags": [
+        "data structures",
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2241,
+      "index": "E",
+      "name": "Fair and Square",
+      "rating": 1600,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "graphs",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2241,
+      "index": "D",
+      "name": "An Alternative Way",
+      "rating": 1100,
+      "tags": [
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2241,
+      "index": "C",
+      "name": "RemovevomeR",
+      "rating": 1000,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2241,
+      "index": "B",
+      "name": "Good times Good times",
+      "rating": 1100,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2241,
+      "index": "A",
+      "name": "Divide and Conquer",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
     {
       "contestId": 2240,
       "index": "B",
