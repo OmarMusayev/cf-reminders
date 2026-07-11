@@ -1,19 +1,15 @@
 {
-  "date": "2026-07-10",
-  "difficulty": "Hard",
-  "fetched_at": "2026-07-10T23:11:39.399399+00:00",
-  "id": "3534",
-  "slug": "path-existence-queries-in-a-graph-ii",
+  "date": "2026-07-11",
+  "difficulty": "Medium",
+  "fetched_at": "2026-07-11T03:37:13.601670+00:00",
+  "id": "2685",
+  "slug": "count-the-number-of-complete-components",
   "tags": [
-    "Array",
-    "Two Pointers",
-    "Binary Search",
-    "Dynamic Programming",
-    "Greedy",
-    "Bit Manipulation",
-    "Graph Theory",
-    "Sorting"
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
   ],
-  "title": "Path Existence Queries in a Graph II",
-  "url": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/"
+  "title": "Count the Number of Complete Components",
+  "url": "https://leetcode.com/problems/count-the-number-of-complete-components/"
 }
