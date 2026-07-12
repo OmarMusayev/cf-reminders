@@ -1,15 +1,14 @@
 {
-  "date": "2026-07-11",
-  "difficulty": "Medium",
-  "fetched_at": "2026-07-11T23:06:35.446666+00:00",
-  "id": "2685",
-  "slug": "count-the-number-of-complete-components",
+  "date": "2026-07-12",
+  "difficulty": "Easy",
+  "fetched_at": "2026-07-12T03:51:57.669833+00:00",
+  "id": "1331",
+  "slug": "rank-transform-of-an-array",
   "tags": [
-    "Depth-First Search",
-    "Breadth-First Search",
-    "Union-Find",
-    "Graph Theory"
+    "Array",
+    "Hash Table",
+    "Sorting"
   ],
-  "title": "Count the Number of Complete Components",
-  "url": "https://leetcode.com/problems/count-the-number-of-complete-components/"
+  "title": "Rank Transform of an Array",
+  "url": "https://leetcode.com/problems/rank-transform-of-an-array/"
 }
