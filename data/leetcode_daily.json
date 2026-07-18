@@ -1,19 +1,14 @@
 {
-  "date": "2026-07-17",
-  "difficulty": "Hard",
-  "fetched_at": "2026-07-17T23:04:54.060973+00:00",
-  "id": "3312",
-  "slug": "sorted-gcd-pair-queries",
+  "date": "2026-07-18",
+  "difficulty": "Easy",
+  "fetched_at": "2026-07-18T03:26:47.402351+00:00",
+  "id": "1979",
+  "slug": "find-greatest-common-divisor-of-array",
   "tags": [
     "Array",
-    "Hash Table",
     "Math",
-    "Binary Search",
-    "Combinatorics",
-    "Counting",
-    "Number Theory",
-    "Prefix Sum"
+    "Number Theory"
   ],
-  "title": "Sorted GCD Pair Queries",
-  "url": "https://leetcode.com/problems/sorted-gcd-pair-queries/"
+  "title": "Find Greatest Common Divisor of Array",
+  "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/"
 }
