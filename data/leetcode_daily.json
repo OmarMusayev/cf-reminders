@@ -1,14 +1,15 @@
 {
-  "date": "2026-07-18",
-  "difficulty": "Easy",
-  "fetched_at": "2026-07-18T23:06:02.994780+00:00",
-  "id": "1979",
-  "slug": "find-greatest-common-divisor-of-array",
+  "date": "2026-07-19",
+  "difficulty": "Medium",
+  "fetched_at": "2026-07-19T03:48:02.983928+00:00",
+  "id": "1081",
+  "slug": "smallest-subsequence-of-distinct-characters",
   "tags": [
-    "Array",
-    "Math",
-    "Number Theory"
+    "String",
+    "Stack",
+    "Greedy",
+    "Monotonic Stack"
   ],
-  "title": "Find Greatest Common Divisor of Array",
-  "url": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/"
+  "title": "Smallest Subsequence of Distinct Characters",
+  "url": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/"
 }
