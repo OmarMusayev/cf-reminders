@@ -1,15 +1,14 @@
 {
-  "date": "2026-07-19",
-  "difficulty": "Medium",
-  "fetched_at": "2026-07-19T23:06:57.505910+00:00",
-  "id": "1081",
-  "slug": "smallest-subsequence-of-distinct-characters",
+  "date": "2026-07-20",
+  "difficulty": "Easy",
+  "fetched_at": "2026-07-20T03:59:13.661998+00:00",
+  "id": "1260",
+  "slug": "shift-2d-grid",
   "tags": [
-    "String",
-    "Stack",
-    "Greedy",
-    "Monotonic Stack"
+    "Array",
+    "Matrix",
+    "Simulation"
   ],
-  "title": "Smallest Subsequence of Distinct Characters",
-  "url": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/"
+  "title": "Shift 2D Grid",
+  "url": "https://leetcode.com/problems/shift-2d-grid/"
 }
