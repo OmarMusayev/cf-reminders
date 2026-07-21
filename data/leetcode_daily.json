@@ -1,14 +1,13 @@
 {
-  "date": "2026-07-20",
-  "difficulty": "Easy",
-  "fetched_at": "2026-07-20T23:13:04.498393+00:00",
-  "id": "1260",
-  "slug": "shift-2d-grid",
+  "date": "2026-07-21",
+  "difficulty": "Medium",
+  "fetched_at": "2026-07-21T03:39:27.445867+00:00",
+  "id": "3499",
+  "slug": "maximize-active-section-with-trade-i",
   "tags": [
-    "Array",
-    "Matrix",
-    "Simulation"
+    "String",
+    "Enumeration"
   ],
-  "title": "Shift 2D Grid",
-  "url": "https://leetcode.com/problems/shift-2d-grid/"
+  "title": "Maximize Active Section with Trade I",
+  "url": "https://leetcode.com/problems/maximize-active-section-with-trade-i/"
 }
