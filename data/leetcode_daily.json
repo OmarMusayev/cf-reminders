@@ -1,13 +1,15 @@
 {
-  "date": "2026-07-21",
-  "difficulty": "Medium",
-  "fetched_at": "2026-07-21T23:09:10.523176+00:00",
-  "id": "3499",
-  "slug": "maximize-active-section-with-trade-i",
+  "date": "2026-07-22",
+  "difficulty": "Hard",
+  "fetched_at": "2026-07-22T03:40:20.664781+00:00",
+  "id": "3501",
+  "slug": "maximize-active-section-with-trade-ii",
   "tags": [
+    "Array",
     "String",
-    "Enumeration"
+    "Binary Search",
+    "Segment Tree"
   ],
-  "title": "Maximize Active Section with Trade I",
-  "url": "https://leetcode.com/problems/maximize-active-section-with-trade-i/"
+  "title": "Maximize Active Section with Trade II",
+  "url": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/"
 }
