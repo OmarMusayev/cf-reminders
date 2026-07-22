@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T17:38:35.933659+00:00",
+  "fetched_at": "2026-07-22T19:40:36.482982+00:00",
   "upcoming": [
     {
       "durationSeconds": 7200,
@@ -7,7 +7,7 @@
       "id": 2248,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -842211,
+      "relativeTimeSeconds": -834899,
       "startTimeSeconds": 1785584100,
       "type": "CF"
     },
@@ -17,7 +17,7 @@
       "id": 2249,
       "name": "Codeforces Round 1112 (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -334612,
+      "relativeTimeSeconds": -327299,
       "startTimeSeconds": 1785076500,
       "type": "CF"
     },
@@ -27,7 +27,7 @@
       "id": 2250,
       "name": "Codeforces Round 1112 (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -334611,
+      "relativeTimeSeconds": -327299,
       "startTimeSeconds": 1785076500,
       "type": "CF"
     }
