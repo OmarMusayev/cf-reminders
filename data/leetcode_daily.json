@@ -1,15 +1,14 @@
 {
-  "date": "2026-07-22",
-  "difficulty": "Hard",
-  "fetched_at": "2026-07-22T23:14:29.132142+00:00",
-  "id": "3501",
-  "slug": "maximize-active-section-with-trade-ii",
+  "date": "2026-07-23",
+  "difficulty": "Medium",
+  "fetched_at": "2026-07-23T03:39:08.077003+00:00",
+  "id": "3513",
+  "slug": "number-of-unique-xor-triplets-i",
   "tags": [
     "Array",
-    "String",
-    "Binary Search",
-    "Segment Tree"
+    "Math",
+    "Bit Manipulation"
   ],
-  "title": "Maximize Active Section with Trade II",
-  "url": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/"
+  "title": "Number of Unique XOR Triplets I",
+  "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/"
 }
