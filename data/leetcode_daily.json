@@ -1,14 +1,15 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "difficulty": "Medium",
-  "fetched_at": "2026-07-23T23:09:22.385798+00:00",
-  "id": "3513",
-  "slug": "number-of-unique-xor-triplets-i",
+  "fetched_at": "2026-07-24T03:38:27.406244+00:00",
+  "id": "3514",
+  "slug": "number-of-unique-xor-triplets-ii",
   "tags": [
     "Array",
     "Math",
-    "Bit Manipulation"
+    "Bit Manipulation",
+    "Enumeration"
   ],
-  "title": "Number of Unique XOR Triplets I",
-  "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/"
+  "title": "Number of Unique XOR Triplets II",
+  "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/"
 }
