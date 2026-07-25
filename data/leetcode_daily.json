@@ -1,15 +1,13 @@
 {
-  "date": "2026-07-24",
-  "difficulty": "Medium",
-  "fetched_at": "2026-07-24T23:13:49.474142+00:00",
-  "id": "3514",
-  "slug": "number-of-unique-xor-triplets-ii",
+  "date": "2026-07-25",
+  "difficulty": "Easy",
+  "fetched_at": "2026-07-25T03:33:40.367251+00:00",
+  "id": "3536",
+  "slug": "maximum-product-of-two-digits",
   "tags": [
-    "Array",
     "Math",
-    "Bit Manipulation",
-    "Enumeration"
+    "Sorting"
   ],
-  "title": "Number of Unique XOR Triplets II",
-  "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/"
+  "title": "Maximum Product of Two Digits",
+  "url": "https://leetcode.com/problems/maximum-product-of-two-digits/"
 }
