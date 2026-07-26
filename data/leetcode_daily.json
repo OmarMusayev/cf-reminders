@@ -1,13 +1,14 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "difficulty": "Easy",
-  "fetched_at": "2026-07-25T23:08:14.835168+00:00",
-  "id": "3536",
-  "slug": "maximum-product-of-two-digits",
+  "fetched_at": "2026-07-26T03:51:05.792486+00:00",
+  "id": "628",
+  "slug": "maximum-product-of-three-numbers",
   "tags": [
+    "Array",
     "Math",
     "Sorting"
   ],
-  "title": "Maximum Product of Two Digits",
-  "url": "https://leetcode.com/problems/maximum-product-of-two-digits/"
+  "title": "Maximum Product of Three Numbers",
+  "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/"
 }
