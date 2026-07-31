@@ -1,14 +1,16 @@
 {
-  "date": "2026-07-30",
-  "difficulty": "Easy",
-  "fetched_at": "2026-07-30T23:16:50.194349+00:00",
-  "id": "3014",
-  "slug": "minimum-number-of-pushes-to-type-word-i",
+  "date": "2026-07-31",
+  "difficulty": "Medium",
+  "fetched_at": "2026-07-31T03:46:48.366557+00:00",
+  "id": "3016",
+  "slug": "minimum-number-of-pushes-to-type-word-ii",
   "tags": [
-    "Math",
+    "Hash Table",
     "String",
-    "Greedy"
+    "Greedy",
+    "Sorting",
+    "Counting"
   ],
-  "title": "Minimum Number of Pushes to Type Word I",
-  "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/"
+  "title": "Minimum Number of Pushes to Type Word II",
+  "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/"
 }
