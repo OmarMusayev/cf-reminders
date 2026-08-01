@@ -1,16 +1,16 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "difficulty": "Medium",
-  "fetched_at": "2026-07-31T21:17:38.414561+00:00",
-  "id": "3016",
-  "slug": "minimum-number-of-pushes-to-type-word-ii",
+  "fetched_at": "2026-08-01T03:46:07.545588+00:00",
+  "id": "486",
+  "slug": "predict-the-winner",
   "tags": [
-    "Hash Table",
-    "String",
-    "Greedy",
-    "Sorting",
-    "Counting"
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Game Theory"
   ],
-  "title": "Minimum Number of Pushes to Type Word II",
-  "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/"
+  "title": "Predict the Winner",
+  "url": "https://leetcode.com/problems/predict-the-winner/"
 }
