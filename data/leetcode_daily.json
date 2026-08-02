@@ -1,16 +1,15 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "difficulty": "Medium",
-  "fetched_at": "2026-08-01T23:07:33.443640+00:00",
-  "id": "486",
-  "slug": "predict-the-winner",
+  "fetched_at": "2026-08-02T03:48:12.781638+00:00",
+  "id": "877",
+  "slug": "stone-game",
   "tags": [
     "Array",
     "Math",
     "Dynamic Programming",
-    "Recursion",
     "Game Theory"
   ],
-  "title": "Predict the Winner",
-  "url": "https://leetcode.com/problems/predict-the-winner/"
+  "title": "Stone Game",
+  "url": "https://leetcode.com/problems/stone-game/"
 }
