@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T04:13:12.739520+00:00",
+  "fetched_at": "2026-08-04T06:38:01.924788+00:00",
   "problems": [
     {
       "contestId": 2250,
@@ -117,6 +117,7 @@
       "rating": 2500,
       "tags": [
         "binary search",
+        "greedy",
         "math"
       ]
     },
