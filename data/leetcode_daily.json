@@ -1,17 +1,14 @@
 {
-  "date": "2026-08-03",
-  "difficulty": "Hard",
-  "fetched_at": "2026-08-03T23:16:59.279925+00:00",
-  "id": "1406",
-  "slug": "stone-game-iii",
+  "date": "2026-08-04",
+  "difficulty": "Easy",
+  "fetched_at": "2026-08-04T03:32:55.393657+00:00",
+  "id": "3731",
+  "slug": "find-missing-elements",
   "tags": [
     "Array",
-    "Math",
-    "Dynamic Programming",
-    "Minimax",
-    "Game Theory",
-    "Zero-Sum Game"
+    "Hash Table",
+    "Sorting"
   ],
-  "title": "Stone Game III",
-  "url": "https://leetcode.com/problems/stone-game-iii/"
+  "title": "Find Missing Elements",
+  "url": "https://leetcode.com/problems/find-missing-elements/"
 }
