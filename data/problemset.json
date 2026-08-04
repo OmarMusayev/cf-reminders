@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T10:48:21.217986+00:00",
+  "fetched_at": "2026-08-04T14:36:33.345552+00:00",
   "problems": [
     {
       "contestId": 2250,
@@ -106,6 +106,7 @@
       "name": "No Balance Left",
       "rating": 3000,
       "tags": [
+        "bitmasks",
         "dp",
         "math"
       ]
