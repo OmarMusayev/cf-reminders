@@ -1,14 +1,13 @@
 {
-  "date": "2026-08-05",
-  "difficulty": "Medium",
-  "fetched_at": "2026-08-05T23:16:09.783555+00:00",
-  "id": "3310",
-  "slug": "remove-methods-from-project",
+  "date": "2026-08-06",
+  "difficulty": "Easy",
+  "fetched_at": "2026-08-06T03:31:47.432662+00:00",
+  "id": "3345",
+  "slug": "smallest-divisible-digit-product-i",
   "tags": [
-    "Depth-First Search",
-    "Breadth-First Search",
-    "Graph Theory"
+    "Math",
+    "Enumeration"
   ],
-  "title": "Remove Methods From Project",
-  "url": "https://leetcode.com/problems/remove-methods-from-project/"
+  "title": "Smallest Divisible Digit Product I",
+  "url": "https://leetcode.com/problems/smallest-divisible-digit-product-i/"
 }
