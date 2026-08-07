@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07T05:48:22.613901+00:00",
+  "fetched_at": "2026-08-07T07:38:26.633811+00:00",
   "problems": [
     {
       "contestId": 2250,
@@ -108,7 +108,8 @@
       "tags": [
         "bitmasks",
         "dp",
-        "math"
+        "math",
+        "number theory"
       ]
     },
     {
