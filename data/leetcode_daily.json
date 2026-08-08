@@ -1,16 +1,15 @@
 {
-  "date": "2026-08-07",
-  "difficulty": "Hard",
-  "fetched_at": "2026-08-07T22:52:23.806885+00:00",
-  "id": "3348",
-  "slug": "smallest-divisible-digit-product-ii",
+  "date": "2026-08-08",
+  "difficulty": "Medium",
+  "fetched_at": "2026-08-08T02:18:16.330417+00:00",
+  "id": "3302",
+  "slug": "find-the-lexicographically-smallest-valid-sequence",
   "tags": [
-    "Math",
+    "Two Pointers",
     "String",
-    "Backtracking",
-    "Greedy",
-    "Number Theory"
+    "Dynamic Programming",
+    "Greedy"
   ],
-  "title": "Smallest Divisible Digit Product II",
-  "url": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/"
+  "title": "Find the Lexicographically Smallest Valid Sequence",
+  "url": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/"
 }
