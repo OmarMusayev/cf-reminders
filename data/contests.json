@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-08T18:54:52.714298+00:00",
+  "fetched_at": "2026-08-08T20:45:09.487622+00:00",
   "upcoming": [
     {
       "durationSeconds": 7200,
@@ -7,7 +7,7 @@
       "id": 2257,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -762029,
+      "relativeTimeSeconds": -755426,
       "startTimeSeconds": 1786977300,
       "type": "CF"
     },
@@ -17,7 +17,7 @@
       "id": 2251,
       "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -489929,
+      "relativeTimeSeconds": -483326,
       "startTimeSeconds": 1786705200,
       "type": "IOI"
     },
@@ -27,7 +27,7 @@
       "id": 2255,
       "name": "Codeforces Round 1116 (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -70830,
+      "relativeTimeSeconds": -64227,
       "startTimeSeconds": 1786286100,
       "type": "CF"
     },
@@ -37,7 +37,7 @@
       "id": 2256,
       "name": "Codeforces Round 1116 (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -70830,
+      "relativeTimeSeconds": -64227,
       "startTimeSeconds": 1786286100,
       "type": "CF"
     }
