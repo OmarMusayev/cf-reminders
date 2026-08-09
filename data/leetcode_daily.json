@@ -1,15 +1,18 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "difficulty": "Medium",
-  "fetched_at": "2026-08-08T22:43:48.878470+00:00",
-  "id": "3302",
-  "slug": "find-the-lexicographically-smallest-valid-sequence",
+  "fetched_at": "2026-08-09T02:25:49.195949+00:00",
+  "id": "1140",
+  "slug": "stone-game-ii",
   "tags": [
-    "Two Pointers",
-    "String",
+    "Array",
+    "Math",
     "Dynamic Programming",
-    "Greedy"
+    "Minimax",
+    "Prefix Sum",
+    "Game Theory",
+    "Zero-Sum Game"
   ],
-  "title": "Find the Lexicographically Smallest Valid Sequence",
-  "url": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/"
+  "title": "Stone Game II",
+  "url": "https://leetcode.com/problems/stone-game-ii/"
 }
