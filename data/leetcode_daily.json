@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-09",
-  "difficulty": "Medium",
-  "fetched_at": "2026-08-09T22:46:12.870831+00:00",
-  "id": "1140",
-  "slug": "stone-game-ii",
+  "date": "2026-08-10",
+  "difficulty": "Hard",
+  "fetched_at": "2026-08-10T02:30:30.133887+00:00",
+  "id": "1510",
+  "slug": "stone-game-iv",
   "tags": [
-    "Array",
     "Math",
     "Dynamic Programming",
     "Minimax",
-    "Prefix Sum",
     "Game Theory",
+    "Nim Game",
+    "Sprague\u2013Grundy Theorem",
     "Zero-Sum Game"
   ],
-  "title": "Stone Game II",
-  "url": "https://leetcode.com/problems/stone-game-ii/"
+  "title": "Stone Game IV",
+  "url": "https://leetcode.com/problems/stone-game-iv/"
 }
