@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-14T19:09:59.733356+00:00",
+  "fetched_at": "2026-08-14T20:41:55.064132+00:00",
   "problems": [
     {
       "contestId": 2256,
@@ -72,6 +72,7 @@
       "tags": [
         "communication",
         "constructive algorithms",
+        "expression parsing",
         "greedy",
         "interactive",
         "math",
