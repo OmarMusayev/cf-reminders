@@ -1,14 +1,13 @@
 {
-  "date": "2026-08-14",
-  "difficulty": "Easy",
-  "fetched_at": "2026-08-14T22:37:10.103115+00:00",
-  "id": "3090",
-  "slug": "maximum-length-substring-with-two-occurrences",
+  "date": "2026-08-15",
+  "difficulty": "Medium",
+  "fetched_at": "2026-08-15T01:47:06.211470+00:00",
+  "id": "3702",
+  "slug": "longest-subsequence-with-non-zero-bitwise-xor",
   "tags": [
-    "Hash Table",
-    "String",
-    "Sliding Window"
+    "Array",
+    "Bit Manipulation"
   ],
-  "title": "Maximum Length Substring With Two Occurrences",
-  "url": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/"
+  "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+  "url": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/"
 }
