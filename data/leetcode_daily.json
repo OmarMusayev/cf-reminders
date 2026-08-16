@@ -1,13 +1,19 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "difficulty": "Medium",
-  "fetched_at": "2026-08-15T22:34:39.946909+00:00",
-  "id": "3702",
-  "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+  "fetched_at": "2026-08-16T01:54:54.376616+00:00",
+  "id": "2029",
+  "slug": "stone-game-ix",
   "tags": [
     "Array",
-    "Bit Manipulation"
+    "Math",
+    "Greedy",
+    "Minimax",
+    "Counting",
+    "Game Theory",
+    "Nim Game",
+    "Zero-Sum Game"
   ],
-  "title": "Longest Subsequence With Non-Zero Bitwise XOR",
-  "url": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/"
+  "title": "Stone Game IX",
+  "url": "https://leetcode.com/problems/stone-game-ix/"
 }
