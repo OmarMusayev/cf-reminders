@@ -1,19 +1,15 @@
 {
-  "date": "2026-08-16",
-  "difficulty": "Medium",
-  "fetched_at": "2026-08-16T22:33:45.601430+00:00",
-  "id": "2029",
-  "slug": "stone-game-ix",
+  "date": "2026-08-17",
+  "difficulty": "Hard",
+  "fetched_at": "2026-08-17T01:52:29.669350+00:00",
+  "id": "1563",
+  "slug": "stone-game-v",
   "tags": [
     "Array",
     "Math",
-    "Greedy",
-    "Minimax",
-    "Counting",
-    "Game Theory",
-    "Nim Game",
-    "Zero-Sum Game"
+    "Dynamic Programming",
+    "Game Theory"
   ],
-  "title": "Stone Game IX",
-  "url": "https://leetcode.com/problems/stone-game-ix/"
+  "title": "Stone Game V",
+  "url": "https://leetcode.com/problems/stone-game-v/"
 }
