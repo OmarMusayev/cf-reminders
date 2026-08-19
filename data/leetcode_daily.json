@@ -1,13 +1,15 @@
 {
-  "date": "2026-08-18",
-  "difficulty": "Easy",
-  "fetched_at": "2026-08-18T22:38:10.167198+00:00",
-  "id": "3471",
-  "slug": "find-the-largest-almost-missing-integer",
+  "date": "2026-08-19",
+  "difficulty": "Medium",
+  "fetched_at": "2026-08-19T01:50:10.077548+00:00",
+  "id": "1386",
+  "slug": "cinema-seat-allocation",
   "tags": [
     "Array",
-    "Hash Table"
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
   ],
-  "title": "Find the Largest Almost Missing Integer",
-  "url": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/"
+  "title": "Cinema Seat Allocation",
+  "url": "https://leetcode.com/problems/cinema-seat-allocation/"
 }
