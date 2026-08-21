@@ -1,13 +1,17 @@
 {
-  "date": "2026-08-20",
-  "difficulty": "Easy",
-  "fetched_at": "2026-08-20T22:41:14.962499+00:00",
-  "id": "3069",
-  "slug": "distribute-elements-into-two-arrays-i",
+  "date": "2026-08-21",
+  "difficulty": "Hard",
+  "fetched_at": "2026-08-21T01:54:39.989917+00:00",
+  "id": "3116",
+  "slug": "kth-smallest-amount-with-single-denomination-combination",
   "tags": [
     "Array",
-    "Simulation"
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Combinatorics",
+    "Number Theory"
   ],
-  "title": "Distribute Elements Into Two Arrays I",
-  "url": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/"
+  "title": "Kth Smallest Amount With Single Denomination Combination",
+  "url": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/"
 }
