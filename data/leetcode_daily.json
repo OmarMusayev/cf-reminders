@@ -1,12 +1,15 @@
 {
-  "date": "2026-08-22",
-  "difficulty": "Easy",
-  "fetched_at": "2026-08-22T22:35:17.677089+00:00",
-  "id": "3622",
-  "slug": "check-divisibility-by-digit-sum-and-product",
+  "date": "2026-08-23",
+  "difficulty": "Medium",
+  "fetched_at": "2026-08-23T01:57:14.392558+00:00",
+  "id": "1927",
+  "slug": "sum-game",
   "tags": [
-    "Math"
+    "Math",
+    "String",
+    "Greedy",
+    "Game Theory"
   ],
-  "title": "Check Divisibility by Digit Sum and Product",
-  "url": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/"
+  "title": "Sum Game",
+  "url": "https://leetcode.com/problems/sum-game/"
 }
