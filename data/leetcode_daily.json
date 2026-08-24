@@ -1,15 +1,18 @@
 {
-  "date": "2026-08-23",
-  "difficulty": "Medium",
-  "fetched_at": "2026-08-23T22:34:58.480627+00:00",
-  "id": "1927",
-  "slug": "sum-game",
+  "date": "2026-08-24",
+  "difficulty": "Hard",
+  "fetched_at": "2026-08-24T01:54:50.555726+00:00",
+  "id": "1872",
+  "slug": "stone-game-viii",
   "tags": [
+    "Array",
     "Math",
-    "String",
-    "Greedy",
-    "Game Theory"
+    "Dynamic Programming",
+    "Minimax",
+    "Prefix Sum",
+    "Game Theory",
+    "Zero-Sum Game"
   ],
-  "title": "Sum Game",
-  "url": "https://leetcode.com/problems/sum-game/"
+  "title": "Stone Game VIII",
+  "url": "https://leetcode.com/problems/stone-game-viii/"
 }
