@@ -1,18 +1,13 @@
 {
-  "date": "2026-08-24",
-  "difficulty": "Hard",
-  "fetched_at": "2026-08-24T22:40:29.521630+00:00",
-  "id": "1872",
-  "slug": "stone-game-viii",
+  "date": "2026-08-25",
+  "difficulty": "Easy",
+  "fetched_at": "2026-08-25T01:49:13.913593+00:00",
+  "id": "3718",
+  "slug": "smallest-missing-multiple-of-k",
   "tags": [
     "Array",
-    "Math",
-    "Dynamic Programming",
-    "Minimax",
-    "Prefix Sum",
-    "Game Theory",
-    "Zero-Sum Game"
+    "Hash Table"
   ],
-  "title": "Stone Game VIII",
-  "url": "https://leetcode.com/problems/stone-game-viii/"
+  "title": "Smallest Missing Multiple of K",
+  "url": "https://leetcode.com/problems/smallest-missing-multiple-of-k/"
 }
