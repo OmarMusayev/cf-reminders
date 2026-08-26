@@ -1,6 +1,88 @@
 {
-  "fetched_at": "2026-08-26T08:58:32.017752+00:00",
+  "fetched_at": "2026-08-26T10:49:21.018387+00:00",
   "problems": [
+    {
+      "contestId": 2257,
+      "index": "F2",
+      "name": "Beaver's Jumping Track (Hard Version)",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2257,
+      "index": "F1",
+      "name": "Beaver's Jumping Track (Easy Version)",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dp",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2257,
+      "index": "E",
+      "name": "Busy Beaver",
+      "rating": 2000,
+      "tags": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2257,
+      "index": "D",
+      "name": "Bermuda Rectangle",
+      "rating": 1600,
+      "tags": [
+        "binary search",
+        "implementation",
+        "math",
+        "number theory",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2257,
+      "index": "C",
+      "name": "Spying on the Beaver",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2257,
+      "index": "B",
+      "name": "Gigantomachy",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 2257,
+      "index": "A",
+      "name": "Creating Abbreviations",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "strings"
+      ]
+    },
     {
       "contestId": 2256,
       "index": "B",
