@@ -1,13 +1,16 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "difficulty": "Medium",
-  "fetched_at": "2026-08-26T23:28:08.007553+00:00",
-  "id": "2904",
-  "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+  "fetched_at": "2026-08-27T09:36:47.397951+00:00",
+  "id": "3720",
+  "slug": "lexicographically-smallest-permutation-greater-than-target",
   "tags": [
+    "Hash Table",
     "String",
-    "Sliding Window"
+    "Greedy",
+    "Counting",
+    "Enumeration"
   ],
-  "title": "Shortest and Lexicographically Smallest Beautiful String",
-  "url": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/"
+  "title": "Lexicographically Smallest Permutation Greater Than Target",
+  "url": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/"
 }
