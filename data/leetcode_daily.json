@@ -1,16 +1,14 @@
 {
-  "date": "2026-08-27",
-  "difficulty": "Medium",
-  "fetched_at": "2026-08-27T20:22:30.805830+00:00",
-  "id": "3720",
-  "slug": "lexicographically-smallest-permutation-greater-than-target",
+  "date": "2026-08-28",
+  "difficulty": "Hard",
+  "fetched_at": "2026-08-28T06:05:18.963021+00:00",
+  "id": "3734",
+  "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
   "tags": [
-    "Hash Table",
+    "Two Pointers",
     "String",
-    "Greedy",
-    "Counting",
     "Enumeration"
   ],
-  "title": "Lexicographically Smallest Permutation Greater Than Target",
-  "url": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/"
+  "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+  "url": "https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/"
 }
