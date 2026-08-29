@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-28",
-  "difficulty": "Hard",
-  "fetched_at": "2026-08-28T18:36:58.753772+00:00",
-  "id": "3734",
-  "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+  "date": "2026-08-29",
+  "difficulty": "Medium",
+  "fetched_at": "2026-08-29T02:47:49.889880+00:00",
+  "id": "2948",
+  "slug": "make-lexicographically-smallest-array-by-swapping-elements",
   "tags": [
-    "Two Pointers",
-    "String",
-    "Enumeration"
+    "Array",
+    "Union-Find",
+    "Sorting"
   ],
-  "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
-  "url": "https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/"
+  "title": "Make Lexicographically Smallest Array by Swapping Elements",
+  "url": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/"
 }
