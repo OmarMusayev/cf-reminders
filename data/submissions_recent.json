@@ -1,6 +1,52 @@
 {
-  "fetched_at": "2026-08-29T11:01:02.190286+00:00",
+  "fetched_at": "2026-08-29T16:40:41.588878+00:00",
   "submissions": [
+    {
+      "contestId": 2258,
+      "creationTimeSeconds": 1788016488,
+      "id": 388803424,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2258,
+        "index": "B1",
+        "name": "Carrot Chopdown (Easy Version)",
+        "rating": null,
+        "tags": []
+      },
+      "verdict": null
+    },
+    {
+      "contestId": 2258,
+      "creationTimeSeconds": 1788015539,
+      "id": 388794817,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2258,
+        "index": "A",
+        "name": "Odd Eraser",
+        "rating": null,
+        "tags": [
+          "math"
+        ]
+      },
+      "verdict": null
+    },
+    {
+      "contestId": 2258,
+      "creationTimeSeconds": 1788015113,
+      "id": 388790315,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2258,
+        "index": "A",
+        "name": "Odd Eraser",
+        "rating": null,
+        "tags": [
+          "math"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
     {
       "contestId": 1878,
       "creationTimeSeconds": 1787362305,

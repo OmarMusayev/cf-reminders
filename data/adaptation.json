@@ -1,7 +1,7 @@
 {
   "base_rating": 1420,
   "effective_rating": 1420,
-  "fetched_at": "2026-08-29T11:01:02.190286+00:00",
+  "fetched_at": "2026-08-29T16:40:41.588878+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -29,6 +29,11 @@
       "attempted": 1,
       "rate": 1.0,
       "solved": 1
+    },
+    "math": {
+      "attempted": 1,
+      "rate": 0.0,
+      "solved": 0
     }
   }
 }
