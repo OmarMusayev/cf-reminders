@@ -1,13 +1,12 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "difficulty": "Medium",
-  "fetched_at": "2026-08-30T22:42:16.972307+00:00",
-  "id": "2091",
-  "slug": "removing-minimum-and-maximum-from-array",
+  "fetched_at": "2026-08-31T05:26:43.522524+00:00",
+  "id": "2058",
+  "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
   "tags": [
-    "Array",
-    "Greedy"
+    "Linked List"
   ],
-  "title": "Removing Minimum and Maximum From Array",
-  "url": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/"
+  "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+  "url": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/"
 }
