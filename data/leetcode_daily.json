@@ -1,12 +1,16 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "difficulty": "Medium",
-  "fetched_at": "2026-08-31T23:48:14.660931+00:00",
-  "id": "2058",
-  "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+  "fetched_at": "2026-09-01T05:01:02.392683+00:00",
+  "id": "3568",
+  "slug": "minimum-moves-to-clean-the-classroom",
   "tags": [
-    "Linked List"
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Breadth-First Search",
+    "Matrix"
   ],
-  "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
-  "url": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/"
+  "title": "Minimum Moves to Clean the Classroom",
+  "url": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/"
 }
