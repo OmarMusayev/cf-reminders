@@ -1,16 +1,13 @@
 {
-  "date": "2026-09-01",
-  "difficulty": "Medium",
-  "fetched_at": "2026-09-01T20:58:57.079216+00:00",
-  "id": "3568",
-  "slug": "minimum-moves-to-clean-the-classroom",
+  "date": "2026-09-02",
+  "difficulty": "Easy",
+  "fetched_at": "2026-09-02T00:06:44.651639+00:00",
+  "id": "3875",
+  "slug": "construct-uniform-parity-array-i",
   "tags": [
     "Array",
-    "Hash Table",
-    "Bit Manipulation",
-    "Breadth-First Search",
-    "Matrix"
+    "Math"
   ],
-  "title": "Minimum Moves to Clean the Classroom",
-  "url": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/"
+  "title": "Construct Uniform Parity Array I",
+  "url": "https://leetcode.com/problems/construct-uniform-parity-array-i/"
 }
