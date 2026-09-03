@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-02",
-  "difficulty": "Easy",
-  "fetched_at": "2026-09-02T20:59:06.559530+00:00",
-  "id": "3875",
-  "slug": "construct-uniform-parity-array-i",
+  "date": "2026-09-03",
+  "difficulty": "Medium",
+  "fetched_at": "2026-09-03T00:10:53.298730+00:00",
+  "id": "3876",
+  "slug": "construct-uniform-parity-array-ii",
   "tags": [
     "Array",
     "Math"
   ],
-  "title": "Construct Uniform Parity Array I",
-  "url": "https://leetcode.com/problems/construct-uniform-parity-array-i/"
+  "title": "Construct Uniform Parity Array II",
+  "url": "https://leetcode.com/problems/construct-uniform-parity-array-ii/"
 }
