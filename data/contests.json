@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T11:12:20.230839+00:00",
+  "fetched_at": "2026-09-04T16:17:51.561750+00:00",
   "upcoming": [
     {
       "durationSeconds": 10800,
@@ -7,7 +7,7 @@
       "id": 2261,
       "name": "Codeforces Round (Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -3727369,
+      "relativeTimeSeconds": -3709085,
       "startTimeSeconds": 1792247700,
       "type": "CF"
     },
@@ -17,7 +17,7 @@
       "id": 2260,
       "name": "Educational Codeforces Round 194 (Rated for Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -357769,
+      "relativeTimeSeconds": -339485,
       "startTimeSeconds": 1788878100,
       "type": "ICPC"
     },
@@ -27,7 +27,7 @@
       "id": 2259,
       "name": "Codeforces Round 1119 (Div. 3)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -98569,
+      "relativeTimeSeconds": -80286,
       "startTimeSeconds": 1788618900,
       "type": "ICPC"
     }
