@@ -1,6 +1,88 @@
 {
-  "fetched_at": "2026-09-05T15:08:45.572570+00:00",
+  "fetched_at": "2026-09-05T18:13:25.283593+00:00",
   "submissions": [
+    {
+      "contestId": 2259,
+      "creationTimeSeconds": 1788626541,
+      "id": 389565853,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2259,
+        "index": "D",
+        "name": "MEX Multiset",
+        "rating": null,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ]
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 2259,
+      "creationTimeSeconds": 1788626401,
+      "id": 389564835,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2259,
+        "index": "D",
+        "name": "MEX Multiset",
+        "rating": null,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
+    {
+      "contestId": 2259,
+      "creationTimeSeconds": 1788626298,
+      "id": 389564020,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2259,
+        "index": "D",
+        "name": "MEX Multiset",
+        "rating": null,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
+    {
+      "contestId": 2259,
+      "creationTimeSeconds": 1788624719,
+      "id": 389550760,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2259,
+        "index": "D",
+        "name": "MEX Multiset",
+        "rating": null,
+        "tags": [
+          "constructive algorithms",
+          "greedy"
+        ]
+      },
+      "verdict": "WRONG_ANSWER"
+    },
+    {
+      "contestId": 2259,
+      "creationTimeSeconds": 1788622354,
+      "id": 389523014,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2259,
+        "index": "C",
+        "name": "101",
+        "rating": null,
+        "tags": []
+      },
+      "verdict": "OK"
+    },
     {
       "contestId": 2259,
       "creationTimeSeconds": 1788620852,
@@ -11,7 +93,9 @@
         "index": "B",
         "name": "Minus Two",
         "rating": null,
-        "tags": []
+        "tags": [
+          "number theory"
+        ]
       },
       "verdict": "OK"
     },
@@ -25,7 +109,9 @@
         "index": "A",
         "name": "Moo Language School",
         "rating": null,
-        "tags": []
+        "tags": [
+          "greedy"
+        ]
       },
       "verdict": "OK"
     },

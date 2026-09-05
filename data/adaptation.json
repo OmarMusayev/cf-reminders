@@ -1,7 +1,7 @@
 {
   "base_rating": 1362,
   "effective_rating": 1362,
-  "fetched_at": "2026-09-05T15:08:45.572570+00:00",
+  "fetched_at": "2026-09-05T18:13:25.283593+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -25,6 +25,11 @@
       "rate": 1.0,
       "solved": 1
     },
+    "constructive algorithms": {
+      "attempted": 1,
+      "rate": 1.0,
+      "solved": 1
+    },
     "data structures": {
       "attempted": 1,
       "rate": 1.0,
@@ -36,14 +41,19 @@
       "solved": 1
     },
     "greedy": {
-      "attempted": 1,
+      "attempted": 3,
       "rate": 1.0,
-      "solved": 1
+      "solved": 3
     },
     "math": {
       "attempted": 2,
       "rate": 1.0,
       "solved": 2
+    },
+    "number theory": {
+      "attempted": 1,
+      "rate": 1.0,
+      "solved": 1
     }
   }
 }
