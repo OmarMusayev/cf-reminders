@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T18:13:25.283593+00:00",
+  "fetched_at": "2026-09-05T22:02:19.110923+00:00",
   "submissions": [
     {
       "contestId": 2259,
@@ -79,7 +79,9 @@
         "index": "C",
         "name": "101",
         "rating": null,
-        "tags": []
+        "tags": [
+          "greedy"
+        ]
       },
       "verdict": "OK"
     },
@@ -94,6 +96,7 @@
         "name": "Minus Two",
         "rating": null,
         "tags": [
+          "math",
           "number theory"
         ]
       },
