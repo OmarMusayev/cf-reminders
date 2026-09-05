@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-09-05T10:30:01.774144+00:00",
+  "fetched_at": "2026-09-05T15:08:45.572570+00:00",
   "submissions": [
+    {
+      "contestId": 2259,
+      "creationTimeSeconds": 1788620852,
+      "id": 389497285,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2259,
+        "index": "B",
+        "name": "Minus Two",
+        "rating": null,
+        "tags": []
+      },
+      "verdict": "OK"
+    },
+    {
+      "contestId": 2259,
+      "creationTimeSeconds": 1788620023,
+      "id": 389478905,
+      "participantType": "CONTESTANT",
+      "problem": {
+        "contestId": 2259,
+        "index": "A",
+        "name": "Moo Language School",
+        "rating": null,
+        "tags": []
+      },
+      "verdict": "OK"
+    },
     {
       "contestId": 2258,
       "creationTimeSeconds": 1788016488,
