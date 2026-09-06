@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-05",
-  "difficulty": "Medium",
-  "fetched_at": "2026-09-05T23:51:14.575881+00:00",
-  "id": "3904",
-  "slug": "smallest-stable-index-ii",
+  "date": "2026-09-06",
+  "difficulty": "Hard",
+  "fetched_at": "2026-09-06T04:31:09.451120+00:00",
+  "id": "115",
+  "slug": "distinct-subsequences",
   "tags": [
-    "Array",
-    "Prefix Sum"
+    "String",
+    "Dynamic Programming"
   ],
-  "title": "Smallest Stable Index II",
-  "url": "https://leetcode.com/problems/smallest-stable-index-ii/"
+  "title": "Distinct Subsequences",
+  "url": "https://leetcode.com/problems/distinct-subsequences/"
 }

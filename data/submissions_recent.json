@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T23:51:14.575881+00:00",
+  "fetched_at": "2026-09-06T04:31:09.451120+00:00",
   "submissions": [
     {
       "contestId": 2259,
@@ -80,6 +80,7 @@
         "name": "101",
         "rating": null,
         "tags": [
+          "constructive algorithms",
           "greedy"
         ]
       },
@@ -113,7 +114,9 @@
         "name": "Moo Language School",
         "rating": null,
         "tags": [
-          "greedy"
+          "brute force",
+          "greedy",
+          "two pointers"
         ]
       },
       "verdict": "OK"
