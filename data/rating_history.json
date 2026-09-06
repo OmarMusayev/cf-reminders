@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T04:31:09.451120+00:00",
+  "fetched_at": "2026-09-06T10:50:32.942106+00:00",
   "history": [
     {
       "contestId": 1676,
@@ -153,6 +153,15 @@
       "oldRating": 1420,
       "rank": 6170,
       "ratingUpdateTimeSeconds": 1788021300
+    },
+    {
+      "contestId": 2259,
+      "contestName": "Codeforces Round 1119 (Div. 3)",
+      "handle": "Omar_Musayev",
+      "newRating": 1326,
+      "oldRating": 1362,
+      "rank": 5554,
+      "ratingUpdateTimeSeconds": 1788627600
     }
   ]
 }
