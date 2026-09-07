@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "difficulty": "Hard",
-  "fetched_at": "2026-09-06T23:50:13.317422+00:00",
-  "id": "115",
-  "slug": "distinct-subsequences",
+  "fetched_at": "2026-09-07T04:30:46.345926+00:00",
+  "id": "940",
+  "slug": "distinct-subsequences-ii",
   "tags": [
     "String",
     "Dynamic Programming"
   ],
-  "title": "Distinct Subsequences",
-  "url": "https://leetcode.com/problems/distinct-subsequences/"
+  "title": "Distinct Subsequences II",
+  "url": "https://leetcode.com/problems/distinct-subsequences-ii/"
 }
