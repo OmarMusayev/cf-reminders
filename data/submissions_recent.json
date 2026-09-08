@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T11:11:41.494351+00:00",
+  "fetched_at": "2026-09-08T16:34:33.629044+00:00",
   "submissions": [
     {
       "contestId": 2259,
@@ -10,7 +10,7 @@
         "contestId": 2259,
         "index": "D",
         "name": "MEX Multiset",
-        "rating": null,
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -27,7 +27,7 @@
         "contestId": 2259,
         "index": "D",
         "name": "MEX Multiset",
-        "rating": null,
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -44,7 +44,7 @@
         "contestId": 2259,
         "index": "D",
         "name": "MEX Multiset",
-        "rating": null,
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -61,7 +61,7 @@
         "contestId": 2259,
         "index": "D",
         "name": "MEX Multiset",
-        "rating": null,
+        "rating": 1200,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -78,7 +78,7 @@
         "contestId": 2259,
         "index": "C",
         "name": "101",
-        "rating": null,
+        "rating": 1000,
         "tags": [
           "constructive algorithms",
           "greedy"
@@ -95,7 +95,7 @@
         "contestId": 2259,
         "index": "B",
         "name": "Minus Two",
-        "rating": null,
+        "rating": 800,
         "tags": [
           "math",
           "number theory"
@@ -112,7 +112,7 @@
         "contestId": 2259,
         "index": "A",
         "name": "Moo Language School",
-        "rating": null,
+        "rating": 800,
         "tags": [
           "brute force",
           "greedy",
@@ -130,7 +130,7 @@
         "contestId": 2258,
         "index": "B1",
         "name": "Carrot Chopdown (Easy Version)",
-        "rating": null,
+        "rating": 900,
         "tags": [
           "brute force",
           "games",
@@ -148,7 +148,7 @@
         "contestId": 2258,
         "index": "A",
         "name": "Odd Eraser",
-        "rating": null,
+        "rating": 800,
         "tags": [
           "math"
         ]
@@ -164,7 +164,7 @@
         "contestId": 2258,
         "index": "A",
         "name": "Odd Eraser",
-        "rating": null,
+        "rating": 800,
         "tags": [
           "math"
         ]

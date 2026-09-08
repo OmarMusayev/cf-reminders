@@ -1,6 +1,171 @@
 {
-  "fetched_at": "2026-09-08T11:11:41.494351+00:00",
+  "fetched_at": "2026-09-08T16:34:33.629044+00:00",
   "problems": [
+    {
+      "contestId": 2259,
+      "index": "H",
+      "name": "Treasure Map Destruction (Counting Version)",
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2259,
+      "index": "G",
+      "name": "Index Removal",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2259,
+      "index": "F",
+      "name": "Binary Bubble Sort Inversions",
+      "rating": 1800,
+      "tags": [
+        "data structures",
+        "math",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2259,
+      "index": "E",
+      "name": "Treasure Map Destruction (Constructive Version)",
+      "rating": 1500,
+      "tags": [
+        "2-sat",
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2259,
+      "index": "D",
+      "name": "MEX Multiset",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2259,
+      "index": "C",
+      "name": "101",
+      "rating": 1000,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2259,
+      "index": "B",
+      "name": "Minus Two",
+      "rating": 800,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2259,
+      "index": "A",
+      "name": "Moo Language School",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "greedy",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2258,
+      "index": "F",
+      "name": "Plus Minus Tree",
+      "rating": 2500,
+      "tags": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2258,
+      "index": "E",
+      "name": "DivMEX",
+      "rating": 2400,
+      "tags": [
+        "data structures",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2258,
+      "index": "D",
+      "name": "Magic Tiles",
+      "rating": 2500,
+      "tags": [
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2258,
+      "index": "C",
+      "name": "Far Cities",
+      "rating": 1600,
+      "tags": [
+        "interactive",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2258,
+      "index": "B2",
+      "name": "Carrot Chopdown (Hard Version)",
+      "rating": 1600,
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2258,
+      "index": "B1",
+      "name": "Carrot Chopdown (Easy Version)",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2258,
+      "index": "A",
+      "name": "Odd Eraser",
+      "rating": 800,
+      "tags": [
+        "math"
+      ]
+    },
     {
       "contestId": 2257,
       "index": "F2",
