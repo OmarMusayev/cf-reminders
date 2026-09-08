@@ -1,13 +1,12 @@
 {
-  "date": "2026-09-07",
-  "difficulty": "Hard",
-  "fetched_at": "2026-09-07T22:47:26.941053+00:00",
-  "id": "940",
-  "slug": "distinct-subsequences-ii",
+  "date": "2026-09-08",
+  "difficulty": "Easy",
+  "fetched_at": "2026-09-08T04:28:40.605088+00:00",
+  "id": "3870",
+  "slug": "count-commas-in-range",
   "tags": [
-    "String",
-    "Dynamic Programming"
+    "Math"
   ],
-  "title": "Distinct Subsequences II",
-  "url": "https://leetcode.com/problems/distinct-subsequences-ii/"
+  "title": "Count Commas in Range",
+  "url": "https://leetcode.com/problems/count-commas-in-range/"
 }
