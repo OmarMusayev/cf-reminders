@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-08",
-  "difficulty": "Easy",
-  "fetched_at": "2026-09-08T21:05:42.161119+00:00",
-  "id": "3870",
-  "slug": "count-commas-in-range",
+  "date": "2026-09-09",
+  "difficulty": "Medium",
+  "fetched_at": "2026-09-09T00:09:48.356364+00:00",
+  "id": "3871",
+  "slug": "count-commas-in-range-ii",
   "tags": [
     "Math"
   ],
-  "title": "Count Commas in Range",
-  "url": "https://leetcode.com/problems/count-commas-in-range/"
+  "title": "Count Commas in Range II",
+  "url": "https://leetcode.com/problems/count-commas-in-range-ii/"
 }
