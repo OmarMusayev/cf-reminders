@@ -1,12 +1,14 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "difficulty": "Medium",
-  "fetched_at": "2026-09-09T20:53:50.471220+00:00",
-  "id": "3871",
-  "slug": "count-commas-in-range-ii",
+  "fetched_at": "2026-09-10T00:10:44.945757+00:00",
+  "id": "2265",
+  "slug": "count-nodes-equal-to-average-of-subtree",
   "tags": [
-    "Math"
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
   ],
-  "title": "Count Commas in Range II",
-  "url": "https://leetcode.com/problems/count-commas-in-range-ii/"
+  "title": "Count Nodes Equal to Average of Subtree",
+  "url": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/"
 }
