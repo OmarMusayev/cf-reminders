@@ -1,14 +1,15 @@
 {
-  "date": "2026-09-10",
-  "difficulty": "Medium",
-  "fetched_at": "2026-09-10T20:48:23.586726+00:00",
-  "id": "2265",
-  "slug": "count-nodes-equal-to-average-of-subtree",
+  "date": "2026-09-11",
+  "difficulty": "Easy",
+  "fetched_at": "2026-09-11T00:05:57.252324+00:00",
+  "id": "3483",
+  "slug": "unique-3-digit-even-numbers",
   "tags": [
-    "Tree",
-    "Depth-First Search",
-    "Binary Tree"
+    "Array",
+    "Hash Table",
+    "Recursion",
+    "Enumeration"
   ],
-  "title": "Count Nodes Equal to Average of Subtree",
-  "url": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/"
+  "title": "Unique 3-Digit Even Numbers",
+  "url": "https://leetcode.com/problems/unique-3-digit-even-numbers/"
 }
