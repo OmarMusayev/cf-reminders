@@ -1,15 +1,15 @@
 {
-  "date": "2026-09-11",
-  "difficulty": "Easy",
-  "fetched_at": "2026-09-11T20:54:58.465548+00:00",
-  "id": "3483",
-  "slug": "unique-3-digit-even-numbers",
+  "date": "2026-09-12",
+  "difficulty": "Hard",
+  "fetched_at": "2026-09-12T00:14:02.413700+00:00",
+  "id": "3414",
+  "slug": "maximum-score-of-non-overlapping-intervals",
   "tags": [
     "Array",
-    "Hash Table",
-    "Recursion",
-    "Enumeration"
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
   ],
-  "title": "Unique 3-Digit Even Numbers",
-  "url": "https://leetcode.com/problems/unique-3-digit-even-numbers/"
+  "title": "Maximum Score of Non-overlapping Intervals",
+  "url": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/"
 }
