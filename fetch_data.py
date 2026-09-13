@@ -15,6 +15,7 @@ Outputs:
   data/leetcode_daily.json     — LeetCode's daily challenge (fresh each day)
 """
 import json
+import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -23,16 +24,33 @@ import requests
 HANDLE = "Omar_Musayev"
 DATA_DIR = Path(__file__).parent / "data"
 TIMEOUT = 60
+RETRIES = 4
+RETRY_BACKOFF = [3, 8, 20]  # seconds to wait before retry attempts 2, 3, 4
 NOW = datetime.now(timezone.utc)
 
 
 def cf_get(url):
-    r = requests.get(url, timeout=TIMEOUT)
-    r.raise_for_status()
-    data = r.json()
-    if data.get("status") != "OK":
-        raise RuntimeError(f"{url}: {data.get('status')}: {data.get('comment')}")
-    return data["result"]
+    """GET a Codeforces API endpoint, retrying transient network/API failures.
+
+    The Codeforces API intermittently times out or returns a non-OK status;
+    a single blip should not fail the whole run, so retry with backoff.
+    """
+    last_err = None
+    for attempt in range(RETRIES):
+        try:
+            r = requests.get(url, timeout=TIMEOUT)
+            r.raise_for_status()
+            data = r.json()
+            if data.get("status") != "OK":
+                raise RuntimeError(f"{url}: {data.get('status')}: {data.get('comment')}")
+            return data["result"]
+        except (requests.exceptions.RequestException, RuntimeError) as e:
+            last_err = e
+            if attempt + 1 < RETRIES:
+                delay = RETRY_BACKOFF[attempt]
+                print(f"cf_get failed (attempt {attempt + 1}/{RETRIES}): {e} — retrying in {delay}s")
+                time.sleep(delay)
+    raise RuntimeError(f"cf_get gave up after {RETRIES} attempts: {url}: {last_err}")
 
 
 def write_json(path: Path, payload: dict):
