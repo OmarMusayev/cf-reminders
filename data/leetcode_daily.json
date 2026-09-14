@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-13",
-  "difficulty": "Medium",
-  "fetched_at": "2026-09-13T22:22:54.844770+00:00",
-  "id": "835",
-  "slug": "image-overlap",
+  "date": "2026-09-14",
+  "difficulty": "Easy",
+  "fetched_at": "2026-09-14T04:49:08.266727+00:00",
+  "id": "836",
+  "slug": "rectangle-overlap",
   "tags": [
-    "Array",
-    "Matrix"
+    "Math",
+    "Geometry"
   ],
-  "title": "Image Overlap",
-  "url": "https://leetcode.com/problems/image-overlap/"
+  "title": "Rectangle Overlap",
+  "url": "https://leetcode.com/problems/rectangle-overlap/"
 }
