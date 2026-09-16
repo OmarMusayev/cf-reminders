@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T18:09:58.649864+00:00",
+  "fetched_at": "2026-09-16T21:15:24.704149+00:00",
   "upcoming": [
     {
       "durationSeconds": 10800,
@@ -7,8 +7,38 @@
       "id": 2261,
       "name": "Codeforces Round (Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -2665552,
+      "relativeTimeSeconds": -2654409,
       "startTimeSeconds": 1792247700,
+      "type": "CF"
+    },
+    {
+      "durationSeconds": 9000,
+      "frozen": false,
+      "id": 2270,
+      "name": "Codeforces Round (Div. 2)",
+      "phase": "BEFORE",
+      "relativeTimeSeconds": -2150409,
+      "startTimeSeconds": 1791743700,
+      "type": "CF"
+    },
+    {
+      "durationSeconds": 10800,
+      "frozen": false,
+      "id": 2271,
+      "name": "Codeforces Round (Div. 1)",
+      "phase": "BEFORE",
+      "relativeTimeSeconds": -2051409,
+      "startTimeSeconds": 1791644700,
+      "type": "CF"
+    },
+    {
+      "durationSeconds": 10800,
+      "frozen": false,
+      "id": 2272,
+      "name": "Codeforces Round (Div. 2)",
+      "phase": "BEFORE",
+      "relativeTimeSeconds": -2051409,
+      "startTimeSeconds": 1791644700,
       "type": "CF"
     },
     {
@@ -17,7 +47,7 @@
       "id": 2268,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -851152,
+      "relativeTimeSeconds": -840009,
       "startTimeSeconds": 1790433300,
       "type": "CF"
     },
@@ -27,7 +57,7 @@
       "id": 2269,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -851152,
+      "relativeTimeSeconds": -840009,
       "startTimeSeconds": 1790433300,
       "type": "CF"
     },
@@ -37,7 +67,7 @@
       "id": 2267,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -764752,
+      "relativeTimeSeconds": -753609,
       "startTimeSeconds": 1790346900,
       "type": "CF"
     },
@@ -47,7 +77,7 @@
       "id": 2266,
       "name": "Codeforces Round (Div. 3)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -419154,
+      "relativeTimeSeconds": -408010,
       "startTimeSeconds": 1790001300,
       "type": "ICPC"
     }
