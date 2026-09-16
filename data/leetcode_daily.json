@@ -1,15 +1,15 @@
 {
-  "date": "2026-09-15",
-  "difficulty": "Hard",
-  "fetched_at": "2026-09-15T21:16:19.240509+00:00",
-  "id": "2472",
-  "slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+  "date": "2026-09-16",
+  "difficulty": "Medium",
+  "fetched_at": "2026-09-16T00:14:36.972526+00:00",
+  "id": "1621",
+  "slug": "number-of-sets-of-k-non-overlapping-line-segments",
   "tags": [
-    "Two Pointers",
-    "String",
+    "Math",
     "Dynamic Programming",
-    "Greedy"
+    "Combinatorics",
+    "Prefix Sum"
   ],
-  "title": "Maximum Number of Non-overlapping Palindrome Substrings",
-  "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/"
+  "title": "Number of Sets of K Non-Overlapping Line Segments",
+  "url": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/"
 }
