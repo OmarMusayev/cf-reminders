@@ -1,15 +1,16 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "difficulty": "Medium",
-  "fetched_at": "2026-09-16T21:15:24.704149+00:00",
-  "id": "1621",
-  "slug": "number-of-sets-of-k-non-overlapping-line-segments",
+  "fetched_at": "2026-09-17T00:26:16.506902+00:00",
+  "id": "1477",
+  "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
   "tags": [
-    "Math",
+    "Array",
+    "Hash Table",
+    "Binary Search",
     "Dynamic Programming",
-    "Combinatorics",
-    "Prefix Sum"
+    "Sliding Window"
   ],
-  "title": "Number of Sets of K Non-Overlapping Line Segments",
-  "url": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/"
+  "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+  "url": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/"
 }
