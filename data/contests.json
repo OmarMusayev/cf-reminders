@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T00:26:16.506902+00:00",
+  "fetched_at": "2026-09-17T07:34:45.225220+00:00",
   "upcoming": [
     {
       "durationSeconds": 10800,
@@ -7,7 +7,7 @@
       "id": 2261,
       "name": "Codeforces Round (Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -2642966,
+      "relativeTimeSeconds": -2617253,
       "startTimeSeconds": 1792247700,
       "type": "CF"
     },
@@ -17,7 +17,7 @@
       "id": 2270,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -2138966,
+      "relativeTimeSeconds": -2113253,
       "startTimeSeconds": 1791743700,
       "type": "CF"
     },
@@ -27,7 +27,7 @@
       "id": 2271,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -2039966,
+      "relativeTimeSeconds": -2014253,
       "startTimeSeconds": 1791644700,
       "type": "CF"
     },
@@ -37,7 +37,7 @@
       "id": 2272,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -2039966,
+      "relativeTimeSeconds": -2014253,
       "startTimeSeconds": 1791644700,
       "type": "CF"
     },
@@ -47,7 +47,7 @@
       "id": 2268,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -828566,
+      "relativeTimeSeconds": -802853,
       "startTimeSeconds": 1790433300,
       "type": "CF"
     },
@@ -57,7 +57,7 @@
       "id": 2269,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -828566,
+      "relativeTimeSeconds": -802853,
       "startTimeSeconds": 1790433300,
       "type": "CF"
     },
@@ -67,7 +67,7 @@
       "id": 2267,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -742166,
+      "relativeTimeSeconds": -716453,
       "startTimeSeconds": 1790346900,
       "type": "CF"
     },
@@ -75,9 +75,9 @@
       "durationSeconds": 9000,
       "frozen": false,
       "id": 2266,
-      "name": "Codeforces Round (Div. 3)",
+      "name": "Codeforces Round 1122 (Div. 3)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -396566,
+      "relativeTimeSeconds": -370853,
       "startTimeSeconds": 1790001300,
       "type": "ICPC"
     }
