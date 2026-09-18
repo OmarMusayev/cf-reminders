@@ -1,6 +1,86 @@
 {
-  "fetched_at": "2026-09-18T11:07:42.973394+00:00",
+  "fetched_at": "2026-09-18T16:20:36.191517+00:00",
   "problems": [
+    {
+      "contestId": 2260,
+      "index": "G",
+      "name": "Sortable Permutations",
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2260,
+      "index": "F",
+      "name": "Edge Three-Coloring",
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2260,
+      "index": "E",
+      "name": "Cyclic Balance",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2260,
+      "index": "D",
+      "name": "Signs of Prefix Sums",
+      "rating": 1700,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2260,
+      "index": "C",
+      "name": "Maximize XOR, Minimize Operations",
+      "rating": 1300,
+      "tags": [
+        "bitmasks",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2260,
+      "index": "B",
+      "name": "Monocarp and Projects",
+      "rating": 900,
+      "tags": [
+        "brute force",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2260,
+      "index": "A",
+      "name": "Monocarp's Contest",
+      "rating": 800,
+      "tags": [
+        "implementation"
+      ]
+    },
     {
       "contestId": 2259,
       "index": "H",

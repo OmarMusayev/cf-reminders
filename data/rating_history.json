@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T11:07:42.973394+00:00",
+  "fetched_at": "2026-09-18T16:20:36.191517+00:00",
   "history": [
     {
       "contestId": 1676,
@@ -144,24 +144,6 @@
       "oldRating": 1296,
       "rank": 1559,
       "ratingUpdateTimeSeconds": 1779557700
-    },
-    {
-      "contestId": 2258,
-      "contestName": "Codeforces Round 1118 (Div. 2)",
-      "handle": "Omar_Musayev",
-      "newRating": 1362,
-      "oldRating": 1420,
-      "rank": 6170,
-      "ratingUpdateTimeSeconds": 1788021300
-    },
-    {
-      "contestId": 2259,
-      "contestName": "Codeforces Round 1119 (Div. 3)",
-      "handle": "Omar_Musayev",
-      "newRating": 1326,
-      "oldRating": 1362,
-      "rank": 5554,
-      "ratingUpdateTimeSeconds": 1788627600
     }
   ]
 }
