@@ -1,6 +1,180 @@
 {
-  "fetched_at": "2026-09-19T12:27:54.381705+00:00",
+  "fetched_at": "2026-09-19T17:14:45.273758+00:00",
   "problems": [
+    {
+      "contestId": 2264,
+      "index": "F",
+      "name": "Deranged Calculator",
+      "rating": 2700,
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2264,
+      "index": "E2",
+      "name": "A Prime Flood (Hard Version)",
+      "rating": 2700,
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2264,
+      "index": "E1",
+      "name": "A Prime Flood (Easy Version)",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2264,
+      "index": "D",
+      "name": "Dr. Agos's Dark Mode",
+      "rating": 1800,
+      "tags": [
+        "brute force",
+        "chinese remainder theorem",
+        "constructive algorithms",
+        "math",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2264,
+      "index": "C",
+      "name": "Madamant's Skating Dynasty",
+      "rating": 1300,
+      "tags": [
+        "combinatorics",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2264,
+      "index": "B",
+      "name": "Knife's Pill Farm",
+      "rating": 1000,
+      "tags": [
+        "data structures",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2264,
+      "index": "A",
+      "name": "Rumb Needs a Hand",
+      "rating": 800,
+      "tags": [
+        "implementation",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2263,
+      "index": "B",
+      "name": "Min Matrices",
+      "rating": 900,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2263,
+      "index": "A",
+      "name": "Min Max Game",
+      "rating": 800,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 2262,
+      "index": "F",
+      "name": "Rank Removal",
+      "rating": 3500,
+      "tags": [
+        "math"
+      ]
+    },
+    {
+      "contestId": 2262,
+      "index": "E",
+      "name": "Paired Bracket Sequences",
+      "rating": 3100,
+      "tags": [
+        "combinatorics",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2262,
+      "index": "D",
+      "name": "PLUSworld",
+      "rating": 2800,
+      "tags": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2262,
+      "index": "C",
+      "name": "Traveling the World",
+      "rating": 2200,
+      "tags": [
+        "combinatorics",
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2262,
+      "index": "B",
+      "name": "Culling Game",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2262,
+      "index": "A2",
+      "name": "Floor of MEX (Hard Version)",
+      "rating": 1800,
+      "tags": [
+        "dp",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2262,
+      "index": "A1",
+      "name": "Floor of MEX (Easy Version)",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
     {
       "contestId": 2260,
       "index": "G",
