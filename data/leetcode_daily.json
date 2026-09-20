@@ -1,13 +1,13 @@
 {
-  "date": "2026-09-19",
-  "difficulty": "Medium",
-  "fetched_at": "2026-09-19T20:34:47.291306+00:00",
-  "id": "1401",
-  "slug": "circle-and-rectangle-overlapping",
+  "date": "2026-09-20",
+  "difficulty": "Easy",
+  "fetched_at": "2026-09-20T00:07:25.548160+00:00",
+  "id": "3498",
+  "slug": "reverse-degree-of-a-string",
   "tags": [
-    "Math",
-    "Geometry"
+    "String",
+    "Simulation"
   ],
-  "title": "Circle and Rectangle Overlapping",
-  "url": "https://leetcode.com/problems/circle-and-rectangle-overlapping/"
+  "title": "Reverse Degree of a String",
+  "url": "https://leetcode.com/problems/reverse-degree-of-a-string/"
 }
