@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T22:23:53.334366+00:00",
+  "fetched_at": "2026-09-21T04:49:20.516775+00:00",
   "submissions": [
     {
       "contestId": 2259,
@@ -170,25 +170,6 @@
         ]
       },
       "verdict": "WRONG_ANSWER"
-    },
-    {
-      "contestId": 1878,
-      "creationTimeSeconds": 1787362305,
-      "id": 387945714,
-      "participantType": "PRACTICE",
-      "problem": {
-        "contestId": 1878,
-        "index": "E",
-        "name": "Iva & Pav",
-        "rating": 1400,
-        "tags": [
-          "binary search",
-          "bitmasks",
-          "data structures",
-          "greedy"
-        ]
-      },
-      "verdict": "OK"
     }
   ]
 }
