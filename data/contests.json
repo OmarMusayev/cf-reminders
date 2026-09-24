@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-24T17:05:41.913474+00:00",
+  "fetched_at": "2026-09-24T21:27:43.489299+00:00",
   "upcoming": [
     {
       "durationSeconds": 10800,
@@ -7,7 +7,7 @@
       "id": 2261,
       "name": "Codeforces Round (Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1978171,
+      "relativeTimeSeconds": -1962486,
       "startTimeSeconds": 1792247700,
       "type": "CF"
     },
@@ -17,7 +17,7 @@
       "id": 2273,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1474171,
+      "relativeTimeSeconds": -1458486,
       "startTimeSeconds": 1791743700,
       "type": "CF"
     },
@@ -27,7 +27,7 @@
       "id": 2274,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1474171,
+      "relativeTimeSeconds": -1458486,
       "startTimeSeconds": 1791743700,
       "type": "CF"
     },
@@ -37,7 +37,7 @@
       "id": 2271,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1375171,
+      "relativeTimeSeconds": -1359486,
       "startTimeSeconds": 1791644700,
       "type": "CF"
     },
@@ -47,7 +47,7 @@
       "id": 2272,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1375171,
+      "relativeTimeSeconds": -1359486,
       "startTimeSeconds": 1791644700,
       "type": "CF"
     },
@@ -57,7 +57,7 @@
       "id": 2268,
       "name": "Codeforces Round 1124 (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -163771,
+      "relativeTimeSeconds": -148086,
       "startTimeSeconds": 1790433300,
       "type": "CF"
     },
@@ -67,7 +67,7 @@
       "id": 2269,
       "name": "Codeforces Round 1124 (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -163771,
+      "relativeTimeSeconds": -148086,
       "startTimeSeconds": 1790433300,
       "type": "CF"
     },
@@ -77,7 +77,7 @@
       "id": 2267,
       "name": "Codeforces Round 1123 (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -77371,
+      "relativeTimeSeconds": -61687,
       "startTimeSeconds": 1790346900,
       "type": "CF"
     }
