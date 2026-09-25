@@ -1,13 +1,17 @@
 {
-  "date": "2026-09-24",
-  "difficulty": "Easy",
-  "fetched_at": "2026-09-24T21:27:43.489299+00:00",
-  "id": "3550",
-  "slug": "smallest-index-with-digit-sum-equal-to-index",
+  "date": "2026-09-25",
+  "difficulty": "Hard",
+  "fetched_at": "2026-09-25T00:31:33.916756+00:00",
+  "id": "1096",
+  "slug": "brace-expansion-ii",
   "tags": [
-    "Array",
-    "Math"
+    "Hash Table",
+    "String",
+    "Backtracking",
+    "Stack",
+    "Breadth-First Search",
+    "Sorting"
   ],
-  "title": "Smallest Index With Digit Sum Equal to Index",
-  "url": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/"
+  "title": "Brace Expansion II",
+  "url": "https://leetcode.com/problems/brace-expansion-ii/"
 }
