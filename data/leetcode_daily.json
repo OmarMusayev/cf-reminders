@@ -1,17 +1,14 @@
 {
-  "date": "2026-09-25",
-  "difficulty": "Hard",
-  "fetched_at": "2026-09-25T23:16:37.062979+00:00",
-  "id": "1096",
-  "slug": "brace-expansion-ii",
+  "date": "2026-09-26",
+  "difficulty": "Medium",
+  "fetched_at": "2026-09-26T04:50:53.534743+00:00",
+  "id": "1807",
+  "slug": "evaluate-the-bracket-pairs-of-a-string",
   "tags": [
+    "Array",
     "Hash Table",
-    "String",
-    "Backtracking",
-    "Stack",
-    "Breadth-First Search",
-    "Sorting"
+    "String"
   ],
-  "title": "Brace Expansion II",
-  "url": "https://leetcode.com/problems/brace-expansion-ii/"
+  "title": "Evaluate the Bracket Pairs of a String",
+  "url": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/"
 }
