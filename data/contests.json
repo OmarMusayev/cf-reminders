@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T08:23:57.139855+00:00",
+  "fetched_at": "2026-09-29T16:28:59.938986+00:00",
   "upcoming": [
     {
       "durationSeconds": 10800,
@@ -7,7 +7,7 @@
       "id": 2261,
       "name": "Codeforces Round (Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1577485,
+      "relativeTimeSeconds": -1548404,
       "startTimeSeconds": 1792247700,
       "type": "CF"
     },
@@ -17,7 +17,7 @@
       "id": 2273,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1073485,
+      "relativeTimeSeconds": -1044404,
       "startTimeSeconds": 1791743700,
       "type": "CF"
     },
@@ -27,7 +27,7 @@
       "id": 2274,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1073485,
+      "relativeTimeSeconds": -1044404,
       "startTimeSeconds": 1791743700,
       "type": "CF"
     },
@@ -37,7 +37,7 @@
       "id": 2271,
       "name": "DeepInfra Round 1 (Codeforces Round, Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -974486,
+      "relativeTimeSeconds": -945405,
       "startTimeSeconds": 1791644700,
       "type": "CF"
     }
