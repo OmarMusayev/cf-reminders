@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T08:27:10.442114+00:00",
+  "fetched_at": "2026-09-30T16:23:04.141024+00:00",
   "upcoming": [
     {
       "durationSeconds": 10800,
@@ -7,7 +7,7 @@
       "id": 2261,
       "name": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1490878,
+      "relativeTimeSeconds": -1462375,
       "startTimeSeconds": 1792247700,
       "type": "CF"
     },
@@ -17,7 +17,7 @@
       "id": 2273,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -986878,
+      "relativeTimeSeconds": -958375,
       "startTimeSeconds": 1791743700,
       "type": "CF"
     },
@@ -27,7 +27,7 @@
       "id": 2274,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -986878,
+      "relativeTimeSeconds": -958375,
       "startTimeSeconds": 1791743700,
       "type": "CF"
     },
@@ -37,9 +37,19 @@
       "id": 2271,
       "name": "DeepInfra Round 1 (Codeforces Round, Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -887879,
+      "relativeTimeSeconds": -859375,
       "startTimeSeconds": 1791644700,
       "type": "CF"
+    },
+    {
+      "durationSeconds": 9000,
+      "frozen": false,
+      "id": 2275,
+      "name": "Codeforces Round (Div. 3)",
+      "phase": "BEFORE",
+      "relativeTimeSeconds": -598376,
+      "startTimeSeconds": 1791383700,
+      "type": "ICPC"
     }
   ]
 }
