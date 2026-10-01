@@ -1,6 +1,287 @@
 {
-  "fetched_at": "2026-10-01T08:49:30.860026+00:00",
+  "fetched_at": "2026-10-01T17:00:11.553977+00:00",
   "problems": [
+    {
+      "contestId": 2269,
+      "index": "B",
+      "name": "KiaKio and Squared Numbers",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2269,
+      "index": "A",
+      "name": "SauSaGe Bank",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2268,
+      "index": "F",
+      "name": "Deglado",
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2268,
+      "index": "E",
+      "name": "Kia Kio and Tree of Life",
+      "rating": 2700,
+      "tags": [
+        "data structures",
+        "fft",
+        "math",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2268,
+      "index": "D",
+      "name": "AghaBalaSar and Hamed",
+      "rating": 2600,
+      "tags": [
+        "data structures",
+        "dp",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2268,
+      "index": "C",
+      "name": "KiaKio and Energy Intervals",
+      "rating": 2300,
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "dsu",
+        "greedy",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2268,
+      "index": "B",
+      "name": "What a SauSaGe! It's All Meat",
+      "rating": 1500,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2268,
+      "index": "A",
+      "name": "K Is Important",
+      "rating": 1200,
+      "tags": [
+        "constructive algorithms",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2267,
+      "index": "G",
+      "name": "New LRT",
+      "rating": 2600,
+      "tags": [
+        "divide and conquer",
+        "dp",
+        "fft"
+      ]
+    },
+    {
+      "contestId": 2267,
+      "index": "F2",
+      "name": "XOR Transformations (Hard Version)",
+      "rating": 2300,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "math",
+        "sortings",
+        "strings",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2267,
+      "index": "F1",
+      "name": "XOR Transformations (Easy Version)",
+      "rating": 1700,
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "implementation",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2267,
+      "index": "E",
+      "name": "Clean Substrings",
+      "rating": 2000,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2267,
+      "index": "D",
+      "name": "Backrooms Hill",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2267,
+      "index": "C",
+      "name": "GCD Treasury",
+      "rating": 1200,
+      "tags": [
+        "greedy",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2267,
+      "index": "B",
+      "name": "Fashionable Array",
+      "rating": 800,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2267,
+      "index": "A",
+      "name": "Turn Into a Palindrome",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2266,
+      "index": "H",
+      "name": "Deque Malfunction",
+      "rating": 2400,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2266,
+      "index": "G",
+      "name": "Modular Tree",
+      "rating": 2200,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "math",
+        "number theory",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2266,
+      "index": "F",
+      "name": "MEX Replacement",
+      "rating": 2000,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "implementation",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2266,
+      "index": "E",
+      "name": "Prime Destruction",
+      "rating": 1400,
+      "tags": [
+        "brute force",
+        "dp",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2266,
+      "index": "D",
+      "name": "Falling Concrete",
+      "rating": 1400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "math",
+        "sortings"
+      ]
+    },
+    {
+      "contestId": 2266,
+      "index": "C",
+      "name": "AND, OR, Sort!",
+      "rating": 1000,
+      "tags": [
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2266,
+      "index": "B",
+      "name": "Three Piles",
+      "rating": 800,
+      "tags": [
+        "games",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2266,
+      "index": "A",
+      "name": "Good Contest",
+      "rating": 800,
+      "tags": [
+        "greedy"
+      ]
+    },
     {
       "contestId": 2264,
       "index": "F",
