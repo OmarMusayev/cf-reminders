@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-30",
-  "difficulty": "Medium",
-  "fetched_at": "2026-09-30T22:11:13.131491+00:00",
-  "id": "1111",
-  "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+  "date": "2026-10-01",
+  "difficulty": "Easy",
+  "fetched_at": "2026-10-01T01:17:02.075959+00:00",
+  "id": "20",
+  "slug": "valid-parentheses",
   "tags": [
     "String",
     "Stack",
     "Bracket Sequences"
   ],
-  "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
-  "url": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/"
+  "title": "Valid Parentheses",
+  "url": "https://leetcode.com/problems/valid-parentheses/"
 }
