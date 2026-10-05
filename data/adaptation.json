@@ -1,7 +1,7 @@
 {
   "base_rating": 1327,
   "effective_rating": 1327,
-  "fetched_at": "2026-10-05T08:55:08.531288+00:00",
+  "fetched_at": "2026-10-05T19:16:22.024417+00:00",
   "rating_boost": 0,
   "stretch_stats": {
     "attempts": 0,
@@ -9,36 +9,5 @@
     "solved": 0,
     "window_days": 14
   },
-  "tag_stats": {
-    "brute force": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    },
-    "constructive algorithms": {
-      "attempted": 2,
-      "rate": 1.0,
-      "solved": 2
-    },
-    "greedy": {
-      "attempted": 3,
-      "rate": 1.0,
-      "solved": 3
-    },
-    "math": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    },
-    "number theory": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    },
-    "two pointers": {
-      "attempted": 1,
-      "rate": 1.0,
-      "solved": 1
-    }
-  }
+  "tag_stats": {}
 }
