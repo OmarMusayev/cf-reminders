@@ -1,16 +1,14 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "difficulty": "Medium",
-  "fetched_at": "2026-10-04T21:18:44.513405+00:00",
-  "id": "678",
-  "slug": "valid-parenthesis-string",
+  "fetched_at": "2026-10-05T00:52:20.844542+00:00",
+  "id": "856",
+  "slug": "score-of-parentheses",
   "tags": [
     "String",
-    "Dynamic Programming",
     "Stack",
-    "Greedy",
     "Bracket Sequences"
   ],
-  "title": "Valid Parenthesis String",
-  "url": "https://leetcode.com/problems/valid-parenthesis-string/"
+  "title": "Score of Parentheses",
+  "url": "https://leetcode.com/problems/score-of-parentheses/"
 }
