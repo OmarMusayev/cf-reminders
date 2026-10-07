@@ -1,15 +1,14 @@
 {
-  "date": "2026-10-06",
-  "difficulty": "Medium",
-  "fetched_at": "2026-10-06T22:37:14.652545+00:00",
-  "id": "921",
-  "slug": "minimum-add-to-make-parentheses-valid",
+  "date": "2026-10-07",
+  "difficulty": "Hard",
+  "fetched_at": "2026-10-07T05:50:43.015061+00:00",
+  "id": "301",
+  "slug": "remove-invalid-parentheses",
   "tags": [
     "String",
-    "Stack",
-    "Greedy",
-    "Bracket Sequences"
+    "Backtracking",
+    "Breadth-First Search"
   ],
-  "title": "Minimum Add to Make Parentheses Valid",
-  "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/"
+  "title": "Remove Invalid Parentheses",
+  "url": "https://leetcode.com/problems/remove-invalid-parentheses/"
 }
