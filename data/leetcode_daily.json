@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-07",
-  "difficulty": "Hard",
-  "fetched_at": "2026-10-07T19:57:16.795687+00:00",
-  "id": "301",
-  "slug": "remove-invalid-parentheses",
+  "date": "2026-10-08",
+  "difficulty": "Easy",
+  "fetched_at": "2026-10-08T00:09:28.463113+00:00",
+  "id": "1021",
+  "slug": "remove-outermost-parentheses",
   "tags": [
     "String",
-    "Backtracking",
-    "Breadth-First Search"
+    "Stack",
+    "Bracket Sequences"
   ],
-  "title": "Remove Invalid Parentheses",
-  "url": "https://leetcode.com/problems/remove-invalid-parentheses/"
+  "title": "Remove Outermost Parentheses",
+  "url": "https://leetcode.com/problems/remove-outermost-parentheses/"
 }
