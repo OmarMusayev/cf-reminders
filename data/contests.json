@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T19:54:01.756833+00:00",
+  "fetched_at": "2026-10-09T00:18:29.413998+00:00",
   "upcoming": [
     {
       "durationSeconds": 10800,
@@ -7,7 +7,7 @@
       "id": 2261,
       "name": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -758488,
+      "relativeTimeSeconds": -742632,
       "startTimeSeconds": 1792247700,
       "type": "CF"
     },
@@ -17,27 +17,27 @@
       "id": 2276,
       "name": "Educational Codeforces Round 195 (Rated for Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -499288,
+      "relativeTimeSeconds": -483432,
       "startTimeSeconds": 1791988500,
       "type": "ICPC"
     },
     {
-      "durationSeconds": 9000,
+      "durationSeconds": 7200,
       "frozen": false,
       "id": 2273,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -254488,
+      "relativeTimeSeconds": -238632,
       "startTimeSeconds": 1791743700,
       "type": "CF"
     },
     {
-      "durationSeconds": 9000,
+      "durationSeconds": 7200,
       "frozen": false,
       "id": 2274,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -254488,
+      "relativeTimeSeconds": -238632,
       "startTimeSeconds": 1791743700,
       "type": "CF"
     },
@@ -47,7 +47,7 @@
       "id": 2271,
       "name": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -155488,
+      "relativeTimeSeconds": -139634,
       "startTimeSeconds": 1791644700,
       "type": "CF"
     }

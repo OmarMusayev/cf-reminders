@@ -1,14 +1,15 @@
 {
-  "date": "2026-10-08",
-  "difficulty": "Easy",
-  "fetched_at": "2026-10-08T19:54:01.756833+00:00",
-  "id": "1021",
-  "slug": "remove-outermost-parentheses",
+  "date": "2026-10-09",
+  "difficulty": "Medium",
+  "fetched_at": "2026-10-09T00:18:29.413998+00:00",
+  "id": "1541",
+  "slug": "minimum-insertions-to-balance-a-parentheses-string",
   "tags": [
     "String",
     "Stack",
+    "Greedy",
     "Bracket Sequences"
   ],
-  "title": "Remove Outermost Parentheses",
-  "url": "https://leetcode.com/problems/remove-outermost-parentheses/"
+  "title": "Minimum Insertions to Balance a Parentheses String",
+  "url": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/"
 }
