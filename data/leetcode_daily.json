@@ -1,16 +1,13 @@
 {
-  "date": "2026-10-10",
-  "difficulty": "Medium",
-  "fetched_at": "2026-10-10T23:30:23.493295+00:00",
-  "id": "2333",
-  "slug": "minimum-sum-of-squared-difference",
+  "date": "2026-10-11",
+  "difficulty": "Easy",
+  "fetched_at": "2026-10-11T05:39:38.521044+00:00",
+  "id": "2778",
+  "slug": "sum-of-squares-of-special-elements",
   "tags": [
     "Array",
-    "Binary Search",
-    "Greedy",
-    "Sorting",
-    "Heap (Priority Queue)"
+    "Enumeration"
   ],
-  "title": "Minimum Sum of Squared Difference",
-  "url": "https://leetcode.com/problems/minimum-sum-of-squared-difference/"
+  "title": "Sum of Squares of Special Elements ",
+  "url": "https://leetcode.com/problems/sum-of-squares-of-special-elements/"
 }
