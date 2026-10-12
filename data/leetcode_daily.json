@@ -1,13 +1,15 @@
 {
-  "date": "2026-10-11",
-  "difficulty": "Easy",
-  "fetched_at": "2026-10-11T23:37:29.990263+00:00",
-  "id": "2778",
-  "slug": "sum-of-squares-of-special-elements",
+  "date": "2026-10-12",
+  "difficulty": "Hard",
+  "fetched_at": "2026-10-12T05:49:17.450347+00:00",
+  "id": "2897",
+  "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
   "tags": [
     "Array",
-    "Enumeration"
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
   ],
-  "title": "Sum of Squares of Special Elements ",
-  "url": "https://leetcode.com/problems/sum-of-squares-of-special-elements/"
+  "title": "Apply Operations on Array to Maximize Sum of Squares",
+  "url": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/"
 }
