@@ -1,13 +1,23 @@
 {
-  "fetched_at": "2026-10-12T15:14:08.406937+00:00",
+  "fetched_at": "2026-10-12T22:54:53.917645+00:00",
   "upcoming": [
+    {
+      "durationSeconds": 8100,
+      "frozen": false,
+      "id": 2272,
+      "name": "Codeforces Round (Div. 2)",
+      "phase": "BEFORE",
+      "relativeTimeSeconds": -1179625,
+      "startTimeSeconds": 1793025300,
+      "type": "CF"
+    },
     {
       "durationSeconds": 10800,
       "frozen": false,
       "id": 2261,
       "name": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -429698,
+      "relativeTimeSeconds": -402025,
       "startTimeSeconds": 1792247700,
       "type": "CF"
     },
@@ -17,7 +27,7 @@
       "id": 2276,
       "name": "Educational Codeforces Round 195 (Rated for Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -170500,
+      "relativeTimeSeconds": -142825,
       "startTimeSeconds": 1791988500,
       "type": "ICPC"
     }
