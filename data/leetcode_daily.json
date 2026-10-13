@@ -1,15 +1,14 @@
 {
-  "date": "2026-10-12",
-  "difficulty": "Hard",
-  "fetched_at": "2026-10-12T22:54:53.917645+00:00",
-  "id": "2897",
-  "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+  "date": "2026-10-13",
+  "difficulty": "Medium",
+  "fetched_at": "2026-10-13T06:43:02.580887+00:00",
+  "id": "3727",
+  "slug": "maximum-alternating-sum-of-squares",
   "tags": [
     "Array",
-    "Hash Table",
     "Greedy",
-    "Bit Manipulation"
+    "Sorting"
   ],
-  "title": "Apply Operations on Array to Maximize Sum of Squares",
-  "url": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/"
+  "title": "Maximum Alternating Sum of Squares",
+  "url": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/"
 }
