@@ -56,7 +56,7 @@ The agent can't send mail directly — its Gmail connector only exposes `create_
 ### 1. Google Cloud credentials
 
 - In Google Cloud Console, create a project and enable both the **Google Calendar API** and the **Gmail API**
-- Configure the **OAuth consent screen**: External user type, app name of your choice, scopes `.../auth/calendar` and `.../auth/gmail.modify`, add yourself as a Test user (the app can stay in "Testing" status)
+- Configure the **OAuth consent screen**: External user type, app name of your choice, scopes `.../auth/calendar` and `.../auth/gmail.modify`, add yourself as a Test user, then **click "Publish app"** so the status is "In production" — an app left in "Testing" makes Google expire the refresh token after 7 days, which silently breaks `send_outbox.py`
 - Create an **OAuth client ID** of type **Desktop app** and download the JSON as `client_secret.json`
 
 ### 2. Mint a refresh token locally
