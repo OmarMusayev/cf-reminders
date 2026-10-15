@@ -1,13 +1,15 @@
 {
-  "date": "2026-10-14",
-  "difficulty": "Medium",
-  "fetched_at": "2026-10-14T23:10:36.190553+00:00",
-  "id": "3723",
-  "slug": "maximize-sum-of-squares-of-digits",
+  "date": "2026-10-15",
+  "difficulty": "Easy",
+  "fetched_at": "2026-10-15T04:29:56.711390+00:00",
+  "id": "2913",
+  "slug": "subarrays-distinct-element-sum-of-squares-i",
   "tags": [
-    "Math",
-    "Greedy"
+    "Array",
+    "Hash Table",
+    "Binary Indexed Tree",
+    "Segment Tree"
   ],
-  "title": "Maximize Sum of Squares of Digits",
-  "url": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/"
+  "title": "Subarrays Distinct Element Sum of Squares I",
+  "url": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/"
 }
