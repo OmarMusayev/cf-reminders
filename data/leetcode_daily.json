@@ -1,15 +1,14 @@
 {
-  "date": "2026-10-16",
-  "difficulty": "Hard",
-  "fetched_at": "2026-10-16T17:59:28.702193+00:00",
-  "id": "2916",
-  "slug": "subarrays-distinct-element-sum-of-squares-ii",
+  "date": "2026-10-17",
+  "difficulty": "Medium",
+  "fetched_at": "2026-10-17T00:25:01.399146+00:00",
+  "id": "3551",
+  "slug": "minimum-swaps-to-sort-by-digit-sum",
   "tags": [
     "Array",
     "Hash Table",
-    "Binary Indexed Tree",
-    "Segment Tree"
+    "Sorting"
   ],
-  "title": "Subarrays Distinct Element Sum of Squares II",
-  "url": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/"
+  "title": "Minimum Swaps to Sort by Digit Sum",
+  "url": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/"
 }
