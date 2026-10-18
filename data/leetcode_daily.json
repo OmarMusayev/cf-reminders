@@ -1,14 +1,22 @@
 {
-  "date": "2026-10-17",
-  "difficulty": "Medium",
-  "fetched_at": "2026-10-17T22:14:47.412034+00:00",
-  "id": "3551",
-  "slug": "minimum-swaps-to-sort-by-digit-sum",
+  "date": "2026-10-18",
+  "difficulty": "Hard",
+  "fetched_at": "2026-10-18T04:23:54.960035+00:00",
+  "id": "1569",
+  "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
   "tags": [
     "Array",
-    "Hash Table",
-    "Sorting"
+    "Math",
+    "Divide and Conquer",
+    "Dynamic Programming",
+    "Tree",
+    "Union-Find",
+    "Binary Search Tree",
+    "Memoization",
+    "Combinatorics",
+    "Binary Tree",
+    "Fermat's Little Theorem"
   ],
-  "title": "Minimum Swaps to Sort by Digit Sum",
-  "url": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/"
+  "title": "Number of Ways to Reorder Array to Get Same BST",
+  "url": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/"
 }
