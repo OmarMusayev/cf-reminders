@@ -1,6 +1,368 @@
 {
-  "fetched_at": "2026-10-20T04:41:51.345636+00:00",
+  "fetched_at": "2026-10-20T11:28:36.010675+00:00",
   "problems": [
+    {
+      "contestId": 2276,
+      "index": "G",
+      "name": "Elimination of Players",
+      "rating": 2100,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2276,
+      "index": "F",
+      "name": "Permutation Coloring Game",
+      "rating": 2400,
+      "tags": [
+        "brute force",
+        "dp",
+        "dsu",
+        "games",
+        "greedy",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2276,
+      "index": "E",
+      "name": "Good Substrings",
+      "rating": 1800,
+      "tags": [
+        "combinatorics",
+        "data structures",
+        "dp",
+        "greedy",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2276,
+      "index": "D",
+      "name": "Caveman",
+      "rating": 1400,
+      "tags": [
+        "combinatorics",
+        "graphs"
+      ]
+    },
+    {
+      "contestId": 2276,
+      "index": "C",
+      "name": "Subarrays",
+      "rating": 1100,
+      "tags": [
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2276,
+      "index": "B",
+      "name": "Replace and Compress",
+      "rating": 1000,
+      "tags": [
+        "implementation",
+        "strings"
+      ]
+    },
+    {
+      "contestId": 2276,
+      "index": "A",
+      "name": "Perfect Sandwiches",
+      "rating": 800,
+      "tags": [
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2275,
+      "index": "H",
+      "name": "A Problem to Warm Up the Eyebrows",
+      "rating": 2400,
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2275,
+      "index": "G",
+      "name": "Copper Squander",
+      "rating": 1900,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dsu",
+        "graphs",
+        "greedy",
+        "math",
+        "sortings",
+        "ternary search"
+      ]
+    },
+    {
+      "contestId": 2275,
+      "index": "F",
+      "name": "Tea Blend",
+      "rating": 1800,
+      "tags": [
+        "hashing",
+        "math",
+        "number theory"
+      ]
+    },
+    {
+      "contestId": 2275,
+      "index": "E",
+      "name": "Repentance Is Already on the Way",
+      "rating": 1500,
+      "tags": [
+        "dp",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2275,
+      "index": "D",
+      "name": "Precision Alignment",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2275,
+      "index": "C",
+      "name": "Unrequited Love",
+      "rating": 1000,
+      "tags": [
+        "brute force",
+        "data structures"
+      ]
+    },
+    {
+      "contestId": 2275,
+      "index": "B",
+      "name": "Did Not Go to Print",
+      "rating": 800,
+      "tags": [
+        "data structures",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2275,
+      "index": "A",
+      "name": "In Search of Convenience",
+      "rating": 800,
+      "tags": [
+        "geometry",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2274,
+      "index": "B",
+      "name": "Prefix",
+      "rating": 1100,
+      "tags": [
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2274,
+      "index": "A",
+      "name": "The Projections of Paco",
+      "rating": 800,
+      "tags": [
+        "dfs and similar",
+        "dp",
+        "hashing",
+        "implementation",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2273,
+      "index": "F",
+      "name": "Pancho's Permutation",
+      "rating": 3500,
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2273,
+      "index": "E",
+      "name": "Six-Seven Bags",
+      "rating": 2900,
+      "tags": [
+        "brute force",
+        "greedy",
+        "interactive"
+      ]
+    },
+    {
+      "contestId": 2273,
+      "index": "D",
+      "name": "Aura Battle",
+      "rating": 2600,
+      "tags": [
+        "brute force",
+        "implementation",
+        "interactive",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2273,
+      "index": "C",
+      "name": "Matrix Puzzle",
+      "rating": 2100,
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "math",
+        "matrices"
+      ]
+    },
+    {
+      "contestId": 2273,
+      "index": "B",
+      "name": "Robot Championship",
+      "rating": 1900,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2273,
+      "index": "A",
+      "name": "Lavencia Oranges",
+      "rating": 1300,
+      "tags": [
+        "binary search",
+        "constructive algorithms",
+        "dp",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2271,
+      "index": "H2",
+      "name": "Personal Issues (Hard Version)",
+      "rating": 3300,
+      "tags": [
+        "games",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2271,
+      "index": "H1",
+      "name": "Personal Issues (Easy Version)",
+      "rating": 2800,
+      "tags": [
+        "dp",
+        "games",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2271,
+      "index": "G",
+      "name": "Grid Filling",
+      "rating": 3100,
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2271,
+      "index": "F",
+      "name": "Beautiful Pillers",
+      "rating": 2300,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+      ]
+    },
+    {
+      "contestId": 2271,
+      "index": "E",
+      "name": "Array Emptying",
+      "rating": 2100,
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy"
+      ]
+    },
+    {
+      "contestId": 2271,
+      "index": "D",
+      "name": "Target Infection",
+      "rating": 1700,
+      "tags": [
+        "binary search",
+        "brute force",
+        "greedy",
+        "implementation",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2271,
+      "index": "C",
+      "name": "XOR Problem",
+      "rating": 1400,
+      "tags": [
+        "bitmasks",
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2271,
+      "index": "B",
+      "name": "MEX Game",
+      "rating": 1000,
+      "tags": [
+        "games"
+      ]
+    },
+    {
+      "contestId": 2271,
+      "index": "A",
+      "name": "Robot Odd Moves",
+      "rating": 800,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
     {
       "contestId": 2269,
       "index": "B",
@@ -453,6 +815,126 @@
       "tags": [
         "constructive algorithms",
         "greedy"
+      ]
+    },
+    {
+      "contestId": 2261,
+      "index": "H",
+      "name": "Oh Tree Tree Tree, No Need to Leave",
+      "rating": 3500,
+      "tags": [
+        "bitmasks",
+        "communication",
+        "constructive algorithms",
+        "dfs and similar",
+        "interactive",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2261,
+      "index": "G",
+      "name": "1 2 3 and XOR, Where Did Everybody Go?",
+      "rating": 2800,
+      "tags": [
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2261,
+      "index": "F2",
+      "name": "Plegma II: Ask Me Any Cell (Hard Version)",
+      "rating": 3300,
+      "tags": [
+        "constructive algorithms"
+      ]
+    },
+    {
+      "contestId": 2261,
+      "index": "F1",
+      "name": "Plegma II: Ask Me Any Cell (Easy Version)",
+      "rating": 2500,
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2261,
+      "index": "E",
+      "name": "What Does the Cow Say?",
+      "rating": 1800,
+      "tags": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "trees"
+      ]
+    },
+    {
+      "contestId": 2261,
+      "index": "D2",
+      "name": "Come Be My Friend, Don't Be So Scared (Hard Version)",
+      "rating": 2400,
+      "tags": [
+        "constructive algorithms",
+        "data structures",
+        "dsu",
+        "graphs",
+        "hashing",
+        "trees",
+        "two pointers"
+      ]
+    },
+    {
+      "contestId": 2261,
+      "index": "D1",
+      "name": "Come Be My Friend, Don't Be So Scared (Easy Version)",
+      "rating": 1300,
+      "tags": [
+        "constructive algorithms",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2261,
+      "index": "C",
+      "name": "I Know About a Million Things",
+      "rating": 1000,
+      "tags": [
+        "games",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2261,
+      "index": "B",
+      "name": "What's the Capital of France?",
+      "rating": 1100,
+      "tags": [
+        "bitmasks",
+        "greedy",
+        "math"
+      ]
+    },
+    {
+      "contestId": 2261,
+      "index": "A",
+      "name": "Hey, It's Me, Souvlakity",
+      "rating": 800,
+      "tags": [
+        "games",
+        "math"
       ]
     },
     {
