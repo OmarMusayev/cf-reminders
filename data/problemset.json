@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T23:14:33.779160+00:00",
+  "fetched_at": "2026-10-22T04:35:36.456336+00:00",
   "problems": [
     {
       "contestId": 2276,
@@ -901,6 +901,7 @@
       "rating": 1300,
       "tags": [
         "constructive algorithms",
+        "greedy",
         "math"
       ]
     },
