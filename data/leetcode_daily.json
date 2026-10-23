@@ -1,12 +1,13 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "difficulty": "Medium",
-  "fetched_at": "2026-10-22T21:29:58.818188+00:00",
-  "id": "3942",
-  "slug": "minimum-operations-to-sort-a-permutation",
+  "fetched_at": "2026-10-23T00:37:23.252751+00:00",
+  "id": "3644",
+  "slug": "maximum-k-to-sort-a-permutation",
   "tags": [
-    "Array"
+    "Array",
+    "Bit Manipulation"
   ],
-  "title": "Minimum Operations to Sort a Permutation",
-  "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/"
+  "title": "Maximum K to Sort a Permutation",
+  "url": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/"
 }
