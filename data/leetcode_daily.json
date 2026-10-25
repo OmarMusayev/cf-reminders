@@ -1,13 +1,16 @@
 {
-  "date": "2026-10-24",
-  "difficulty": "Easy",
-  "fetched_at": "2026-10-24T22:26:38.264020+00:00",
-  "id": "2409",
-  "slug": "count-days-spent-together",
+  "date": "2026-10-25",
+  "difficulty": "Medium",
+  "fetched_at": "2026-10-25T04:33:43.142796+00:00",
+  "id": "1254",
+  "slug": "number-of-closed-islands",
   "tags": [
-    "Math",
-    "String"
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
   ],
-  "title": "Count Days Spent Together",
-  "url": "https://leetcode.com/problems/count-days-spent-together/"
+  "title": "Number of Closed Islands",
+  "url": "https://leetcode.com/problems/number-of-closed-islands/"
 }
