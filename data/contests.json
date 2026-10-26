@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T12:51:11.696688+00:00",
+  "fetched_at": "2026-10-26T19:53:32.853796+00:00",
   "upcoming": [
     {
       "durationSeconds": 9000,
@@ -7,9 +7,19 @@
       "id": 2282,
       "name": "Kotlin Heroes: Episode 15",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -2771076,
+      "relativeTimeSeconds": -2745703,
       "startTimeSeconds": 1795790100,
       "type": "ICPC"
+    },
+    {
+      "durationSeconds": 7200,
+      "frozen": false,
+      "id": 2285,
+      "name": "Codeforces Round (Div. 2)",
+      "phase": "BEFORE",
+      "relativeTimeSeconds": -1708903,
+      "startTimeSeconds": 1794753300,
+      "type": "CF"
     },
     {
       "durationSeconds": 9000,
@@ -17,7 +27,7 @@
       "id": 2279,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1043076,
+      "relativeTimeSeconds": -1017703,
       "startTimeSeconds": 1794062100,
       "type": "CF"
     },
@@ -27,8 +37,18 @@
       "id": 2280,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1043076,
+      "relativeTimeSeconds": -1017703,
       "startTimeSeconds": 1794062100,
+      "type": "CF"
+    },
+    {
+      "durationSeconds": 8100,
+      "frozen": false,
+      "id": 2284,
+      "name": "Codeforces Round (Div. 2)",
+      "phase": "BEFORE",
+      "relativeTimeSeconds": -931303,
+      "startTimeSeconds": 1793975700,
       "type": "CF"
     },
     {
@@ -37,7 +57,7 @@
       "id": 2281,
       "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -857376,
+      "relativeTimeSeconds": -832003,
       "startTimeSeconds": 1793876400,
       "type": "IOI"
     },
@@ -47,7 +67,7 @@
       "id": 2283,
       "name": "Educational Codeforces Round 196 (Rated for Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -783876,
+      "relativeTimeSeconds": -758503,
       "startTimeSeconds": 1793802900,
       "type": "ICPC"
     },
@@ -57,19 +77,9 @@
       "id": 2278,
       "name": "Codeforces Round 1131 (Div. 3)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -438276,
+      "relativeTimeSeconds": -412904,
       "startTimeSeconds": 1793457300,
       "type": "ICPC"
-    },
-    {
-      "durationSeconds": 8100,
-      "frozen": false,
-      "id": 2272,
-      "name": "Codeforces Round 1130 (Div. 2)",
-      "phase": "BEFORE",
-      "relativeTimeSeconds": -6277,
-      "startTimeSeconds": 1793025300,
-      "type": "CF"
     }
   ]
 }
