@@ -1,16 +1,10 @@
 {
-  "date": "2026-10-26",
-  "difficulty": "Medium",
-  "fetched_at": "2026-10-26T23:49:28.614876+00:00",
-  "id": "3619",
-  "slug": "count-islands-with-total-value-divisible-by-k",
-  "tags": [
-    "Array",
-    "Depth-First Search",
-    "Breadth-First Search",
-    "Union-Find",
-    "Matrix"
-  ],
-  "title": "Count Islands With Total Value Divisible by K",
-  "url": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/"
+  "date": "2026-10-27",
+  "difficulty": "Easy",
+  "fetched_at": "2026-10-27T04:56:19.211819+00:00",
+  "id": "3963",
+  "slug": "create-grid-with-exactly-one-path",
+  "tags": [],
+  "title": "Create Grid With Exactly One Path",
+  "url": "https://leetcode.com/problems/create-grid-with-exactly-one-path/"
 }
