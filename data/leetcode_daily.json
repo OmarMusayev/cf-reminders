@@ -1,10 +1,15 @@
 {
-  "date": "2026-10-27",
-  "difficulty": "Easy",
-  "fetched_at": "2026-10-27T22:08:09.895183+00:00",
-  "id": "3963",
-  "slug": "create-grid-with-exactly-one-path",
-  "tags": [],
-  "title": "Create Grid With Exactly One Path",
-  "url": "https://leetcode.com/problems/create-grid-with-exactly-one-path/"
+  "date": "2026-10-28",
+  "difficulty": "Medium",
+  "fetched_at": "2026-10-28T01:16:18.104302+00:00",
+  "id": "3882",
+  "slug": "minimum-xor-path-in-a-grid",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Bit Manipulation",
+    "Matrix"
+  ],
+  "title": "Minimum XOR Path in a Grid",
+  "url": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/"
 }
