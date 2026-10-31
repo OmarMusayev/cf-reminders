@@ -1,15 +1,14 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "difficulty": "Medium",
-  "fetched_at": "2026-10-30T23:42:03.060138+00:00",
-  "id": "3970",
-  "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+  "fetched_at": "2026-10-31T05:29:58.464036+00:00",
+  "id": "3665",
+  "slug": "twisted-mirror-path-count",
   "tags": [
-    "String",
-    "Graph Theory",
-    "Heap (Priority Queue)",
-    "Shortest Path"
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
   ],
-  "title": "Shortest Path With At Most K Consecutive Identical Characters",
-  "url": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/"
+  "title": "Twisted Mirror Path Count",
+  "url": "https://leetcode.com/problems/twisted-mirror-path-count/"
 }
