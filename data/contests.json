@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T02:15:41.579228+00:00",
+  "fetched_at": "2026-11-04T12:01:40.099055+00:00",
   "upcoming": [
     {
       "durationSeconds": 9000,
@@ -7,7 +7,7 @@
       "id": 2282,
       "name": "Kotlin Heroes: Episode 15",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -2981995,
+      "relativeTimeSeconds": -2946811,
       "startTimeSeconds": 1796740500,
       "type": "ICPC"
     },
@@ -17,7 +17,7 @@
       "id": 2286,
       "name": "Kotlin Heroes: Practice 15",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -2376895,
+      "relativeTimeSeconds": -2341711,
       "startTimeSeconds": 1796135400,
       "type": "ICPC"
     },
@@ -27,7 +27,7 @@
       "id": 2287,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1513195,
+      "relativeTimeSeconds": -1478009,
       "startTimeSeconds": 1795271700,
       "type": "CF"
     },
@@ -37,7 +37,7 @@
       "id": 2288,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1513195,
+      "relativeTimeSeconds": -1478011,
       "startTimeSeconds": 1795271700,
       "type": "CF"
     },
@@ -47,7 +47,7 @@
       "id": 2285,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -994795,
+      "relativeTimeSeconds": -959609,
       "startTimeSeconds": 1794753300,
       "type": "CF"
     },
@@ -57,7 +57,7 @@
       "id": 2279,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -303595,
+      "relativeTimeSeconds": -268409,
       "startTimeSeconds": 1794062100,
       "type": "CF"
     },
@@ -67,7 +67,7 @@
       "id": 2280,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -303595,
+      "relativeTimeSeconds": -268411,
       "startTimeSeconds": 1794062100,
       "type": "CF"
     },
@@ -77,7 +77,7 @@
       "id": 2284,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -217195,
+      "relativeTimeSeconds": -182009,
       "startTimeSeconds": 1793975700,
       "type": "CF"
     },
@@ -87,7 +87,7 @@
       "id": 2283,
       "name": "Educational Codeforces Round 196 (Rated for Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -44397,
+      "relativeTimeSeconds": -9210,
       "startTimeSeconds": 1793802900,
       "type": "ICPC"
     }
