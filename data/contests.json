@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T08:41:45.785698+00:00",
+  "fetched_at": "2026-11-07T21:44:24.972888+00:00",
   "upcoming": [
     {
       "durationSeconds": 9000,
@@ -7,7 +7,7 @@
       "id": 2282,
       "name": "Kotlin Heroes: Episode 15",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -2699613,
+      "relativeTimeSeconds": -2652663,
       "startTimeSeconds": 1796740500,
       "type": "ICPC"
     },
@@ -17,7 +17,7 @@
       "id": 2286,
       "name": "Kotlin Heroes: Practice 15",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -2094513,
+      "relativeTimeSeconds": -2047563,
       "startTimeSeconds": 1796135400,
       "type": "ICPC"
     },
@@ -27,7 +27,7 @@
       "id": 2287,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1230813,
+      "relativeTimeSeconds": -1183863,
       "startTimeSeconds": 1795271700,
       "type": "CF"
     },
@@ -37,7 +37,7 @@
       "id": 2288,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1230813,
+      "relativeTimeSeconds": -1183863,
       "startTimeSeconds": 1795271700,
       "type": "CF"
     },
@@ -47,29 +47,19 @@
       "id": 2285,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -712413,
+      "relativeTimeSeconds": -665463,
       "startTimeSeconds": 1794753300,
       "type": "CF"
     },
     {
-      "durationSeconds": 9000,
+      "durationSeconds": 8100,
       "frozen": false,
-      "id": 2279,
-      "name": "Codeforces Round 1133 (Div. 1)",
+      "id": 2290,
+      "name": "Codeforces Round 1134 (Div. 4)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -21214,
-      "startTimeSeconds": 1794062100,
-      "type": "CF"
-    },
-    {
-      "durationSeconds": 9000,
-      "frozen": false,
-      "id": 2280,
-      "name": "Codeforces Round 1133 (Div. 2)",
-      "phase": "BEFORE",
-      "relativeTimeSeconds": -21214,
-      "startTimeSeconds": 1794062100,
-      "type": "CF"
+      "relativeTimeSeconds": -406263,
+      "startTimeSeconds": 1794494100,
+      "type": "ICPC"
     }
   ]
 }
