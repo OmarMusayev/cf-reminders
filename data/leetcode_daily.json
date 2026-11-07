@@ -1,15 +1,13 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "difficulty": "Medium",
-  "fetched_at": "2026-11-06T21:27:46.632852+00:00",
-  "id": "2747",
-  "slug": "count-zero-request-servers",
+  "fetched_at": "2026-11-07T01:52:05.230670+00:00",
+  "id": "1882",
+  "slug": "process-tasks-using-servers",
   "tags": [
     "Array",
-    "Hash Table",
-    "Sliding Window",
-    "Sorting"
+    "Heap (Priority Queue)"
   ],
-  "title": "Count Zero Request Servers",
-  "url": "https://leetcode.com/problems/count-zero-request-servers/"
+  "title": "Process Tasks Using Servers",
+  "url": "https://leetcode.com/problems/process-tasks-using-servers/"
 }
