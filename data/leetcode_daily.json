@@ -1,15 +1,13 @@
 {
-  "date": "2026-11-09",
-  "difficulty": "Hard",
-  "fetched_at": "2026-11-09T20:40:30.000623+00:00",
-  "id": "1606",
-  "slug": "find-servers-that-handled-most-number-of-requests",
+  "date": "2026-11-10",
+  "difficulty": "Medium",
+  "fetched_at": "2026-11-10T04:03:42.530110+00:00",
+  "id": "3693",
+  "slug": "climbing-stairs-ii",
   "tags": [
     "Array",
-    "Heap (Priority Queue)",
-    "Simulation",
-    "Ordered Set"
+    "Dynamic Programming"
   ],
-  "title": "Find Servers That Handled Most Number of Requests",
-  "url": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/"
+  "title": "Climbing Stairs II",
+  "url": "https://leetcode.com/problems/climbing-stairs-ii/"
 }
