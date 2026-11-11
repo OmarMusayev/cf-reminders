@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "difficulty": "Medium",
-  "fetched_at": "2026-11-10T20:46:59.838521+00:00",
-  "id": "3693",
-  "slug": "climbing-stairs-ii",
+  "fetched_at": "2026-11-11T01:54:07.129802+00:00",
+  "id": "3789",
+  "slug": "minimum-cost-to-acquire-required-items",
   "tags": [
-    "Array",
-    "Dynamic Programming"
+    "Math",
+    "Greedy"
   ],
-  "title": "Climbing Stairs II",
-  "url": "https://leetcode.com/problems/climbing-stairs-ii/"
+  "title": "Minimum Cost to Acquire Required Items",
+  "url": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/"
 }
