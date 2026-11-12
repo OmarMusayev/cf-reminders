@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-11",
-  "difficulty": "Medium",
-  "fetched_at": "2026-11-11T17:51:23.521923+00:00",
-  "id": "3789",
-  "slug": "minimum-cost-to-acquire-required-items",
+  "date": "2026-11-12",
+  "difficulty": "Easy",
+  "fetched_at": "2026-11-12T00:34:47.030438+00:00",
+  "id": "3105",
+  "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
   "tags": [
-    "Math",
-    "Greedy"
+    "Array"
   ],
-  "title": "Minimum Cost to Acquire Required Items",
-  "url": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/"
+  "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+  "url": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/"
 }
