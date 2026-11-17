@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-16T20:22:45.172419+00:00",
+  "fetched_at": "2026-11-17T04:26:39.741584+00:00",
   "upcoming": [
     {
       "durationSeconds": 9000,
@@ -7,7 +7,7 @@
       "id": 2282,
       "name": "Kotlin Heroes: Episode 15",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1879953,
+      "relativeTimeSeconds": -1850944,
       "startTimeSeconds": 1796740500,
       "type": "ICPC"
     },
@@ -17,7 +17,7 @@
       "id": 2286,
       "name": "Kotlin Heroes: Practice 15",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1274853,
+      "relativeTimeSeconds": -1245844,
       "startTimeSeconds": 1796135400,
       "type": "ICPC"
     },
@@ -27,7 +27,7 @@
       "id": 2289,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -477753,
+      "relativeTimeSeconds": -448744,
       "startTimeSeconds": 1795338300,
       "type": "CF"
     },
@@ -37,7 +37,7 @@
       "id": 2287,
       "name": "Codeforces Round (Div. 1)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -411154,
+      "relativeTimeSeconds": -382144,
       "startTimeSeconds": 1795271700,
       "type": "CF"
     },
@@ -47,7 +47,7 @@
       "id": 2288,
       "name": "Codeforces Round (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -411153,
+      "relativeTimeSeconds": -382144,
       "startTimeSeconds": 1795271700,
       "type": "CF"
     }

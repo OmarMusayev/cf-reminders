@@ -1,13 +1,14 @@
 {
-  "date": "2026-11-16",
-  "difficulty": "Easy",
-  "fetched_at": "2026-11-16T20:22:45.172419+00:00",
-  "id": "2243",
-  "slug": "calculate-digit-sum-of-a-string",
+  "date": "2026-11-17",
+  "difficulty": "Hard",
+  "fetched_at": "2026-11-17T04:26:39.741584+00:00",
+  "id": "2911",
+  "slug": "minimum-changes-to-make-k-semi-palindromes",
   "tags": [
+    "Two Pointers",
     "String",
-    "Simulation"
+    "Dynamic Programming"
   ],
-  "title": "Calculate Digit Sum of a String",
-  "url": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/"
+  "title": "Minimum Changes to Make K Semi-palindromes",
+  "url": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/"
 }
