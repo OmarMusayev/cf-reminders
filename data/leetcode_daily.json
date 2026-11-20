@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-19",
-  "difficulty": "Medium",
-  "fetched_at": "2026-11-19T18:59:04.743591+00:00",
-  "id": "2567",
-  "slug": "minimum-score-by-changing-two-elements",
+  "date": "2026-11-20",
+  "difficulty": "Hard",
+  "fetched_at": "2026-11-20T01:45:04.126747+00:00",
+  "id": "3041",
+  "slug": "maximize-consecutive-elements-in-an-array-after-modification",
   "tags": [
     "Array",
-    "Greedy",
+    "Dynamic Programming",
     "Sorting"
   ],
-  "title": "Minimum Score by Changing Two Elements",
-  "url": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/"
+  "title": "Maximize Consecutive Elements in an Array After Modification",
+  "url": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/"
 }
