@@ -1,14 +1,16 @@
 {
-  "date": "2026-11-20",
-  "difficulty": "Hard",
-  "fetched_at": "2026-11-20T18:33:58.925157+00:00",
-  "id": "3041",
-  "slug": "maximize-consecutive-elements-in-an-array-after-modification",
+  "date": "2026-11-21",
+  "difficulty": "Medium",
+  "fetched_at": "2026-11-21T01:26:33.862207+00:00",
+  "id": "3331",
+  "slug": "find-subtree-sizes-after-changes",
   "tags": [
     "Array",
-    "Dynamic Programming",
-    "Sorting"
+    "Hash Table",
+    "String",
+    "Tree",
+    "Depth-First Search"
   ],
-  "title": "Maximize Consecutive Elements in an Array After Modification",
-  "url": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/"
+  "title": "Find Subtree Sizes After Changes",
+  "url": "https://leetcode.com/problems/find-subtree-sizes-after-changes/"
 }
