@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T16:12:46.946471+00:00",
+  "fetched_at": "2026-11-22T21:45:34.762820+00:00",
   "upcoming": [
     {
       "durationSeconds": 9000,
@@ -7,7 +7,7 @@
       "id": 2282,
       "name": "Kotlin Heroes: Episode 15",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1376535,
+      "relativeTimeSeconds": -1356567,
       "startTimeSeconds": 1796740500,
       "type": "ICPC"
     },
@@ -17,7 +17,7 @@
       "id": 2291,
       "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1363635,
+      "relativeTimeSeconds": -1343667,
       "startTimeSeconds": 1796727600,
       "type": "IOI"
     },
@@ -27,7 +27,7 @@
       "id": 2286,
       "name": "Kotlin Heroes: Practice 15",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -771436,
+      "relativeTimeSeconds": -751468,
       "startTimeSeconds": 1796135400,
       "type": "ICPC"
     }
