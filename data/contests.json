@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T23:08:00.428922+00:00",
+  "fetched_at": "2026-11-22T06:37:19.021435+00:00",
   "upcoming": [
     {
       "durationSeconds": 9000,
@@ -7,7 +7,7 @@
       "id": 2282,
       "name": "Kotlin Heroes: Episode 15",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1438072,
+      "relativeTimeSeconds": -1411079,
       "startTimeSeconds": 1796740500,
       "type": "ICPC"
     },
@@ -17,7 +17,7 @@
       "id": 2291,
       "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -1425172,
+      "relativeTimeSeconds": -1398179,
       "startTimeSeconds": 1796727600,
       "type": "IOI"
     },
@@ -27,7 +27,7 @@
       "id": 2286,
       "name": "Kotlin Heroes: Practice 15",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -832972,
+      "relativeTimeSeconds": -805979,
       "startTimeSeconds": 1796135400,
       "type": "ICPC"
     },
@@ -37,7 +37,7 @@
       "id": 2289,
       "name": "Codeforces Round 1137 (Div. 2)",
       "phase": "BEFORE",
-      "relativeTimeSeconds": -35873,
+      "relativeTimeSeconds": -8879,
       "startTimeSeconds": 1795338300,
       "type": "CF"
     }
