@@ -1,12 +1,16 @@
 {
-  "date": "2026-11-22",
-  "difficulty": "Easy",
-  "fetched_at": "2026-11-22T21:45:34.762820+00:00",
-  "id": "2124",
-  "slug": "check-if-all-as-appears-before-all-bs",
+  "date": "2026-11-23",
+  "difficulty": "Medium",
+  "fetched_at": "2026-11-23T02:40:25.297487+00:00",
+  "id": "1352",
+  "slug": "product-of-the-last-k-numbers",
   "tags": [
-    "String"
+    "Array",
+    "Math",
+    "Design",
+    "Data Stream",
+    "Prefix Sum"
   ],
-  "title": "Check if All A's Appears Before All B's",
-  "url": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/"
+  "title": "Product of the Last K Numbers",
+  "url": "https://leetcode.com/problems/product-of-the-last-k-numbers/"
 }
