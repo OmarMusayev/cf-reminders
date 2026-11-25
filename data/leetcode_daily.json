@@ -1,16 +1,17 @@
 {
-  "date": "2026-11-24",
-  "difficulty": "Easy",
-  "fetched_at": "2026-11-24T14:46:35.641759+00:00",
-  "id": "3411",
-  "slug": "maximum-subarray-with-equal-products",
+  "date": "2026-11-25",
+  "difficulty": "Hard",
+  "fetched_at": "2026-11-25T00:36:46.183155+00:00",
+  "id": "3934",
+  "slug": "smallest-unique-subarray",
   "tags": [
     "Array",
-    "Math",
-    "Sliding Window",
-    "Enumeration",
-    "Number Theory"
+    "Hash Table",
+    "Binary Search",
+    "Rolling Hash",
+    "Suffix Array",
+    "Hash Function"
   ],
-  "title": "Maximum Subarray With Equal Products",
-  "url": "https://leetcode.com/problems/maximum-subarray-with-equal-products/"
+  "title": "Smallest Unique Subarray",
+  "url": "https://leetcode.com/problems/smallest-unique-subarray/"
 }
