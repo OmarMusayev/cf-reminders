@@ -1,14 +1,15 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "difficulty": "Medium",
-  "fetched_at": "2026-11-27T19:26:19.795529+00:00",
-  "id": "3946",
-  "slug": "maximum-number-of-items-from-sale-i",
+  "fetched_at": "2026-11-28T02:38:46.855086+00:00",
+  "id": "3947",
+  "slug": "maximum-number-of-items-from-sale-ii",
   "tags": [
     "Array",
-    "Dynamic Programming",
-    "Greedy"
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
   ],
-  "title": "Maximum Number of Items From Sale I",
-  "url": "https://leetcode.com/problems/maximum-number-of-items-from-sale-i/"
+  "title": "Maximum Number of Items From Sale II",
+  "url": "https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/"
 }
